@@ -6,7 +6,7 @@ Sit down with the developer, open the design project, and write down the correct
 
 Sometime the design reviews may be frustrating because of the slow implementation of the past reviews, but it is crucial to keep on. Remember, there might be higher priority issues, and in the end, it’s all about collaboration.
 
-Afterwards, create a follow-up design review entry at [reviews.infinum.co](https://reviews.infinum.co/admin/design_reviews) and write down a few notes. 
+Afterwards, create a follow-up design review entry at 🗝 **[reviews.infinum.co](https://reviews.infinum.co/admin/design_reviews)** and write down a few notes. 
 
 The best way to do it is to:
 
@@ -17,10 +17,10 @@ The best way to do it is to:
 
 ## Latest build
 
-If you're reviewing a mobile app, check [Tryout apps](https://tryoutapps.com/users/sign_in) for the latest builds on iOS and Android.
+If you're reviewing a mobile app, check 🗝 **[Tryout apps](https://tryoutapps.com/users/sign_in)** for the latest builds on iOS and Android.
 
 
 ## Test devices
 We currently have two test phones dedicated to our team - one iOS and one Android device. The QA team has a bunch more test devices, so it's always best to check with them first. Don't forget to leave your business card in place of the phone when you borrow it!
 
-We're working a lot more remotely, so you'll need to check implementation from time to time even if you don't have physical devices on hand. That's where [BrowserStack](https://app-live.browserstack.com) comes in - its an emulator of a lot of different platforms, desktop and mobile devices where you can load app files to test them out. The credentials are in 1Password.
+We're working a lot more remotely, so you'll need to check implementation from time to time even if you don't have physical devices on hand. That's where **[BrowserStack](https://app-live.browserstack.com)** comes in - its an emulator of a lot of different platforms, desktop and mobile devices where you can load app files to test them out. The credentials are in 1Password.
