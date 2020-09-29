@@ -21,5 +21,3 @@ We use design sprints for:
 - redesign of a mobile or web app
 
 As well as it's important to set the project in the right direction, a sprint also creates a valuable friendly bond in the team.
-
-You can find all the relevant details in 🗝 [this presentation](https://drive.google.com/file/d/15YMcpYcEA70kMoDTQcWRtCz3az-LHE2v/view?usp=sharing).
