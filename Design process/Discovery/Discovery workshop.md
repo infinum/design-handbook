@@ -77,4 +77,4 @@ Use our Remote Workshop Template Figma file to pick and choose excercise templat
 
 The main deliverable of a discovery workshop is the discovery report. The summary needs to include information and conclusions from the workshop, as well as the design process timeline and a list of MVP features.
 
-[Here are some great examples](https://drive.google.com/drive/u/1/folders/1AiNqGNOJbuZzsP2IM0uG1GppH4_OAafp) for future reference.
+🗝 [Here are some great examples](https://drive.google.com/drive/u/1/folders/1AiNqGNOJbuZzsP2IM0uG1GppH4_OAafp) for future reference.
