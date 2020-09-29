@@ -23,7 +23,3 @@ A standard web or app styleguide includes:
 You can find a styleguide template with all the necessary elements for your project in [our set of reusable templates](https://infinum.com/handbook/books/design/organization/a-set-of-reusable-templates).
 
 Always keep a styleguide and the components in the same file as the UI design unless you have organized a styleguide in the form of a Figma project library.
-
-Here is an example of a great styleguide: 
-
-<p align="center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F2pDIpcjvA3OkQZoWPoknZH%2F01-Repsly-Web-02-Library%3Fnode-id%3D2020%253A38&chrome=DOCUMENTATION" allowfullscreen></iframe></p>
