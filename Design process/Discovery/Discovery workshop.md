@@ -71,7 +71,7 @@ If the participants are in the time zones which are too far away from here (i.e.
 Without further ado, [here is everything you need to know](https://design.infinum.com/case/how-to-avoid-remote-workshop-burnout) about preparing and leading a remote workshop with clients.
 
 Use our Remote Workshop Template Figma file to pick and choose excercise templates that fit your agenda.
-<p align="center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdjT2s2cKOLUPuWvBQTEU58%2FRemote-workshop-template%3Fnode-id%3D363%253A0&chrome=DOCUMENTATION" allowfullscreen></iframe></a>
+<p align="center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdjT2s2cKOLUPuWvBQTEU58%2FRemote-workshop-template%3Fnode-id%3D365%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ## Discovery workshop report
 
