@@ -33,7 +33,7 @@ There are some guidelines we’ve found useful that might help you also.
 
 Don’t let features define your strategy. Why? Because next time you need to decide over one or the other feature, you won’t be able to use strategy as a rule of thumb. 
 
-Set strategy during the Discovery workshop or soon after it. Before you start building a flowchart or mapping the backend’s database, you’ll need to know what you’re making and why.
+Set strategy during the [Discovery workshop](https://infinum.com/handbook/books/design/design-process/discovery/discovery-workshop) or soon after it. Before you start building a flowchart or mapping the backend’s database, you’ll need to know what you’re making and why.
 
 **2. Think of it as an ad copy**
 
