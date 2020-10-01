@@ -17,8 +17,8 @@ UX strategy defines how the digital product will affect users’ thoughts, emoti
 UX strategy needs to understand the client’s business model and where its revenue comes from. These are the outcomes we want to facilitate. It needs to take into account the technical capabilities of both client and our team (i.e., budget). The strategy needs to be feasible. Finally, it combines user research data and consumer psychology to create glue between business goals and technology.
 
 `Business needs + tech capabilities + user psychology` 
-`=`
-`UX strategy`
+
+`= UX strategy`
 
 What’s a good UX strategy? One that guides visual design, interaction design, and content creation for a digital product. 
 You should be able to give a clear yes-no answer to the question, “Is my design of this screen or feature in line with the strategy?” If you can’t, the strategy is defined too vaguely.
