@@ -49,7 +49,7 @@ Find new opportunities to delight users or alleviate some other pain points. Or 
 
 Here are a few examples of UX strategies we’ve defined and executed for our clients.
 
-### mojaRBA: Customer needs first, not banks. 
+### mojaRBA: User needs left, right and centre. 
 
 ![](/img/ux-strategy-rba.jpg)
 
