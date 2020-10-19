@@ -80,7 +80,7 @@ There are many methods you can use to get close to the target audience. It is es
 - usability testing
 - participative design workshops
 
-You can find more details about each method in [this presentation](https://drive.google.com/file/d/1JynfjFxsuIiz0MRIKXhiGYJ7Ii3fmfsw/view?usp=sharing).
+You can find more details about each method in 🗝 [this presentation](https://drive.google.com/file/d/1JynfjFxsuIiz0MRIKXhiGYJ7Ii3fmfsw/view?usp=sharing).
 
 
 ## Stakeholder interviews
