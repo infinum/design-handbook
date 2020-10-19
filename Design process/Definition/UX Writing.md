@@ -30,7 +30,6 @@ After the product’s launch, the UX writer is not done. When new features and s
 
 Tone and voice define how a digital product talks about topics of interest and how it addresses users. Think about how your mobile banking “talks” differently than Spotify or Wolt. 
 
-Tone and voice define how a digital product talks about topics of interest and how it addresses users. Think about how your mobile banking “talks” differently than Spotify or Wolt. 
 Usually, we use [Nielsen Norman’s framework](https://www.nngroup.com/articles/tone-of-voice-dimensions/#:~:text=Summary%3A%20A%20website's%20tone%20of,formality%2C%20respectfulness%2C%20and%20enthusiasm.) of digital tone and voice. It’s backed by research, and with four main dimensions, it’s easy to understand and define. The tone and voice become part of the client’s brand book, making it easier to have consistent digital communication on all channels.
 
 ![](/img/designprocess-uxwriting-2.jpg)
