@@ -66,3 +66,12 @@ Users have come to a video streaming platform to watch scientific lectures and l
 - Doesn’t label people - *Are you from China vs. Visiting from Mainland China*
 - Says it’s the system’s fault, not users - *can’t see this video vs. video isn’t starting*
 - Explains what happens next - *click here vs. switch streaming source*
+
+### 📙 Case 2
+
+Users are using this app to connect with potential customers and business partners. Our client provides this networking feature to paying users, while guest users can only see basic info about other people.
+
+> To use the Networking feature, log in to your account. Buy your pass on our site. → Don’t miss out on opportunities: only users with official accounts see the full list. Get your account here.
+
+- Talks about the benefit, not feature: *use the Networking feature vs. Don’t miss out on opportunities*
+- Shows exclusivity: *none vs. only users with official accounts*
