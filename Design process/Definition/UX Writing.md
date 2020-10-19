@@ -57,12 +57,10 @@ First, let’s start with something we’ve done for [Productive](https://www.pr
 Now, let’s explore some examples of copy for two of our clients. Here you’ll see the state “before” and “after.” “Before” was our first draft of the text, and then we iterated on it, trying to hit the right tone and voice and achieve business goals.
 
 
-📗 **Context: Users have come to a video streaming platform to watch scientific lectures and live panels. In some cases, the video doesn’t load properly for users from mainland China. They can switch to alternative servers, but that’s more costly to our client.**
+📗 **Context:** Users have come to a video streaming platform to watch scientific lectures and live panels. In some cases, the video doesn’t load properly for users from mainland China. They can switch to alternative servers, but that’s more costly to our client.
 
 > Are you from China and can’t see this video? Click here. → Visiting from Mainland China and video isn’t starting? Switch streaming source.
 
-Doesn’t label people - *Are you from China vs. Visiting from Mainland China*
-
-Says it’s the system’s fault, not users - *can’t see this video vs. video isn’t starting*
-
-Explains what happens next - *click here vs. switch streaming source*
+- Doesn’t label people - *Are you from China vs. Visiting from Mainland China*
+- Says it’s the system’s fault, not users - *can’t see this video vs. video isn’t starting*
+- Explains what happens next - *click here vs. switch streaming source*
