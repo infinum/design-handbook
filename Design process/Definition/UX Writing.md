@@ -16,6 +16,8 @@ Knowing both users, product, and the client doesn’t happen overnight. In most 
 
 Usually, the next step is [creating black and white wireframes](https://infinum.com/handbook/books/design/design-process/definition/wireframes). UX writer creates copy for these screens, and this is the first road-test of tone and voice. Writing the copy this early in design aligns both design and client’s team around the final product’s look and feel. 
 
+![](/img/designprocess-uxwriting-1.jpg)
+
 We use wireframes for [usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). That's how we get authentic feedback to copy from real-life users and catch any problem early on, saving our clients time and money. Using this feedback, we make final tweaks and [finish the whole UI](https://infinum.com/handbook/books/design/design-process/definition/ui-design).
 
 An example of user feedback to our copy. We aimed for a slightly enthusiastic and neutral on funny - serious dimension. It seems we got it right.
