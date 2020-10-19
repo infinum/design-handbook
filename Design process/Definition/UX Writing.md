@@ -28,3 +28,30 @@ Tone and voice define how a digital product talks about topics of interest and h
 
 Tone and voice define how a digital product talks about topics of interest and how it addresses users. Think about how your mobile banking “talks” differently than Spotify or Wolt. 
 Usually, we use [Nielsen Norman’s framework](https://www.nngroup.com/articles/tone-of-voice-dimensions/#:~:text=Summary%3A%20A%20website's%20tone%20of,formality%2C%20respectfulness%2C%20and%20enthusiasm.) of digital tone and voice. It’s backed by research, and with four main dimensions, it’s easy to understand and define. The tone and voice become part of the client’s brand book, making it easier to have consistent digital communication on all channels.
+
+
+**Funny vs. Serious:** Varies from a joke on every corner to no humor at all.
+
+**Casual vs. Formal:** Varies from very conversational and laid-back to something you would find in a 19th-century English novel.
+
+**Irreverent vs. Respectful:** The respectfulness of the approach to the topic, not the reader. Varies from seeing the topic as totally irrelevant to painting it as the most crucial thing in the world.
+
+**Enthusiastic vs. Matter-of-fact:** Varies from very hyped and showing both positive and negative emotions to the “cold hard facts only” approach.
+
+## We already have a name for this: copywriting?
+
+UX writing is an easy-going cousin of copywriting. Where copywriting tries to grab your attention, UX writing assumes it’s got it. Where copywriting is flashy and over the top, UX writing is helpful and doesn’t get in your way. Where copywriting tries to push you into something, UX writing removes the friction of you getting somewhere. 
+
+## Tips
+
+- Front-load your content: people scan each row’s beginning, so make sure the first words carry the most critical part of your message.
+- Give a reason why: explain to people why you are asking them to do something. Adding a “because” is very powerful; just [look at this research](https://www.inc.com/stacey-macnaught/the-single-word-that-could-make-you-instantly-more-persuasive.html).
+- Be a copycat: UX writing is not about being unique but being understood. If everyone is using one word to mean something, use it that way also.
+- No dead-ends: check all use cases, especially edge ones, and brainstorm with developers how you could keep users flowing instead of leaving them stuck.
+- Learn six persuasion principles: they’ll give your creativity a framework and make your writing more impactful. Start with [this video](https://www.youtube.com/watch?v=cFdCzN7RYbw&feature=emb_title). Still, there are a lot of similarities between them. Both try to be motivating and engaging; they try to create a positive brand experience and aim at being conversational to facilitate users’ understanding and emotional involvement.
+
+## UX writing in action
+
+First, let’s start with something we’ve done for [Productive](https://www.productive.io/), our sister company. When we did Tone and voice for them, we also set a few do and don’t examples. This was helpful in the first wave of writing copy for their app and helps their team keep communication consistent afterward.
+
+Now, let’s explore some examples of copy for two of our clients. Here you’ll see the state “before” and “after.” “Before” was our first draft of the text, and then we iterated on it, trying to hit the right tone and voice and achieve business goals.
