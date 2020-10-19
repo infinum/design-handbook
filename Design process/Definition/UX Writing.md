@@ -22,6 +22,8 @@ We use wireframes for [usability testing](https://infinum.com/handbook/books/des
 
 An example of user feedback to our copy. We aimed for a slightly enthusiastic and neutral on funny - serious dimension. It seems we got it right.
 
+![](/img/designprocess-uxwriting-2.jpg)
+
 After the product’s launch, the UX writer is not done. When new features and screens are added, they make sure the copy is consistent with previous screens while still doing its job, e.g., getting people to sign up for a free trial.
 
 ## Tone and voice
@@ -31,6 +33,7 @@ Tone and voice define how a digital product talks about topics of interest and h
 Tone and voice define how a digital product talks about topics of interest and how it addresses users. Think about how your mobile banking “talks” differently than Spotify or Wolt. 
 Usually, we use [Nielsen Norman’s framework](https://www.nngroup.com/articles/tone-of-voice-dimensions/#:~:text=Summary%3A%20A%20website's%20tone%20of,formality%2C%20respectfulness%2C%20and%20enthusiasm.) of digital tone and voice. It’s backed by research, and with four main dimensions, it’s easy to understand and define. The tone and voice become part of the client’s brand book, making it easier to have consistent digital communication on all channels.
 
+![](/img/designprocess-uxwriting-3.jpg)
 
 **Funny vs. Serious:** Varies from a joke on every corner to no humor at all.
 
@@ -55,6 +58,8 @@ UX writing is an easy-going cousin of copywriting. Where copywriting tries to gr
 ## UX writing in action
 
 First, let’s start with something we’ve done for [Productive](https://www.productive.io/), our sister company. When we did Tone and voice for them, we also set a few do and don’t examples. This was helpful in the first wave of writing copy for their app and helps their team keep communication consistent afterward.
+
+![](/img/designprocess-uxwriting-4.jpg)
 
 Now, let’s explore some examples of copy for two of our clients. Here you’ll see the state “before” and “after.” “Before” was our first draft of the text, and then we iterated on it, trying to hit the right tone and voice and achieve business goals.
 
