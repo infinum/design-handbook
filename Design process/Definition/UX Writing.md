@@ -44,14 +44,25 @@ UX writing is an easy-going cousin of copywriting. Where copywriting tries to gr
 
 ## Tips
 
-- Front-load your content: people scan each row’s beginning, so make sure the first words carry the most critical part of your message.
-- Give a reason why: explain to people why you are asking them to do something. Adding a “because” is very powerful; just [look at this research](https://www.inc.com/stacey-macnaught/the-single-word-that-could-make-you-instantly-more-persuasive.html).
-- Be a copycat: UX writing is not about being unique but being understood. If everyone is using one word to mean something, use it that way also.
-- No dead-ends: check all use cases, especially edge ones, and brainstorm with developers how you could keep users flowing instead of leaving them stuck.
-- Learn six persuasion principles: they’ll give your creativity a framework and make your writing more impactful. Start with [this video](https://www.youtube.com/watch?v=cFdCzN7RYbw&feature=emb_title). Still, there are a lot of similarities between them. Both try to be motivating and engaging; they try to create a positive brand experience and aim at being conversational to facilitate users’ understanding and emotional involvement.
+- **Front-load your content:** people scan each row’s beginning, so make sure the first words carry the most critical part of your message.
+- **Give a reason why:** explain to people why you are asking them to do something. Adding a “because” is very powerful; just [look at this research](https://www.inc.com/stacey-macnaught/the-single-word-that-could-make-you-instantly-more-persuasive.html).
+- **Be a copycat:** UX writing is not about being unique but being understood. If everyone is using one word to mean something, use it that way also.
+- **No dead-ends:** check all use cases, especially edge ones, and brainstorm with developers how you could keep users flowing instead of leaving them stuck.
+- **Learn six persuasion principles:** they’ll give your creativity a framework and make your writing more impactful. Start with [this video](https://www.youtube.com/watch?v=cFdCzN7RYbw&feature=emb_title). Still, there are a lot of similarities between them. Both try to be motivating and engaging; they try to create a positive brand experience and aim at being conversational to facilitate users’ understanding and emotional involvement.
 
 ## UX writing in action
 
 First, let’s start with something we’ve done for [Productive](https://www.productive.io/), our sister company. When we did Tone and voice for them, we also set a few do and don’t examples. This was helpful in the first wave of writing copy for their app and helps their team keep communication consistent afterward.
 
 Now, let’s explore some examples of copy for two of our clients. Here you’ll see the state “before” and “after.” “Before” was our first draft of the text, and then we iterated on it, trying to hit the right tone and voice and achieve business goals.
+
+
+📗 **Context: Users have come to a video streaming platform to watch scientific lectures and live panels. In some cases, the video doesn’t load properly for users from mainland China. They can switch to alternative servers, but that’s more costly to our client.**
+
+> Are you from China and can’t see this video? Click here. → Visiting from Mainland China and video isn’t starting? Switch streaming source.
+
+Doesn’t label people - *Are you from China vs. Visiting from Mainland China*
+
+Says it’s the system’s fault, not users - *can’t see this video vs. video isn’t starting*
+
+Explains what happens next - *click here vs. switch streaming source*
