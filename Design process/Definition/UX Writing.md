@@ -46,13 +46,15 @@ Usually, we use [Nielsen Norman’s framework](https://www.nngroup.com/articles/
 
 UX writing is an easy-going cousin of copywriting. Where copywriting tries to grab your attention, UX writing assumes it’s got it. Where copywriting is flashy and over the top, UX writing is helpful and doesn’t get in your way. Where copywriting tries to push you into something, UX writing removes the friction of you getting somewhere. 
 
+Still, there are a lot of similarities between them. Both try to be motivating and engaging; they try to create a positive brand experience and aim at being conversational to facilitate users’ (or readers’) understanding and emotional involvement.
+
 ## Tips
 
 - **Front-load your content:** people scan each row’s beginning, so make sure the first words carry the most critical part of your message.
 - **Give a reason why:** explain to people why you are asking them to do something. Adding a “because” is very powerful; just [look at this research](https://www.inc.com/stacey-macnaught/the-single-word-that-could-make-you-instantly-more-persuasive.html).
 - **Be a copycat:** UX writing is not about being unique but being understood. If everyone is using one word to mean something, use it that way also.
 - **No dead-ends:** check all use cases, especially edge ones, and brainstorm with developers how you could keep users flowing instead of leaving them stuck.
-- **Learn six persuasion principles:** they’ll give your creativity a framework and make your writing more impactful. Start with [this video](https://www.youtube.com/watch?v=cFdCzN7RYbw&feature=emb_title). Still, there are a lot of similarities between them. Both try to be motivating and engaging; they try to create a positive brand experience and aim at being conversational to facilitate users’ understanding and emotional involvement.
+- **Learn six persuasion principles:** they’ll give your creativity a framework and make your writing more impactful. Start with [this video](https://www.youtube.com/watch?v=cFdCzN7RYbw&feature=emb_title).
 
 ## UX writing in action
 
