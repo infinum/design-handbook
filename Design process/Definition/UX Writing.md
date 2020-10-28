@@ -83,3 +83,7 @@ Users are using this app to connect with potential customers and business partne
 
 - Talks about the benefit, not feature: *use the Networking feature vs. Don’t miss out on opportunities*
 - Shows exclusivity: *none vs. only users with official accounts*
+
+## 📚 Recommended reading
+
+- [The most important part of your design is actually the text](https://blog.dittowords.com/the-most-important-part-of-your-design-is-actually-the-text=
