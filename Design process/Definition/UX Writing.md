@@ -86,4 +86,4 @@ Users are using this app to connect with potential customers and business partne
 
 ## 📚 Recommended reading
 
-- [The most important part of your design is actually the text](https://blog.dittowords.com/the-most-important-part-of-your-design-is-actually-the-text=
+- [The most important part of your design is actually the text](https://blog.dittowords.com/the-most-important-part-of-your-design-is-actually-the-text)
