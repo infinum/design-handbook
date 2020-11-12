@@ -5,14 +5,15 @@ Usability is the ability to use a product with ease. When we talk about usabilit
 
 Usability testing is a direct way of seeing how users interact with our product.
 
-In a usability testing, we show the product to one user at a time (whether it’s a mobile application or prototype of a mobile app) and we ask them to:
+In a usability testing, we show the a clickable prototype to one user at a time (whether it's a mobile or web app) and we ask them to:
 
 a. figure out what it is <br>
-b. try to use the prototype to do a typical task.
+b. try to use the prototype to do a typical task <br>
+c. find some critical information.
 
 Usability Testing is crucial because it can help us to learn about whether we designed our application based on our user's behaviours and expectations, and we can get many ideas for improving the design. We usually perform “task testing” — we ask the user to do complete a task, and then we observe how well they do.
 
-If it’s the first time you’re running a usability testing, don’t hesitate to ask a more experienced colleague for advice, help or quick walkthrough.
+If it’s the first time you’re running a usability testing, don’t hesitate to **ask a more experienced colleague for advice**, help or quick walkthrough.
 
 For each usability testing, we need at least two persons to set everything up:
 
@@ -39,19 +40,20 @@ The following paragraphs will guide you through each of these phases.
 
 ## 1. Setting up
 
-Organization of a usability testing depends on many factors (the number of participants, hosting location, etc.). Usually, there are two options: 
+Organization of a usability testing depends on many factors (the number of participants, hosting location, etc.). There are three usual options: 
 
 1. **Infinum** will find users and host the testing
 2. **The client** will find users and host the testing
+3. **Remote testing**, with both us and client engaged in finding and hosting the testing
 
-In case Infinum needs to find users, please consult with a colleague who has already done this before.
-
-However, the most common use case is — the client will find users and host the testing. Here is the breakdown of the necessary steps:
+There are some essential steps that don't differ from one setup to another. We'll explain the differences as we come by them.
 
 
 1. Send 🗝 [**Statement of Consent and Confidentiality statement**](https://drive.google.com/open?id=1OzQrCEtUuzfynynlDKRyg5b5PMbdBDkv) documents to your project’s PM and the client to make sure if everything is okay from a legal standpoint.
-2. Make sure to tell the client early on who is recruiting participants and where the testing will take place. In this case, the client will take care of both.
-3. Go over the 🗝 [**document with requirements**](https://drive.google.com/open?id=1Y_MU8k9fB28ZmW251tuiz1whPV7NIVb2) with the client in person or on a call. Don’t forget to send the document in the followup mail. 
+
+2. Discuss with the client early on **who is recruiting participants** and where the testing will take place. One big point to discuss: how will participants be rewarded. Usually, it's a gift voucher or a some small gadget. Make sure client knows about this and budgets for rewards.
+
+3. Go over the 🗝 [**document with requirements**](https://drive.google.com/open?id=1Y_MU8k9fB28ZmW251tuiz1whPV7NIVb2) with the client in person or on a call. Don’t forget to send the document in the follow-up mail. 
 
 Here’s an example of a mail we send alongside the requirements doc:
 
@@ -86,11 +88,12 @@ Here’s an example of a mail we send alongside the requirements doc:
 > Your name
 
 
-4. Send the [**testing schedule table**](https://docs.google.com/spreadsheets/d/1Qe3JTMC-OTln9CbZJO5DycNsektAJVaoOzdG0r0jyRA/edit?usp=sharing) to the client. Keep in mind that each session takes about 60 min per person (40 min of interacting with the participant, 20 min for reviewing and preparing for the next participant). Keep a maximum of 5 participants per day. In case the testing is conducted remotely, or in a different country, keep time zones in mind when planning and scheduling. 
+4. Create a [**testing schedule table**](https://docs.google.com/spreadsheets/d/1Qe3JTMC-OTln9CbZJO5DycNsektAJVaoOzdG0r0jyRA/edit?usp=sharing). Depending on setup, it will be up to us or client to fill the timeslots. Keep each session about 60 min per person (40 min of interacting with the participant, 20 min for reviewing and preparing for the next participant). Five participants per day max. In case the testing is conducted remotely, or in a different country, keep time zones in mind when planning and scheduling. 
 
 
+5. **Recruit participants** using our 🗝[**testers database**](https://drive.google.com/drive/folders/1j1UbwKxepV7ob0wkXM6Vegtr7App44Lr?usp=sharing) or ask good people of Infinum at #infinum Slack channel if they happen to know someone who fits target audience. For each group of users have one back-up participant. When using testers database please consult with team leads or UX strategist.
     
-5. Prepare an 🗝 [**agenda**](https://drive.google.com/open?id=1rvcT8KHnBXLNHH8sgFlDrmshlCybZL20) for all testing sessions based on participant availability.
+6. Prepare an 🗝 [**agenda**](https://drive.google.com/open?id=1rvcT8KHnBXLNHH8sgFlDrmshlCybZL20) for all testing sessions based on participant availability.
 
 
     Here is an example agenda for one day:
@@ -108,26 +111,37 @@ Here’s an example of a mail we send alongside the requirements doc:
 ```
 
 
-6. **Define your goals** — Before preparing specific tasks for our users, we need to define what we want to achieve. We’re looking for answers to crucial questions about usability, findability, discoverability, or general pain points. Then we use this info during the next design phase or iteration. We should ask ourself questions like:
+7. **Define your goals** — Before preparing specific tasks for our users, we need to define what we want to achieve. We’re looking for answers to crucial questions about usability, findability, discoverability, or general pain points. Then we use this info during the next design phase or iteration. We should ask ourself questions like:
     - Are the users aware of the main app functionalities?
     - How can we make sure they understand the content correctly?
     - Can users use the main functionalities effortlessly?
     - What dilemmas did we run into while designing? How can we be sure users won’t run into the same issues?
     These goals will help you focus while preparing the tasks.
     
-7. **Prepare tasks** — After the client approved the agenda and after the responsibilities are assigned, the facilitator starts to prepare tasks and prototype(s). You should print tasks on individual cards. Participants should be given one task at a time and they should read the text out loud before performing the task. If the participant can't solve the task after a couple of minutes, suggest that they read the text out loud again. Be wary of the wording you're using on tasks; you don't want to give away the answer by mentioning the exact copy that is visible on the screen. 
-    The observer should have a list of all tasks with additional notes. These notes should specifically instruct them on what to look for while the user is completing a task. For a more in-depth study of this process, take a look at [**NNG’s guide**](https://www.nngroup.com/articles/task-scenarios-usability-testing/).
-7. Prepare [**task rating tables**](https://drive.google.com/drive/folders/1vCQEJyaTYtFupEq3pHisLsXrkUzHGqbq?usp=sharing). Task rating tables are used for measuring success on each task and to have an objective overview of pain points and room for improvement.
-8. Print out these documents:<br> 
+8. **Prepare tasks** — After the client approved the agenda and after the responsibilities are assigned, the facilitator starts to prepare tasks and prototype(s). Be wary of the wording you're using on tasks; you don't want to give away the answer by mentioning the exact copy that is visible on the screen.
+For a more in-depth study of this process, take a look at [**NNG’s guide**](https://www.nngroup.com/articles/task-scenarios-usability-testing/).
+*Live testing:* You should print tasks on individual cards. You'll be giving participants those cards one by one during the testing. The observer should have a list of all tasks with additional notes. These notes should specifically instruct them on what to look for while the user is completing a task.
+*Remote testing:* Keep all the tasks in one file so that both moderator and facilitator can keep up with users going through tasks. You'll upload these tasks in Maze, and also set expected user paths there. What's Maze? Glad you asked - here's a [whole chapter](https://infinum.com/handbook/books/design/tools/maze) about it with detailed instructions how to set it up. 
+    
+This is where live and remote usability testing diverge. Steps are similar, but to avoid confusion, we'll cover them seperately.
+
+*Live usability testing, either hosted by us or the client*
+    
+9. Prepare [**task rating tables**](https://drive.google.com/drive/folders/1vCQEJyaTYtFupEq3pHisLsXrkUzHGqbq?usp=sharing). Task rating tables are used for measuring success on each task and to have an objective overview of pain points and room for improvement.
+
+10. Print out these documents:<br> 
 <br> - Statement of Consent (equal to the number of participants),
 <br> - Confidentiality statement (NDA) (equal to the number of participants),
 <br> - Interviewer guides (1 copy),
 <br> - Tasks for participants (1 copy of each task),
 <br> - Tasks with additional notes for the observer (1 copy of each task),
 <br> - Task rating tables (equals the number of participants × number of tasks).
-9. Define mobile devices which you will user in the testing sessions. You can use new phones, but always check if Participate (from Lookback) and InVision support that specific phone and operating system. To be sure, don’t use the latest devices, because they maybe didn’t get to fix all bugs. Here’s a list of [compatible Android devices](https://help.lookback.io/troubleshooting/android-device-compatibility) for Lookback. Prepare 2 devices for each platform because the battery drains fast when you’re doing testings in a row. Assign who is responsible for charging the batteries before the sessions (usually the observer).
-10. Install [**Participate**](https://lookback.io/features/participate/) on the mobile phones.
-11. As a thank you for participants, we usually give out rewards (vouchers or cash). Make sure to check with the client who’s responsible for preparing these rewards.
+
+11. Define mobile devices which you will user in the testing sessions. You can use new phones, but always check if Participate (from Lookback) and InVision support that specific phone and operating system. To be sure, don’t use the latest devices, because they maybe didn’t get to fix all bugs. Here’s a list of [compatible Android devices](https://help.lookback.io/troubleshooting/android-device-compatibility) for Lookback. Prepare 2 devices for each platform because the battery drains fast when you’re doing testings in a row. Assign who is responsible for charging the batteries before the sessions (usually the observer).
+
+12. Install [**Participate**](https://lookback.io/features/participate/) on the mobile phones.
+
+13. As a thank you for participants, we usually give out rewards (vouchers or cash), so have them handy at the testing site.
 
 **Preparing the project on Lookback and testing device**
 
@@ -139,6 +153,20 @@ Here’s an example of a mail we send alongside the requirements doc:
     On Android - click more and “*Add to home screen*”
 6. The link should now be on the home screen and look like an app icon with InVision’s logo
 
+
+*Remote usability testing*
+
+9. Do the paperwork.
+
+Prepare digital versions of these documents, it's best to keep it all in one Google Drive:<br> 
+<br> - Interviewer guides,
+<br> - List of all tasks,
+<br> - Document for observer's notes (1 per each participant). Good practice: Each task and question on seperate page.
+
+Send documents to participants to sign. <br>
+<br> - Confidentiality statement (NDA),
+<br> - Statement of Consent.
+Ping HR for this. We use 
 
 
 ## 2. Conducting usability testing
