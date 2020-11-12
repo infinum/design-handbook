@@ -1,6 +1,17 @@
-[Maze](https://maze.design/) is a user testing platform that turns your prototype into actionable insights from real users. It allows you to create missions and questions to see how the users react to your app. After the testing, you get a UX report based on the data you’ve collected.
+## Overview of Maze
 
-Maze works with prototypes for desktop, mobile or tablet apps. Thanks to link sharing you can view the tests in any browser and on any device. You can import the prototypes from Figma, Invision, Marvel or Sketch. When the testing is complete, you’ll get a CVS export and a link to an online report where you can view all the analytics.
+[Maze](https://maze.design/) is one of your tools for [conducting usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). It's a user testing platform that uses your clickable prototype to get actionable insights from real users. 
+
+Maze works with **prototypes for desktop, mobile or tablet apps**. You can import the prototypes from Figma, Invision, Marvel or Sketch, by copying the URL of the prototype. Then you create missions (tasks) and pose questions to see how the users react to your product.
+
+<br>After the testing, you get a UX report based on the participants behavior within the prototype and the answers they've given. You can choose: if you like looking at spreadsheets you can get .csv file with results; if you like vibrantly **visualised and interactive results**, you can click on report Maze has prepared for you.
+
+Creating a Maze is a mid-game move. You'll first have to cover the foundations of [usabiltiy testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing) by doing these three:
+<br>1. Defining research goals and checking with the client if they're ok with it
+<br>2. Defining user tasks that would allow you to achieve research goals
+<br>3. Preparing a Figma prototype that lets you do 1. and 2.
+
+For 1. and 2. please read chapter about [usabiltiy testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). Wow, this a third time we're mentioning this "usability testing" thing, it must be important, right? In case you missed previous three links, here's [another LINK](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). Maze will make much more sense if you understand what's it for.
 
 You can do Maze testing in six main steps:
 
