@@ -205,7 +205,9 @@ We do test runs to notice smaller issues and any improvements we can make before
 ### The session
 
 <br>1. In the beginning, make sure the user feels comfortable and calm. Be friendly, so the user feels relaxed, but not too friendly because we need to get objective answers and opinions from them. In the true Balkan manner, offer them some juice and snacks.
+
 <br>2. Next, we use a script with [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing) to conduct usability testing, and always keep the text in front of you. Don’t hesitate to read from it, but it’s ok to ad-lib a little, even if it means making mistakes. When the users see that you are comfortable making mistakes, it helps take the pressure off them.
+
 <br>3. You have to make it clear before you start that nothing we do or say is personal, and they can always ask questions. It's helpful to tell them that sometimes giving the answers too soon will affect the testing, and you will wait until the end of the session to answer their questions. It’s important to mention this because it will seem rude not to answer their questions as you go along. If you want honest answers, it can be useful to point out you did not work on this project (whether that’s true or not) and that you are just overseeing the testing.
 
 As with preparation, this is where live and remote testing diverge. First, we'll cover live than remote testing.
@@ -235,9 +237,13 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 #### Remote testing
 
 <br>4. Double-check if the participant has signed recording consent and NDA. If they did, turn on the recording of the session.
-<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), tell the participant to open the Maze link. Tell them to follow the instructions and **think out loud** as they go through the tasks. If participant's a bit quiet, it's ok to ask questions like “What are you thinking?” or “What do you think…”. Try not to start a conversation, but just to remind them to think out loud. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings. 
+
+<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), tell the participant to open the Maze link. Tell them to follow the instructions and **think out loud** as they go through the tasks. If participant's a bit quiet, it's ok to ask questions like “What are you thinking?” or “What do you think…”. Try not to start a conversation, but just to remind them to think out loud. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings.
+
 <br>6. Ask participants **not to refresh their browser** or go back in browser's navigation. This might affect Maze's tracking of their behavior.
+
 <br>7. When users finish the Maze (they'll get "Thank you" screen), ask them follow-up questions.
+
 <br>8. Tell users how they'll get their reward, e.g., you'll send voucher code via email.
 
 ## 3. Analysis
@@ -246,12 +252,12 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 
 When you got all the data, go through the rating table or Maze's report and the observer's notes and video recordings. 
 <br>Build your report around these:
-<br>1. Percentage of success for each task,
-<br>2. Ease of use for each task,
-<br>3. Pain points from your notes of participants thinking out loud,
-<br>4. First thing participants taped or clicked on for each task,
-<br>5. General appeal of the app to participants,
-<br>6. Improvement suggestions based either on participants' direct ideas or your analysis of all of the above.
+<br>1. *Percentage of success* for each task,
+<br>2. *Ease of use* for each task,
+<br>3. *Pain points* from your notes of participants thinking out loud,
+<br>4. *First clicks or taps* for each task,
+<br>5. *General appeal* of the app to participants,
+<br>6. *Improvement suggestions* based either on participants' direct ideas or your analysis of all of the above.
 
 You can write your report as Pages/Word document or as a presentation document. You can find both templates 🗝 [in this folder](https://drive.google.com/drive/folders/1GWjGGeO1wGoNCflg0vMxuHP4_6YdA2wU?usp=sharing). If you follow these templates' structure, you won't miss any significant part of the report, such as describing participants.
 
