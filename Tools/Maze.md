@@ -7,30 +7,46 @@ Maze works with **prototypes for desktop, mobile or tablet apps**. You can impor
 <br>After the testing, you get a UX report based on the participants behavior within the prototype and the answers they've given. You can choose: if you like looking at spreadsheets you can get .csv file with results; if you like vibrantly **visualised and interactive results**, you can click on report Maze has prepared for you.
 
 Creating a Maze is a mid-game move. You'll first have to cover the foundations of [usabiltiy testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing) by doing these three:
-<br>1. Defining research goals and checking with the client if they're ok with it
-<br>2. Defining user tasks that would allow you to achieve research goals
-<br>3. Preparing a Figma prototype that lets you do 1. and 2.
+<br>1. Defining **research goals** and checking with the client if they're ok with it
+<br>2. Defining **user tasks** that would allow you to achieve research goals
+<br>3. Preparing a **Figma prototype** that lets you do 1. and 2.
 
 For 1. and 2. please read chapter about [usabiltiy testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). Wow, this a third time we're mentioning this "usability testing" thing, it must be important, right? In case you missed previous three links, here's [another LINK](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). Maze will make much more sense if you understand what's it for.
 
-You can do Maze testing in six main steps:
+## Preparing Figma prototype
 
-1. Building a prototype
-2. Drafting the test plan
-3. Recruiting test participants
-4. Performing the test
-5. Documenting the results
-6. Correcting issues
+### Build prototype in a fresh Figma file
+Big Figma file means slow loading time of your Maze. In extreme cases, it might cause your Maze to crash. The reason? Maze loads up all the viusals in the file regardless of whether they're in protoype or not.
+
+### Untangle different tasks' flows
+Trust us on this: If you have two or more intersecting flows, participants will find it and cross to the part of the product you didn't want them to see yet. In Maze there's no "Restart task" button, so if participants got stuck somewhere and can't get back to current task's flow -- they are stuck and can't get back to current task's flow. They'll need to give up on that task.
+<br>How to tackle that? Seperate flows in prototype. If it's neccessary, make three homepages, each for different flow/task. Maze let's you set a different starting screen for each task so participants won't know that you got three homepages.
+
+### Add hints
+You're not testing users' recall of tasks instructions, but whether or not they can perform these tasks. On some screens it might make sense to give participatns a little hint about what they're supposed to choose among different options. Make your hints distinct so that users to confuse them for part of UI.
+
+### Keep it real
+Most participants won't notice your designs aren't pixel-perfect, but they'll notice illogical amounts, names, and changes from screen to screen. People get fixated on these things, which makes their feedback less useful. Try to check these three boxes:
+- **Consistent information on all screens (names, phone numbers, payment amounts, language, etc.),**
+- Realistic information the real user would have (don’t put just one obvious item or too many options to choose from in a screen),
+- Working links for most of the buttons that are usually clickable.
+
+## Setting up your Maze
+
+### Import your prototype
+You'll need to create a new project. If we've reached the limit of active projects, ping colleagues in #maze Slack channel, and check which projects can be archived. It's hard to miss the input box where you should copy/paste your protoype's link. It will take Maze a few moments to load everything app and you're ready to roll.
+
+![](/img/tools-maze-1.jpg)
+
+
+
 
 You should to the testing before the product has fully formed, using the wireframes or partially developed app. The primary purpose is to test the concept and build upon the initial framework. By doing that you’re saving time and money because you can do necessary iterations relatively quickly. You can test any flow, as long as you’re able to explain the requirements to the participants.
 
-**Things to keep in mind:**
 
-- **You should have consistent information on all screens (names, phone numbers, payment amounts, language, etc.).**
-- Make realistic prototype screens with the information the real user would have (don’t put just one obvious item or too many options to choose from in a screen).
-- Try to have working links for all of the buttons that are usually clickable.
 
-###Making your Maze
+
+### Making your Maze
 
 Paste the link to your prototype, name your new project and start creating your ﬁrst Maze project.
 
