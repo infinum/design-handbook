@@ -199,7 +199,7 @@ We do test runs to notice smaller issues and any improvements we can make before
 
 
 *Remote testing.* Much easier than above. 
-1. Send participant 🗝 [the email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) with both links to Zoom and Maze.
+<br>1. Send participant 🗝 [the email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) with both links to Zoom and Maze.
 
 
 ### The session
