@@ -159,6 +159,7 @@ This is where live and remote usability testing diverge. Steps are similar, but 
 <br> - Interviewer guides,
 <br> - List of all tasks,
 <br> - Document for observer's notes (1 per each participant). Good practice: Each task and question on separate page.
+<br>
 <br>Send documents to participants to sign:
 <br> - Confidentiality statement (NDA),
 <br> - Statement of Consent.
