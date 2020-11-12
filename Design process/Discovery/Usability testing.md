@@ -128,7 +128,7 @@ This is where live and remote usability testing diverge. Steps are similar, but 
 ### Live usability testing, either hosted by the client or us    
 <br>9. Prepare [**task rating tables**](https://drive.google.com/drive/folders/1vCQEJyaTYtFupEq3pHisLsXrkUzHGqbq?usp=sharing). Task rating tables are useful for measuring success on each task and having an objective overview of pain points and room for improvement.
 
-10. Print out these documents:<br> 
+<br>10. Print out these documents:<br> 
 <br> - Statement of Consent (equal to the number of participants),
 <br> - Confidentiality statement (NDA) (equal to the number of participants),
 <br> - Interviewer guides (1 copy),
