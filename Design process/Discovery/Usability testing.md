@@ -252,12 +252,12 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 
 When you got all the data, go through the rating table or Maze's report and the observer's notes and video recordings. 
 <br>Build your report around these:
-<br>1. *Percentage of success* for each task,
-<br>2. *Ease of use* for each task,
-<br>3. *Pain points* from your notes of participants thinking out loud,
-<br>4. *First clicks or taps* for each task,
-<br>5. *General appeal* of the app to participants,
-<br>6. *Improvement suggestions* based either on participants' direct ideas or your analysis of all of the above.
+<br>1. **Percentage of success** for each task,
+<br>2. **Ease of use** for each task,
+<br>3. **Pain points** from your notes of participants thinking out loud,
+<br>4. **First clicks or taps** for each task,
+<br>5. **General appeal** of the app to participants,
+<br>6. **Improvement suggestions** based either on participants' direct ideas or your analysis of all of the above.
 
 You can write your report as Pages/Word document or as a presentation document. You can find both templates 🗝 [in this folder](https://drive.google.com/drive/folders/1GWjGGeO1wGoNCflg0vMxuHP4_6YdA2wU?usp=sharing). If you follow these templates' structure, you won't miss any significant part of the report, such as describing participants.
 
