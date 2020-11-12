@@ -155,12 +155,10 @@ This is where live and remote usability testing diverge. Steps are similar, but 
 
 ### Remote usability testing
 <br>9. Do the **paperwork**.
-
-Prepare digital versions of these documents, it's best to keep it all in one Google Drive:<br> 
+Prepare digital versions of these documents, it's best to keep it all in one Google Drive:
 <br> - Interviewer guides,
 <br> - List of all tasks,
 <br> - Document for observer's notes (1 per each participant). Good practice: Each task and question on separate page.
-
 Send documents to participants to sign:
 <br> - Confidentiality statement (NDA),
 <br> - Statement of Consent.
