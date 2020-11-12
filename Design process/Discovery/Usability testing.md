@@ -163,7 +163,7 @@ This is where live and remote usability testing diverge. Steps are similar, but 
 <br>Send documents to participants to sign:
 <br> - Confidentiality statement (NDA),
 <br> - Statement of Consent.
-Ping HR for this. We use [Hello sign](https://www.hellosign.com/) for remote documents signing. You'll need to send HR the list of participant's email addresses and versions of NDA and Consent that participants need to sign. Colleagues from HR will ping you as participants start signing the documents.
+<br>Ping HR for this. We use [Hello sign](https://www.hellosign.com/) for remote documents signing. You'll need to send HR the list of participant's email addresses and versions of NDA and Consent that participants need to sign. Colleagues from HR will ping you as participants start signing the documents.
 
 <br>10. **Prep participants** for testing. Send them the 🗝 [prep email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) so that they know what to expect and have up to date browser needed for Maze to run smoothly.
 
