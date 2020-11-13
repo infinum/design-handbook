@@ -218,8 +218,8 @@ As with preparation, this is where live and remote testing diverge. First, we'll
     **Statement of** **Consent** — explain that we will record the screen and the user's face and use it only for this research. 
     **Confidentiality statement** — point out that all the information regarding the app and this testing is confidential. Your role here is not to come across as an expert but as a good listener, so don’t hesitate to admit your ignorance about anything.
     
-<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), give the user the 🗝 [**Out loud instruction**](https://drive.google.com/open?id=14SzICkNuCsTBJKXacZafm-YL4QD_VTZc) document. This activity helps the user to be comfortable with talking out loud. Give the first **task**.
-It is crucial to give only one task at a time so the user can focus. The user will do an excellent job by thinking out loud on their own. If they don’t, encourage them to do so. It's ok to ask questions like “What are you thinking?” or “What do you think…” to get them to start talking about their experience but try not to evoke a conversation. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings. From here on, observe while the participants try to complete the given task, letting them continue until either:
+<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), give the user the 🗝 [**Out loud instruction**](https://drive.google.com/open?id=14SzICkNuCsTBJKXacZafm-YL4QD_VTZc) document. This activity helps the user to be comfortable with talking out loud. Give the first **task**.<br>
+<br>It is crucial to give only one task at a time so the user can focus. The user will do an excellent job by thinking out loud on their own. If they don’t, encourage them to do so. It's ok to ask questions like “What are you thinking?” or “What do you think…” to get them to start talking about their experience but try not to evoke a conversation. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings. From here on, observe while the participants try to complete the given task, letting them continue until either:
 <br> - they finished the task,
 <br> - they get frustrated,
 <br> - we’re not learning anything new by watching them try to muddle through.
@@ -239,7 +239,8 @@ It is crucial to give only one task at a time so the user can focus. The user wi
 
 <br>4. Double-check if the participant has signed recording consent and NDA. If they did, turn on the recording of the session.
 
-<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), tell the participant to open the Maze link. Tell them to follow the instructions and **think out loud** as they go through the tasks. If participant's a bit quiet, it's ok to ask questions like “What are you thinking?” or “What do you think…”. Try not to start a conversation, but just to remind them to think out loud. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings.
+<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), tell the participant to open the Maze link. Tell them to follow the instructions and **think out loud** as they go through the tasks.
+<br>If participant's a bit quiet, it's ok to ask questions like “What are you thinking?” or “What do you think…”. Try not to start a conversation, but just to remind them to think out loud. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings.
 
 <br>6. Ask participants **not to refresh their browser** or go back in browser's navigation. This might affect Maze's tracking of their behavior.
 
