@@ -19,7 +19,7 @@ For 1. and 2. please read the chapter about [usability testing](https://infinum.
 Big Figma file means a slow loading time of your Maze. In extreme cases, it might cause your Maze to crash. The reason? Maze loads up all the visuals in the file regardless of whether they're in the prototype or not.
 
 ### Untangle different tasks' flows
-Trust us on this: If you have two or more intersecting flows, participants will find it and cross to the part of the product you didn't want them to see yet. In Maze, there's **no "Restart task"** button, so if participants got stuck somewhere and can't get back to the current task's flow -- they ARE STUCK and can't get back to the current task's flow. They'll need to give up on that task.
+Trust us on this: If you have two or more intersecting flows, participants will find it and cross to the part of the product you didn't want them to see yet. In Maze, there's **no "Restart task"** button, so if participants got stuck somewhere and can't get back to the current task's flow -- they ARE STUCK and can't get back to the current task's flow. They'll need to give up on that task.<br>
 <br>How to tackle that? Separate flows in the prototype. If it's necessary, make three homepages, each for a different flow/task. Maze let's you set a different starting screen for each task, so participants won't know that you got three homepages.
 
 ![](/img/tools-maze-7.jpg)
@@ -67,19 +67,19 @@ When participants get to path's final screen, they'll get a "Well done" message 
 After each mission, you should have **a follow-up question**. Ask people how easy is it to perform the task or find the information. Ease of use is the best predictor of real-life usage. These numbers will give your report objectivity and make it easier to communicate delight and pain points to the client.
 
 Steps in creating a follow-up question:
-<br>1. Add opinion scale block
-<br>2. Write the specific question, not a generic one. *How easy was it to create your account?* is better than *How easy was it to do this?* Later, it will be easier to find a specific question in the report.
-<br>3. Set the scale to five points
-<br>4. Write the left and the right label. Usually, these are *Very hard* and *Very easy*
+<br>1. Add **opinion scale** block
+<br>2. Write the **specific question**, not a generic one. *How easy was it to create your account?* is better than *How easy was it to do this?* Later, it will be easier to find a specific question in the report.
+<br>3. Set the scale to **five points**
+<br>4. Write the **left and the right label**. Usually, these are *Very hard* and *Very easy*
 
 ![](/img/tools-maze-4.jpg)
 
-Of course, you can ask participants other types of questions. There are yes/no, multiple selection, and open-ended questions. Choose the ones that fit your testing best. Use different kinds of questions to mix things up a bit for participants. Show them a part of the screen and ask them what they think some UI element means. Or, ask them how they perceive the tone and voice of the app. 
+Of course, you can ask participants other types of questions. There are yes/no, multiple selection, and open-ended questions. Choose the ones that fit your testing best.<br>Use different kinds of questions to mix things up a bit for participants. Show them a part of the screen and ask them what they think some UI element means. Or, ask them how they perceive the tone and voice of the app. 
 
 
 
 ### Conditional logic
-Imagine you just failed at something, and then someone asks you *"How easy was it?"*, you'd be agitated, wouldn't you? Thankfully, you can avoid that in Maze. You can set conditional logic for each question: what's the next block participants see depending on their answer to a question or success in a task. E.g., the user gives up on task → they'll skip the ease of use question. Or, they're your client's customer → they skip a few onboarding tasks.
+Imagine you just failed at something, and then someone asks you *"How easy was it?"*, you'd be agitated, wouldn't you? Thankfully, you can avoid that in Maze. <br>You can set conditional logic for each question: what's the next block participants see depending on their answer to a question or success in a task. E.g., the user gives up on task → they'll skip the ease of use question. Or, they're your client's customer → they skip a few onboarding tasks.
 
 ![](/img/tools-maze-10.jpg)
 
