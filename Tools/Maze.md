@@ -54,11 +54,11 @@ You'll build your Maze out of blocks, *missions* being the most important ones.
 ![](/img/tools-maze-2.jpg)
 
 Steps in creating a mission
-<br>1. Add a new mission block
-<br>2. Define the task. Good practice: start with a verb, make it short, don't mention keywords on the screen, and use user-like language, not UX/UI or dev lingo.
-<br>3. Write a description that gives users some context or data they'll need to input (create hints in prototype if necessary).
-<br>4. Choose your starting screen
-<br>5. Click through the prototype to define the ideal path(s) of completing the task. Maze counts those as "direct successes". Your prototype might allow users to get to the final screen using a different path, and that's ok -- these will be "indirect successes". 
+<br>1. Add a new **mission block**
+<br>2. Define **task's title**. Good practice: start with a verb, make it short, don't mention keywords on the screen, and use user-like language, not UX/UI or dev lingo.
+<br>3. Write a **description** that gives users some context or data they'll need to input (create hints in prototype if necessary).
+<br>4. Choose your **starting screen**
+<br>5. **Click through the prototype** to define the ideal path(s) of completing the task. Maze counts those as "direct successes". Your prototype might allow users to get to the final screen using a different path, and that's ok -- these will be "indirect successes". 
 
 When participants get to path's final screen, they'll get a "Well done" message within 0.2 seconds. Don't put any important information on that screen because it will leave participants hanging.
 
