@@ -93,10 +93,7 @@ Here’s an example of a mail we send alongside the requirements doc:
 
 <br>5. **Recruit participants** using our 🗝 [**testers database**](https://drive.google.com/drive/folders/1j1UbwKxepV7ob0wkXM6Vegtr7App44Lr?usp=sharing) or ask good people of Infinum at #infinum Slack channel if they happen to know someone who fits the target audience. For each group of users have one back-up participant. When using the testers database, please consult with team leads or UX strategist.
     
-<br>6. Prepare an 🗝 [**agenda**](https://drive.google.com/open?id=1rvcT8KHnBXLNHH8sgFlDrmshlCybZL20) for all testing sessions based on participant availability.
-
-
-    Here is an example agenda for one day:
+<br>6. Prepare an 🗝 [**agenda**](https://drive.google.com/open?id=1rvcT8KHnBXLNHH8sgFlDrmshlCybZL20) for all testing sessions based on participant availability. Here is an example agenda for one day:
 
 ```
 09:00 AM - 10:00 AM – 1st user
@@ -112,15 +109,16 @@ Here’s an example of a mail we send alongside the requirements doc:
 
 
 <br>7. **Define your goals** — Before preparing specific tasks for our users, we need to define what we want to achieve. We’re looking for answers to crucial questions about usability, findability, discoverability, or general pain points. Then we use this info during the next design phase or iteration. We should ask ourself questions like:
-    - Are the users aware of the main app functionalities?
-    - How can we make sure they understand the content correctly?
-    - Can users use the main functionalities effortlessly?
-    - What dilemmas did we run into while designing? How can we be sure users won’t run into the same issues?
-    These goals will help you focus while preparing the tasks.
+<br>- Are the users aware of the main app functionalities?
+<br>- How can we make sure they understand the content correctly?
+<br>- Can users use the main functionalities effortlessly?
+<br>- What dilemmas did we run into while designing? How can we be sure users won’t run into the same issues?<br>
+These goals will help you focus while preparing the tasks.
     
 <br>8. **Prepare tasks** — After the client approved the agenda and after the responsibilities are assigned, the facilitator starts to prepare tasks and prototype(s). Be wary of the wording you're using on tasks; you don't want to give away the answer by mentioning the exact copy that is visible on the screen.
 For a more in-depth study of this process, take a look at [**NNG’s guide**](https://www.nngroup.com/articles/task-scenarios-usability-testing/).<br>
 <br>*Live testing:* You should print tasks on individual cards. You'll be giving participants those cards one by one during the testing. The observer should have a list of all tasks with additional notes. These notes should specifically instruct them on what to look for while the user is completing a task.
+
 <br>*Remote testing:* Keep all the tasks in one file so that both moderator and facilitator can keep up with users going through tasks. You'll upload these tasks in the Maze and also set expected user paths there. What's Maze? Glad you asked - here's a [whole chapter](https://infinum.com/handbook/books/design/tools/maze) about it with detailed instructions on setting it up. 
     
 This is where live and remote usability testing diverge. Steps are similar, but to avoid confusion, we'll cover them separately.
@@ -183,7 +181,7 @@ Before the official user sessions, make sure you do a test run. Simulate testing
 We do test runs to notice smaller issues and any improvements we can make before conducting the actual testing.
 
 ### Preparing the session
-*Live testing.* Before the user enters the room, we have to set everything up:
+*Live testing:* Before the user enters the room, we have to set everything up:
 
 1. Open [**Lookback**](http://lookback.io) on desktop (in Chrome) and go to your project.
 2. Click on the *Live button* and copy the link.
@@ -199,7 +197,7 @@ We do test runs to notice smaller issues and any improvements we can make before
 12. Leave the Participate app open in the background and open the InVision link added to the home screen
 
 
-*Remote testing.* Much easier than above. 
+*Remote testing:* Much easier than above. 
 <br>1. Send participant 🗝 [the email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) with both links to Zoom and Maze.
 
 
@@ -209,7 +207,8 @@ We do test runs to notice smaller issues and any improvements we can make before
 
 <br>2. Next, we use a script with [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing) to conduct usability testing, and always keep the text in front of you. Don’t hesitate to read from it, but it’s ok to ad-lib a little, even if it means making mistakes. When the users see that you are comfortable making mistakes, it helps take the pressure off them.
 
-<br>3. You have to make it clear before you start that nothing we do or say is personal, and they can always ask questions. It's helpful to tell them that sometimes giving the answers too soon will affect the testing, and you will wait until the end of the session to answer their questions. It’s important to mention this because it will seem rude not to answer their questions as you go along. If you want honest answers, it can be useful to point out you did not work on this project (whether that’s true or not) and that you are just overseeing the testing.
+<br>3. You have to make it clear before you start that nothing we do or say is personal, and they can always ask questions. It's helpful to tell them that sometimes giving the answers too soon will affect the testing, and you will wait until the end of the session to answer their questions.
+It’s important to mention this because it will seem rude not to answer their questions as you go along. If you want honest answers, it can be useful to point out you did not work on this project (whether that’s true or not) and that you are just overseeing the testing.
 
 As with preparation, this is where live and remote testing diverge. First, we'll cover live than remote testing.
 
@@ -219,7 +218,8 @@ As with preparation, this is where live and remote testing diverge. First, we'll
     **Statement of** **Consent** — explain that we will record the screen and the user's face and use it only for this research. 
     **Confidentiality statement** — point out that all the information regarding the app and this testing is confidential. Your role here is not to come across as an expert but as a good listener, so don’t hesitate to admit your ignorance about anything.
     
-<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), give the user the 🗝 [**Out loud instruction**](https://drive.google.com/open?id=14SzICkNuCsTBJKXacZafm-YL4QD_VTZc) document. This activity helps the user to be comfortable with talking out loud. Give the first **task**. It is crucial to give only one task at a time so the user can focus. The user will do an excellent job by thinking out loud on their own. If they don’t, encourage them to do so. It's ok to ask questions like “What are you thinking?” or “What do you think…” to get them to start talking about their experience but try not to evoke a conversation. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings. From here on, observe while the participants try to complete the given task, letting them continue until either:
+<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), give the user the 🗝 [**Out loud instruction**](https://drive.google.com/open?id=14SzICkNuCsTBJKXacZafm-YL4QD_VTZc) document. This activity helps the user to be comfortable with talking out loud. Give the first **task**.
+It is crucial to give only one task at a time so the user can focus. The user will do an excellent job by thinking out loud on their own. If they don’t, encourage them to do so. It's ok to ask questions like “What are you thinking?” or “What do you think…” to get them to start talking about their experience but try not to evoke a conversation. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings. From here on, observe while the participants try to complete the given task, letting them continue until either:
 <br> - they finished the task,
 <br> - they get frustrated,
 <br> - we’re not learning anything new by watching them try to muddle through.
@@ -262,7 +262,7 @@ When you got all the data, go through the rating table or Maze's report and the 
 
 You can write your report as Pages/Word document or as a presentation document. You can find both templates 🗝 [in this folder](https://drive.google.com/drive/folders/1GWjGGeO1wGoNCflg0vMxuHP4_6YdA2wU?usp=sharing). If you follow these templates' structure, you won't miss any significant part of the report, such as describing participants.
 
-You'll be sending this report to the client, so try to write it in a simple language and lay down what improvement ideas result from the testing. That's what clients care about - how we'll use insights to make their product better.
+You'll be sending this report to the client, so try to write it in a plain language with no UX/UI lingo and lay down what improvement ideas result from the testing. That's what clients care about - how we'll use insights to make their product better.
 
 ## Resources
 
