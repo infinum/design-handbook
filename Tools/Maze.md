@@ -4,7 +4,7 @@
 
 Maze works with **prototypes for desktop, mobile or tablet apps**. You can import the prototypes from Figma, Invision, Marvel or Sketch, by copying the URL of the prototype. Then you create missions (tasks) and pose questions to see how they react to your product.
 
-<br>After the testing, you get a UX report based on the participants' behavior and the answers they've given. You can choose: if you like looking at spreadsheets, you can get a .csv file with results; if you like vibrantly ** visualized and interactive results**, you can click on the report Maze has prepared for you.
+<br>After the testing, you get a UX report based on the participants' behavior and the answers they've given. You can choose: if you like looking at spreadsheets, you can get a .csv file with results; if you like vibrantly **visualized and interactive results**, you can click on the report Maze has prepared for you.
 
 Creating a Maze is a mid-game move. You'll first have to cover the foundations of [usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing) by doing these three:
 <br>1. Defining **research goals** and checking with the client if they're ok with it
@@ -19,11 +19,15 @@ For 1. and 2. please read the chapter about [usability testing](https://infinum.
 Big Figma file means a slow loading time of your Maze. In extreme cases, it might cause your Maze to crash. The reason? Maze loads up all the visuals in the file regardless of whether they're in the prototype or not.
 
 ### Untangle different tasks' flows
-Trust us on this: If you have two or more intersecting flows, participants will find it and cross to the part of the product you didn't want them to see yet. In Maze, there's no "Restart task" button, so if participants got stuck somewhere and can't get back to the current task's flow -- they ARE STUCK and can't get back to the current task's flow. They'll need to give up on that task.
+Trust us on this: If you have two or more intersecting flows, participants will find it and cross to the part of the product you didn't want them to see yet. In Maze, there's **no "Restart task"** button, so if participants got stuck somewhere and can't get back to the current task's flow -- they ARE STUCK and can't get back to the current task's flow. They'll need to give up on that task.
 <br>How to tackle that? Separate flows in the prototype. If it's necessary, make three homepages, each for a different flow/task. Maze let's you set a different starting screen for each task, so participants won't know that you got three homepages.
 
+![](/img/tools-maze-7.jpg)
+
 ### Add hints
-You're not testing users' recall of task instructions, but whether or not they can perform these tasks. It might make sense to give participants a little hint about what they're supposed to choose among different options on some screens. Make your hints distinct so that users to confuse them for part of UI.
+You're not testing users' recall of task instructions, but whether or not they can perform these tasks. It might make sense to give participants a little hint about what they're supposed to **choose among different options** on some screens. Make your hints distinct so that users to confuse them for part of UI.
+
+![](/img/tools-maze-8.jpg)
 
 ### Keep it real
 Most participants won't notice your designs aren't pixel-perfect, but they'll see illogical amounts, names, and changes from screen to screen. People get fixated on these things, which makes their feedback less useful. Try to check these three boxes:
@@ -34,12 +38,12 @@ Most participants won't notice your designs aren't pixel-perfect, but they'll se
 ### Plan for information-oriented tasks
 Sometimes you'll want to test if people can find some information in the app. Maze needs people to tap on something to recognize it as a task completed. You'll need to account for that: create a success screen in the prototype (a simple thumb up will do) that's triggered when the user taps on the information on the screen.
 
-/vizual s information-oriented taskom/
+![](/img/tools-maze-9.jpg)
 
 ## Setting up your Maze
 
 ### Import your prototype
-You'll need to create a new project. If we've reached the limit of active projects, ping colleagues in the #maze Slack channel and check which projects can be archived. It's hard to miss the input box where you should copy/paste your protoype's link. It will take Maze a few moments to load everything app, and you're ready to roll.
+You'll need to **create a new project**. If we've reached the limit of active projects, ping colleagues in the #maze Slack channel and check which projects can be archived. It's hard to miss the input box where you should copy/paste your protoype's link. It will take Maze a few moments to load everything app, and you're ready to roll.
 
 ![](/img/tools-maze-1.jpg)
 
@@ -58,11 +62,9 @@ Steps in creating a mission
 
 When participants get to path's final screen, they'll get a "Well done" message within 0.2 seconds. Don't put any important information on that screen because it will leave participants hanging.
 
-/Path building visual/
-
 
 ### Questions
-After each mission, you should have a follow-up question. Ask people how easy it to perform the task or find the information. Ease of use is the best predictor of real-life usage. These numbers will give your report objectivity and make it easier to communicate delight and pain points to the client.
+After each mission, you should have **a follow-up question**. Ask people how easy is it to perform the task or find the information. Ease of use is the best predictor of real-life usage. These numbers will give your report objectivity and make it easier to communicate delight and pain points to the client.
 
 Steps in creating a follow-up question:
 <br>1. Add opinion scale block
@@ -79,22 +81,23 @@ Of course, you can ask participants other types of questions. There are yes/no, 
 ### Conditional logic
 Imagine you just failed at something, and then someone asks you *"How easy was it?"*, you'd be agitated, wouldn't you? Thankfully, you can avoid that in Maze. You can set conditional logic for each question: what's the next block participants see depending on their answer to a question or success in a task. E.g., the user gives up on task → they'll skip the ease of use question. Or, they're your client's customer → they skip a few onboarding tasks.
 
-/vizual conditional logica/
+![](/img/tools-maze-10.jpg)
 
 ### Prototype refreshing
 If you catch a typo or a link leading users to a wrong screen in your prototype, you can always refresh the prototype Maze uses. Go to any of the mission blocks and click "Refresh my prototype". Important: **Maze sometimes adds a random screen** to already defined paths, so double-check your paths after refreshing the prototype.
 
-### Preview Maze and missions
-Take your Maze on a test drive as often as possible. Copy/paste the preview link to your mobile browser and see if everything works as you've envisioned. You can preview specific missions; you don't have to go through the whole Maze to check your second to last mission.
+![](/img/tools-maze-11.jpg)
 
-/vizual s označenim gumbom previewanja misije/
+### Preview Maze and missions
+Take your Maze on a test drive as often as possible. Copy/paste the preview link **to your mobile browser** and see if everything works as you've envisioned. You can preview specific missions; you don't have to go through the whole Maze to check your second to last mission.
+
 
 ### Customize welcome and thank you screens
 Default options do a good job in English, but you should write your messages if you're testing in Croatian or some other language. 
 <br>On the welcome screen, add your client's logo, so people have a visual cue they're in the right place. Write "Welcome" in your language of choice and translate the English instructions.
 <br>Keep Thank you screen short and sweet.
 
-/vizual s previewom welcome screena/
+![](/img/tools-maze-12.jpg)
 
 ## Publishing and reporting
 Maze will warn you that there's no tweaking past that point. Double-check if everything's fine, and then PUSH THE BUTTON.
@@ -104,13 +107,15 @@ Maze will warn you that there's no tweaking past that point. Double-check if eve
 Share the link with the client or send it directly to your participants. [Look up here](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing#remote-usability-testing) how to prepare your participants for Maze.
 
 ### Individual tester's data
-You can see how each tester has solved your Maze. If there are some participants you want to omit from the report, you can delete their data.
+You can see how each tester has solved your Maze. If there are some participants you want to omit from the report, you can **delete their data**.
 
 ### Closed for business
-When testing is done, stop recording the data for your Maze. If you don't, some participants or someone from client's team might accidentally start a Maze session, which will then be a part of reported data. Better safe than sorry.
+When testing is done, stop recording the data for your Maze. If you don't, some participants or someone from client's team might **accidentally start a Maze session**, which will then be a part of reported data. Better safe than sorry.
 
 ### First click metric
-The first click is a powerful discoverability metric, but it's a bit hidden in Maze. How to open it? Click on published Maze → click on one of the missions → click on Aggregated paths → in the upper left corner, click on All clicks → Select just 1st click.
+The first click is a powerful **discoverability metric**, but it's a bit hidden in Maze. How to open it? Click on published Maze → click on one of the missions → click on Aggregated paths → in the upper left corner, click on All clicks → Select just 1st click.
+
+![](/img/tools-maze-13.jpg)
 
 Maze report will give you a lot to work with. You can find some tips and tricks for creating a usability report in our [Usability testing chapter](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing#3-analysis).
 
