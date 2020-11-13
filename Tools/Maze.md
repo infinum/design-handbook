@@ -1,78 +1,124 @@
-[Maze](https://maze.design/) is a user testing platform that turns your prototype into actionable insights from real users. It allows you to create missions and questions to see how the users react to your app. After the testing, you get a UX report based on the data you’ve collected.
+## Overview of Maze
 
-Maze works with prototypes for desktop, mobile or tablet apps. Thanks to link sharing you can view the tests in any browser and on any device. You can import the prototypes from Figma, Invision, Marvel or Sketch. When the testing is complete, you’ll get a CVS export and a link to an online report where you can view all the analytics.
+[Maze](https://maze.design/) is one of your tools for [conducting usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). It's a user testing platform that uses your clickable prototype to get actionable insights from real users. 
 
-You can do Maze testing in six main steps:
+Maze works with **prototypes for desktop, mobile or tablet apps**. You can import the prototypes from Figma, Invision, Marvel or Sketch, by copying the URL of the prototype. Then you create missions (tasks) and pose questions to see how they react to your product.
 
-1. Building a prototype
-2. Drafting the test plan
-3. Recruiting test participants
-4. Performing the test
-5. Documenting the results
-6. Correcting issues
+<br>After the testing, you get a UX report based on the participants' behavior and the answers they've given. You can choose: if you like looking at spreadsheets, you can get a .csv file with results; if you like vibrantly **visualized and interactive results**, you can click on the report Maze has prepared for you.
 
-You should to the testing before the product has fully formed, using the wireframes or partially developed app. The primary purpose is to test the concept and build upon the initial framework. By doing that you’re saving time and money because you can do necessary iterations relatively quickly. You can test any flow, as long as you’re able to explain the requirements to the participants.
+Creating a Maze is a mid-game move. You'll first have to cover the foundations of [usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing) by doing these three:
+<br>1. Defining **research goals** and checking with the client if they're ok with it
+<br>2. Defining **user tasks** that would allow you to achieve research goals
+<br>3. Preparing a **Figma prototype** that lets you do 1. and 2.
 
-**Things to keep in mind:**
+For 1. and 2. please read the chapter about [usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). Wow, this a third time we're mentioning this "usability testing" thing; it must be important, right? In case you missed the previous three links, here's [another LINK](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). Maze will make much more sense if you understand what's it for.
 
-- **You should have consistent information on all screens (names, phone numbers, payment amounts, language, etc.).**
-- Make realistic prototype screens with the information the real user would have (don’t put just one obvious item or too many options to choose from in a screen).
-- Try to have working links for all of the buttons that are usually clickable.
+## Preparing Figma prototype
 
-###Making your Maze
+### Build prototype in a fresh Figma file
+Big Figma file means a slow loading time of your Maze. In extreme cases, it might cause your Maze to crash. The reason? Maze loads up all the visuals in the file regardless of whether they're in the prototype or not.
 
-Paste the link to your prototype, name your new project and start creating your ﬁrst Maze project.
+### Untangle different tasks' flows
+Trust us on this: If you have two or more intersecting flows, participants will find it and cross to the part of the product you didn't want them to see yet. In Maze, there's **no "Restart task"** button, so if participants got stuck somewhere and can't get back to the current task's flow -- they ARE STUCK and can't get back to the current task's flow. They'll need to give up on that task.
+<br>How to tackle that? Separate flows in the prototype. If it's necessary, make three homepages, each for a different flow/task. Maze let's you set a different starting screen for each task, so participants won't know that you got three homepages.
+
+![](/img/tools-maze-7.jpg)
+
+### Add hints
+You're not testing users' recall of task instructions, but whether or not they can perform these tasks. It might make sense to give participants a little hint about what they're supposed to **choose among different options** on some screens. Make your hints distinct so that users to confuse them for part of UI.
+
+![](/img/tools-maze-8.jpg)
+
+### Keep it real
+Most participants won't notice your designs aren't pixel-perfect, but they'll see illogical amounts, names, and changes from screen to screen. People get fixated on these things, which makes their feedback less useful. Try to check these three boxes:
+- **Consistent information** on all screens (names, phone numbers, payment amounts, language, etc.),
+- **Realistic information** the user would encounter in the real world (don't put just one obvious item or too many options to choose from on a screen),
+- **Working links** for most of the buttons that are usually clickable.
+
+### Plan for information-oriented tasks
+Sometimes you'll want to test if people can find some information in the app. Maze needs people to tap on something to recognize it as a task completed. You'll need to account for that: create a success screen in the prototype (a simple thumb up will do) that's triggered when the user taps on the information on the screen.
+
+![](/img/tools-maze-9.jpg)
+
+## Setting up your Maze
+
+### Import your prototype
+You'll need to **create a new project**. If we've reached the limit of active projects, ping colleagues in the #maze Slack channel and check which projects can be archived. It's hard to miss the input box where you should copy/paste your protoype's link. It will take Maze a few moments to load everything app, and you're ready to roll.
 
 ![](/img/tools-maze-1.jpg)
 
-Now start adding blocks!
+
+### Missions
+You'll build your Maze out of blocks, *missions* being the most important ones.
 
 ![](/img/tools-maze-2.jpg)
 
+Steps in creating a mission
+<br>1. Add a new mission block
+<br>2. Define the task. Good practice: start with a verb, make it short, don't mention keywords on the screen, and use user-like language, not UX/UI or dev lingo.
+<br>3. Write a description that gives users some context or data they'll need to input (create hints in prototype if necessary).
+<br>4. Choose your starting screen
+<br>5. Click through the prototype to define the ideal path(s) of completing the task. Maze counts those as "direct successes". Your prototype might allow users to get to the final screen using a different path, and that's ok -- these will be "indirect successes". 
 
-###Missions
-
-- You are creating the path through which the user has to go to complete the mission.
-- There can be one or more paths to completing the mission.
-
-![](/img/tools-maze-3.jpg)
+When participants get to path's final screen, they'll get a "Well done" message within 0.2 seconds. Don't put any important information on that screen because it will leave participants hanging.
 
 
-###Questions
+### Questions
+After each mission, you should have **a follow-up question**. Ask people how easy is it to perform the task or find the information. Ease of use is the best predictor of real-life usage. These numbers will give your report objectivity and make it easier to communicate delight and pain points to the client.
 
-- Opinion scale, multiple-choice, open questions, etc.
-- You can edit the details for all of them
+Steps in creating a follow-up question:
+<br>1. Add opinion scale block
+<br>2. Write the specific question, not a generic one. *How easy was it to create your account?* is better than *How easy was it to do this?* Later, it will be easier to find a specific question in the report.
+<br>3. Set the scale to five points
+<br>4. Write the left and the right label. Usually, these are *Very hard* and *Very easy*
 
 ![](/img/tools-maze-4.jpg)
-![](/img/tools-maze-5.jpg)
 
-- Publish your Maze live
+Of course, you can ask participants other types of questions. There are yes/no, multiple selection, and open-ended questions. Choose the ones that fit your testing best. Use different kinds of questions to mix things up a bit for participants. Show them a part of the screen and ask them what they think some UI element means. Or, ask them how they perceive the tone and voice of the app. 
+
+
+
+### Conditional logic
+Imagine you just failed at something, and then someone asks you *"How easy was it?"*, you'd be agitated, wouldn't you? Thankfully, you can avoid that in Maze. You can set conditional logic for each question: what's the next block participants see depending on their answer to a question or success in a task. E.g., the user gives up on task → they'll skip the ease of use question. Or, they're your client's customer → they skip a few onboarding tasks.
+
+![](/img/tools-maze-10.jpg)
+
+### Prototype refreshing
+If you catch a typo or a link leading users to a wrong screen in your prototype, you can always refresh the prototype Maze uses. Go to any of the mission blocks and click "Refresh my prototype". Important: **Maze sometimes adds a random screen** to already defined paths, so double-check your paths after refreshing the prototype.
+
+![](/img/tools-maze-11.jpg)
+
+### Preview Maze and missions
+Take your Maze on a test drive as often as possible. Copy/paste the preview link **to your mobile browser** and see if everything works as you've envisioned. You can preview specific missions; you don't have to go through the whole Maze to check your second to last mission.
+
+
+### Customize welcome and thank you screens
+Default options do a good job in English, but you should write your messages if you're testing in Croatian or some other language. 
+<br>On the welcome screen, add your client's logo, so people have a visual cue they're in the right place. Write "Welcome" in your language of choice and translate the English instructions.
+<br>Keep Thank you screen short and sweet.
+
+![](/img/tools-maze-12.jpg)
+
+## Publishing and reporting
+Maze will warn you that there's no tweaking past that point. Double-check if everything's fine, and then PUSH THE BUTTON.
 
 ![](/img/tools-maze-6.jpg)
 
-###Important details
+Share the link with the client or send it directly to your participants. [Look up here](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing#remote-usability-testing) how to prepare your participants for Maze.
 
-- Always make a copy of your maze before publishing it!
-- Give a short intro about the project - it’s easier to test if users have some context.
-- Try to mix up the questions, so they don’t get bored easily.
-- It’s good to have a few questions (yes/no, opinion scale, etc.) after every mission to get more info about how users think and why they do something.
+### Individual tester's data
+You can see how each tester has solved your Maze. If there are some participants you want to omit from the report, you can **delete their data**.
 
-###Analyze the findings
+### Closed for business
+When testing is done, stop recording the data for your Maze. If you don't, some participants or someone from client's team might **accidentally start a Maze session**, which will then be a part of reported data. Better safe than sorry.
 
-- Summarizing and organizing the results is one of the most important steps
-- Don’t rush and double-check the prototype for errors.
-- Don’t assume users will behave in certain way.
+### First click metric
+The first click is a powerful **discoverability metric**, but it's a bit hidden in Maze. How to open it? Click on published Maze → click on one of the missions → click on Aggregated paths → in the upper left corner, click on All clicks → Select just 1st click.
 
-###Info that you can get from Maze
+![](/img/tools-maze-13.jpg)
 
-- Direct success, indirect success and bounce rate on each mission.
-- Heat maps
-- Clicks (also ﬁltered by 1st, 2nd, 3rd…) and areas of your choice.
-- Time spent on a single mission.
-- Feedback on questions.
-- Misclick rate.
-- Individual user behaviour.
+Maze report will give you a lot to work with. You can find some tips and tricks for creating a usability report in our [Usability testing chapter](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing#3-analysis).
 
-###When in doubt...
+### When in doubt...
 
 ...visit [Maze Help Center](https://help.maze.design/en/) (specifically their [Usability Testing](https://maze.design/guides/usability-testing) article) or ask a colleague (Design or QA) who worked in Maze before.
