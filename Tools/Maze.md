@@ -31,9 +31,9 @@ You're not testing users' recall of task instructions, but whether or not they c
 
 ### Keep it real
 Most participants won't notice your designs aren't pixel-perfect, but they'll see illogical amounts, names, and changes from screen to screen. People get fixated on these things, which makes their feedback less useful. Try to check these three boxes:
-- **Consistent information** on all screens (names, phone numbers, payment amounts, language, etc.),
-- **Realistic information** the user would encounter in the real world (don't put just one obvious item or too many options to choose from on a screen),
-- **Working links** for most of the buttons that are usually clickable.
+<br>- **Consistent information** on all screens (names, phone numbers, payment amounts, language, etc.),
+<br>- **Realistic information** the user would encounter in the real world (don't put just one obvious item or too many options to choose from on a screen),
+<br>- **Working links** for most of the buttons that are usually clickable.
 
 ### Plan for information-oriented tasks
 Sometimes you'll want to test if people can find some information in the app. Maze needs people to tap on something to recognize it as a task completed. You'll need to account for that: create a success screen in the prototype (a simple thumb up will do) that's triggered when the user taps on the information on the screen.
