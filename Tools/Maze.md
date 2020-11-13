@@ -79,7 +79,7 @@ Of course, you can ask participants other types of questions. There are yes/no, 
 
 
 ### Conditional logic
-Imagine you just failed at something, and then someone asks you *"How easy was it?"*, you'd be agitated, wouldn't you? Thankfully, you can avoid that in Maze. <br>You can set conditional logic for each question: what's the next block participants see depending on their answer to a question or success in a task. E.g., the user gives up on task → they'll skip the ease of use question. Or, they're your client's customer → they skip a few onboarding tasks.
+Imagine you just failed at something, and then someone asks you *"How easy was it?"*, you'd be agitated, wouldn't you? Thankfully, you can avoid that in Maze.<br><br>You can set conditional logic for each question: what's the next block participants see depending on their answer to a question or success in a task. E.g., the user gives up on task → they'll skip the ease of use question. Or, they're your client's customer → they skip a few onboarding tasks.
 
 ![](/img/tools-maze-10.jpg)
 
