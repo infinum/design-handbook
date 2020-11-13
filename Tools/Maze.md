@@ -11,7 +11,7 @@ Creating a Maze is a mid-game move. You'll first have to cover the foundations o
 <br>2. Defining **user tasks** that would allow you to achieve research goals
 <br>3. Preparing a **Figma prototype** that lets you do 1. and 2.
 
-For 1. and 2. please read the chapter about [usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). Wow, this a third time we're mentioning this "usability testing" thing; it must be important, right? In case you missed the previous three links, here's [another LINK](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). Maze will make much more sense if you understand what's it for.
+For 1. and 2. please read the chapter about [usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing).
 
 ## Preparing Figma prototype
 
