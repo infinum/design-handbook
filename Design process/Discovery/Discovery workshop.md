@@ -72,6 +72,8 @@ Without further ado, [here is everything you need to know](https://design.infinu
 
 Use our Remote Workshop Template Figma file to pick and choose excercise templates that fit your agenda.
 <p align="center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdjT2s2cKOLUPuWvBQTEU58%2FRemote-workshop-template%3Fnode-id%3D365%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
+  
+Alternatively to Figma, we also use [Miro](https://miro.com/) to facilitate online workshops. It's a browser-based collaborative tool which covers everyhing you might need for a workshop - except actually desiging screens, so keep that in mind. If you're going with Miro for your workshop, let Marina know so she can create a project and send out invites.
 
 ## Discovery workshop report
 
