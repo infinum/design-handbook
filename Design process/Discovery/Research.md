@@ -20,13 +20,13 @@ At the beginning of a project, there is always a set of requirements. It is usua
 
 Most of the time, these "briefs" will provide enough information about the project, but almost certainly there will be many unknowns in these instructions. It mostly happens because the clients have a lot of background information and knowledge these text documents and charts are not able to communicate.
 
-That's is why we usually organize discovery workshops to kick off a project and analyze the requirements together with clients. If the workshop is not an option, you can always hop on a call with the clients and ask them similar questions.
+That is why we usually organize discovery workshops to kick off a project and analyze the requirements together with clients. If the workshop is not an option, you can always hop on a call with the clients and ask them similar questions.
 
 Here is what you need to find out:
 
 - What problem needs to be solved?
 - Who is going to need the solution for this problem? Is it a business issue, or is it related to user needs?
-- What is the context of usage? (Is it a crowded location, specific situation or something else?
+- What is the context of usage? (Is it a crowded location, specific situation or something else)?
 - What is the area of specialization? (health, finance, retail, etc.)
 - Who is the key stakeholder, a decision-maker?
 - What are the main business requirements?
@@ -96,7 +96,7 @@ These interviews help us see the general attitude and vision of the future produ
 
 ## Affinity diagramming
 
-If you got yourself in any of the research methods, the affinity diagram information sorting would help clear your head and pull out the most valuable facts for the project. [This NNGroup's article](https://www.nngroup.com/articles/affinity-diagram/) will help you to grasp the concept of affinity diagraming.
+If you got yourself in any of the research methods, the affinity diagram information sorting would help clear your head and pull out the most valuable facts for the project. [This NNGroup's article](https://www.nngroup.com/articles/affinity-diagram/) will help you to grasp the concept of affinity diagramming.
 
 
 ## 📚 Recommended reading
