@@ -108,7 +108,7 @@ Here’s an example of a mail we send alongside the requirements doc:
 ```
 
 
-<br>7. **Define your goals** — Before preparing specific tasks for our users, we need to define what we want to achieve. We’re looking for answers to crucial questions about usability, findability, discoverability, or general pain points. Then we use this info during the next design phase or iteration. We should ask ourself questions like:
+<br>7. **Define your goals** — Before preparing specific tasks for our users, we need to define what we want to achieve. We’re looking for answers to crucial questions about usability, findability, discoverability, or general pain points. Then we use this info during the next design phase or iteration. We should ask ourselves questions like:
 <br>- Are the users aware of the main app functionalities?
 <br>- How can we make sure they understand the content correctly?
 <br>- Can users use the main functionalities effortlessly?
@@ -156,7 +156,7 @@ This is where live and remote usability testing diverge. Steps are similar, but 
 <br>Prepare digital versions of these documents, it's best to keep it all in one Google Drive:
 <br> - Interviewer guides,
 <br> - List of all tasks,
-<br> - Document for observer's notes (1 per each participant). Good practice: Each task and question on separate page.
+<br> - Document for observer's notes (1 per each participant). Good practice: Each task and question on a separate page.
 <br>
 <br>Send documents to participants to sign:
 <br> - Confidentiality statement (NDA),
@@ -164,7 +164,7 @@ This is where live and remote usability testing diverge. Steps are similar, but 
 
 <br>Ping HR for this. We use [Hello sign](https://www.hellosign.com/) for remote documents signing. You'll need to send HR the list of participant's email addresses and versions of NDA and Consent that participants need to sign. Colleagues from HR will ping you as participants start signing the documents.
 
-<br>10. **Prep participants** for testing. Send them the 🗝 [prep email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) so that they know what to expect and have up to date browser needed for Maze to run smoothly.
+<br>10. **Prep participants** for testing. Send them the 🗝 [prep email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) so that they know what to expect and have an up to date browser needed for Maze to run smoothly.
 
 <br>11. **Reserve timeslots** at Infinum's Zoom account. Send your PM the testing schedule and ask them to reserve these timeslots for you. Zoom usually has the most stable video connection, and it lets you record the call online. Recording online is better because your Mac will quickly start dragging if you record it locally.
 
@@ -229,7 +229,7 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 
 <br>7. After each task, while the user is filling out the task rating table, the facilitator prepares the prototype for the next task. Set up the prototype on the screen where the next task begins and make sure everything is working.
 
-<br>8. When user finishes testing the app, ask them some general follow-up questions (e.g., the best and worst thing about using the app).
+<br>8. When the user finishes testing the app, ask them some general follow-up questions (e.g., the best and worst thing about using the app).
 
 <br>9. When you complete the session, don't forget to give the user their reward for participating.
 
@@ -240,7 +240,7 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 <br>4. Double-check if the participant has signed recording consent and NDA. If they did, turn on the recording of the session.
 
 <br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), tell the participant to open the Maze link. Tell them to follow the instructions and **think out loud** as they go through the tasks.
-<br>If participant's a bit quiet, it's ok to ask questions like “What are you thinking?” or “What do you think…”. Try not to start a conversation, but just to remind them to think out loud. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings.
+<br>If the participant's a bit quiet, it's ok to ask questions like “What are you thinking?” or “What do you think…”. Try not to start a conversation, but just to remind them to think out loud. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings.
 
 <br>6. Ask participants **not to refresh their browser** or go back in browser's navigation. This might affect Maze's tracking of their behavior.
 
