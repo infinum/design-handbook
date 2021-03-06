@@ -56,7 +56,7 @@ Keep symbol names logical and tidy. Use them regularly!
 
 ### Styleguide
 
-To make our files/projects more organised and consistent, we use an appropriate style guide (web, Android, or iOS - depending on a project). Working with the style guide as you go along with the project will make your life easier later on. We set all the elements in the style guide as symbols, so every change you make will automatically update in the style guide as well. Just so you have an overview of all the things that are, or need to be, included there is a checklist Artboard that needs to be updated/checked as the project moves along. Check out our [reusuable components chapter](https://infinum.com/handbook/books/design/organization/a-set-of-reusable-templates) for styeguide templates.
+To make our files/projects more organised and consistent, we use an appropriate style guide (web, Android, or iOS - depending on a project). Working with the style guide as you go along with the project will make your life easier later on. We set all the elements in the style guide as symbols, so every change you make will automatically update in the style guide as well. Just so you have an overview of all the things that are, or need to be, included there is a checklist Artboard that needs to be updated/checked as the project moves along. Check out our [reusable components chapter](https://infinum.com/handbook/books/design/organization/a-set-of-reusable-templates) for styeguide templates.
 
 ### Archive and work in progress
 
