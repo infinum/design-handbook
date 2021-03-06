@@ -20,27 +20,27 @@ Here you can find:
 - **DP (Density Independent Pixels)** - an abstract unit that is based on the physical density of the screen. These units are relative to a 160 dpi screen, so one dp is one pixel on a 160 dpi screen. The ratio of dp-to-pixel will change with the screen density, but not necessarily in direct proportion. *#design #projects #android*
 - **EOD (End of the Day)** - usually refers to a deadline set by yourself or your project manager. *#projects*
 - **EOY (End of the Year)** - usually refers to a project deadline or quarterly goal deadline. #projects *#team*
-- **FAT (Factory Acceptance Testing)** - a form of user acceptance testing common in the industry *#agile #scrum #qa #projects*
-- **FT (Full time)** - eight working hours per day #scheduling #projects
-- **HT (Half time)** - four working hours per day #scheduling #projects
+- **FAT (Factory Acceptance Testing)** - a form of user acceptance testing common in the industry. *#agile #scrum #qa #projects*
+- **FT (Full time)** - eight working hours per day. #scheduling #projects
+- **HT (Half time)** - four working hours per day. #scheduling #projects
 - **IoT (Internet of Things)** - is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction. For example smart home system and devices. *#tech #projects*
-- **KPI (Key performance indicator)** - a measurable value that demonstrates how effectively a company is achieving key business objectives (goals) *#projects #management*
+- **KPI (Key performance indicator)** - a measurable value that demonstrates how effectively a company is achieving key business objectives (goals). *#projects #management*
 - **MVP (Minimum viable product)** - a version of the product with just enough features to satisfy the needs of early customers and provide feedback for future product development. *#projects*
 - **OKR (Objectives and key results)** - a goal-setting framework for defining and tracking objectives and their outcomes. The intention is providing teams with visibility of goals with the intention to align and focus effort. *#projects #team*
 - **PM (Project Manager)** - a member of the project team which has a responsibility of communicating with the client, following the budget and deadlines and keeping track of work delivered on the project. *#projects #role*
 - **PoC (Proof of Concept)** - realization of a certain idea in order to demonstrate its feasibility, or a demonstration with the goal of verifying that some concept or proposal has a great potential in the real world. *#design #projects*
 - **PR (Pull Request)** - Pull requests are part of the usual development process. They let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch. *#dev #projects*
-- **PX (Pixel)** - A unit for measuring dimensions on a screen and are used when precise design is required. *Move the card by 8px to the left. Increase the font by 2px. #design #typography*
+- **PX (Pixel)** - A unit for measuring dimensions on a screen and is used when precise design is required. *Move the card by 8px to the left. Increase the font by 2px. #design #typography*
 - **QA (Quality Assurance)** - a member of the project team which has a responsibility of testing the apps and websites, finding bugs and reporting to developers and designers what needs to be fixed tech-wise and UX-wise. *#projects #role*
-- **QT (Quarter time)** - two working hours per day *#scheduling #projects*
+- **QT (Quarter time)** - two working hours per day. *#scheduling #projects*
 - **RFP (Request for Proposal)** - before we sign the official contract, the clients want to see a business proposal from our sales team. Usually our proposal includes time estimates, process overview and budget ballpark. Sometimes an RFP can also include a request for a few screens. Then, it becomes more like a pitch, where we need to show off our skills and expertise. *#business #pitch #sales*
-- **ROI (Return on Investment)** - is a financial metric that is widely used to measure the probability of gaining a return from an investment. It's the ratio between net profit and cost of investment, one way of relating profits to capital invested.
+- **ROI (Return on Investment)** - is a financial metric that is widely used to measure the probability of gaining a return from an investment. It's the ratio. between net profit and cost of investment, one way of relating profits to capital investments.
 *#business #projects*
 - **SDK (Software development kit)** - a collection of software development tools in one installable package. They ease creation of applications by having compiler, debugger and perhaps a software framework. To create applications with advanced functionalities such as push notifications, photopay, OCR scanning etc; most application software developers use specific software development kits. *#dev #tech #projects*
-- **SS** - just a screenshot *#design #everyday*
-- **SWOT (Strengths, Weaknesses, Opportunities, and Threats)** - a SWOT Analysis is a technique for assessing these four aspects of the business *#projects #discovery #marketing*
+- **SS** - just a screenshot. *#design #everyday*
+- **SWOT (Strengths, Weaknesses, Opportunities, and Threats)** - a SWOT Analysis is a technique for assessing these four aspects of the business. *#projects #discovery #marketing*
 - **UAT (User Acceptance Testing)** - high-level tests to verify the completeness of a user story or stories 'played' during any sprint/iteration. *#agile #scrum #qa #projects*
-- **UT (Usability Testing)** - often refers to usability testing
+- **UT (Usability Testing)** - often refers to usability testing.
 - **UX (User Experience)** - the process design teams use to create products that provide meaningful and relevant experiences to users. *#design #projects*
 - **WCAG (Web Content Accessibility Guidelines)** - a set of recommendations for making Web content more accessible, primarily for people with disabilities — but also for all user agents, including highly limited devices, such as mobile phones. *#design #dev #projects*
 
@@ -59,7 +59,7 @@ Here you can find:
 ## B
 
 - **Backlog** - a list of tasks/requirements for a software product in development. If something is in the backlog it is usually low on the priority list. *#dev #projects #agile*
-- **Ballpark estimate** - A ballpark estimate or figure is a number that is a guess, but one that you believe is near the correct number *#business #sales #projects*
+- **Ballpark estimate** - A ballpark estimate or figure is a number that is a guess, but one that you believe is near the correct number. *#business #sales #projects*
 - **Box model** - In CSS, the term "box model" is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. *#dev #web*
 
 ## C
@@ -71,12 +71,12 @@ Here you can find:
 
 ## D
 
-- **Decision maker** - a person, usually from the client team, responsible for making key decisions that move the project forward *#projects #role*
+- **Decision maker** - a person, usually from the client team, responsible for making key decisions that move the project forward. *#projects #role*
 - **Dialog** - [Dialogs](https://material.io/develop/web/components/dialogs) inform users about a task and can contain critical information, require decisions, or involve multiple tasks. There are four types of dialogs: Alert, Simple, Confirmation, Full-screen. The alert style is the only style supported on iOS. *#design #dev #android* 
 
 ## E
 
-- **Edge case** - a use case or a situation which can happen rarely, and is often unexpected or overlooked while designing or programming.While designing, you need to make sure you cover all edge cases. *#design #dev #projects #qa*
+- **Edge case** - a use case or a situation which can rarely happen, and is often unexpected or overlooked while designing or programming. While designing, you need to make sure you cover all edge cases. *#design #dev #projects #qa*
 - **Em** - a unit of measurement that originates from the world of printed type. Using this as a unit in typography, this measurement is equal to the currently specified point size. For example, one em in a 16-point typeface is 16 points. This unit is the same for all typefaces at a given point size. When you see 1.5 em, that would make it 24 pixels. Using em and rem units gives us flexibility in our designs, and the ability to scale elements up and down, instead of being stuck with fixed sizes. *#design #typography #web*
 
 ## F
@@ -85,8 +85,8 @@ Here you can find:
 - **Font -** In metal typesetting, a font was a particular size, weight and style of a typeface. Each font was a matched set of type, one piece (called a "sort") for each glyph, and a typeface consisting of a range of fonts that shared an overall design. In modern usage, with the advent of digital typography, "font" is frequently synonymous with "typeface". Each style is in a separate "font file"—for instance, the typeface "Bulmer" may include the fonts "Bulmer roman", "Bulmer", "Bulmer bold" and "Bulmer extended"—but the term "font" might be applied either to one of these alone or to the whole typeface. *#design #typography*
 - **Font Weight** - The weight of a particular font is the thickness of the character outlines relative to their height. *#design #typography*
 - **Frame** - A name for a page (screen) in Figma design software. With frames you design the screens, screen elements and link them into prototypes. *#design #projects*
-- **Framework** - A software framework is a concrete or conceptual platform where common code with generic functionality can be selectively specialized or overridden by developers or users. Frameworks take the form of libraries, where a well-defined application program interface (API) is reusable anywhere within the software under development. The purpose of software framework is to simplify the development environment, allowing developers to dedicate their efforts to the project requirements, rather than dealing with the framework’s mundane, repetitive functions and libraries. A good example of framework is ant.design *#design #dev #projects*
-- **F-shaped pattern** - The F-Pattern describes the most common user eye-scanning patterns when it comes to blocks of content. ‘F’ means fast. That’s how users scan content on the web. This pattern came out of an NN Group eyetracking study. Users first read in a horizontal movement, usually across the upper part of the content area. This eye movement forms the top part of the ’F.’Next, they scan a vertical line down the left side of the screen, looking for points of interest in the paragraph’s initial sentences. When they found something interesting they read a line and this eye movement forms a second horizontal line of the ‘F.’ The second line is typically covers a shorter area than the previous movement. Finally, users scan the content’s left side in a vertical movement. *#design #projects #web*
+- **Framework** - A software framework is a concrete or conceptual platform where common code with generic functionality can be selectively specialized or overridden by developers or users. Frameworks take the form of libraries, where a well-defined application program interface (API) is reusable anywhere within the software under development. The purpose of software framework is to simplify the development environment, allowing developers to dedicate their efforts to the project requirements, rather than dealing with the framework’s mundane, repetitive functions and libraries. A good example of framework is ant.design. *#design #dev #projects*
+- **F-shaped pattern** - The F-Pattern describes the most common user eye-scanning patterns when it comes to blocks of content. ‘F’ means fast. That’s how users scan content on the web. This pattern came out of an NN Group eyetracking study. Users first read in a horizontal movement, usually across the upper part of the content area. This eye movement forms the top part of the ’F.’Next, they scan a vertical line down the left side of the screen, looking for points of interest in the paragraph’s initial sentences. When they found something interesting they read a line and this eye movement forms a second horizontal line of the ‘F.’ The second line typically covers a shorter area than the previous movement. Finally, users scan the content’s left side in a vertical movement. *#design #projects #web*
 
 
 ## G
@@ -99,7 +99,7 @@ Here you can find:
 ## H
 
 - **Heading** - a title at the head of a page or section of a book. *#design #projects #web*
-- **Hex code** - A color hex code is a hexadecimal way to represent a color in RGB format by combining three values – the amounts of red, green and blue in a particular shade of color. For example #D8262C *#design #projects*
+- **Hex code** - A color hex code is a hexadecimal way to represent a color in RGB format by combining three values – the amounts of red, green and blue in a particular shade of color. For example #D8262C. *#design #projects*
 - **Highlight Text** - The ability to change colors and highlights of individual words opens a lot of possibilities for your content. It can bring life to an otherwise monotonous tagline. It can also be used to emphasize branding points that are important to you and your audience. *#design #projects #web*
 - **Hit area** - touch target; a touchable area of an interactive element such as a button or an input field. The bigger the hit area, the better for the user. *#design #dev #projects*
 - **Hover** - A hover state in an interactive element communicates when a user has placed a cursor above an interactive element. *#design #projects #web*
@@ -107,7 +107,7 @@ Here you can find:
 ## I
 
 - **Icon** - a graphic symbol on a computer display screen that represents an app, an object (such as a file), or a function (such as the command to save). *#design #dev #projects*
-- **Illustration** - a picture, drawing or diagram that helps make something clear or attractive *#design #projects*
+- **Illustration** - a picture, drawing or diagram that helps make something clear or attractive. *#design #projects*
 - **Input field** - text fields which allow user input. Input can be free text, a number stepper, etc. *#design #dev #projects*
 
 ## J
@@ -133,12 +133,12 @@ Here you can find:
 
 ## N
 
-- **nnn** - the sound of dissatisfaction *#mario #designteam*
+- **nnn** - the sound of dissatisfaction. *#mario #designteam*
 
 ## O
 
 - **Old style figures** - Oldstyle figures (also known as non-lining, lowercase, hanging, or text figures) have varying heights and alignments, as opposed to lining figures, which are of uniform height and alignment. Oldstyle figures are similar to lowercase characters in that they share the same x-height and have ascenders (the 6 and 8) and descenders (the 3, 4, 5, 7 and 9). They also come in proportional and tabular spacing formats. *#design #typography*
-- **OpenGraph images/graphics** - Open graph is a protocol first created by Facebook in 2010 for extracting the title, images, URL, and meta-information from a web page and displaying it in a social media post. The usual dimensions of an OG photo are: 1200x630px *#design #web #marketing*
+- **OpenGraph images/graphics** - Open graph is a protocol first created by Facebook in 2010 for extracting the title, images, URL, and meta-information from a web page and displaying it in a social media post. The usual dimensions of an OG photo are 1200x630px. *#design #web #marketing*
 
 ## P
 
@@ -178,7 +178,7 @@ Here you can find:
 - **Tabular figures** - Tabular lining figures are the preferred style for columns of numbers, such as tables, price lists, financial data, and listings. Tabular affects the character spacing. Each glyph is equally wide and therefore convenient for tables, because you can compare the amounts vertically. *#design #typography*
 - **Text area** - an element which allows users to input text containing multiple lines. It is useful for creating a form field for visitors to leave comments or messages. *#design #dev #web #projects*
 - **Text box** - Alternatively referred to as a text field, a text box is a section or object on a page that allows a user to enter text. It can be one line text box and text area. *#design #dev #web #projects*
-- **Title Case** - Title case is any text, such as in a title or heading, where the first letter of major words are capitalized. *#design #typography*
+- **Title Case** - Title case is any title or heading text where the first letters of major words are capitalized. *#design #typography*
 - **Toast** - (blueprintjs) A toast is a lightweight, ephemeral notice from an application in direct response to a user's action. Toasts can be configured to appear at either the top or the bottom of an application window, and it is possible to have more than one toast onscreen at a time. *#design #web #projects*
 - **Top-up** - an additional or extra amount or payment that restores something to the level that is required. Often used in telecom projects. #design #projects
 - **Typeface** - A typeface is the design of lettering that can include variations, such as extra bold, bold, regular, light, italic, condensed, extended, etc. Each of these variations of the typeface is a font. *#design #typography*
@@ -188,12 +188,12 @@ Here you can find:
 
 ## U
 
-- **UPPER CASE** - If letters are in upper case, they are written as capitals; opposed to lowercase letters #design #typography
+- **UPPER CASE** - If letters are in upper case, they are written as capitals; opposed to lowercase letters. #design #typography
 - **Usability** - the degree to which something is able or fit to be used. *#design #dev #projects*
 - **Usability benchmarking** - UX benchmarking refers to evaluating a product or service’s user experience by using metrics to gauge its relative performance against a meaningful standard. *#design #projects*
 - **Use case** - A use case is a written description of how users will perform tasks on your website. It outlines, from a user’s point of view, a system’s behavior as it responds to a request. Each use case is represented as a sequence of simple steps, beginning with a user’s goal and ending when that goal is fulfilled. *#design #projects*
 - **User flow** - User flow is the path taken by a prototypical user on a website or app to complete a task. The user flow takes them from their entry point through a set of steps towards a successful outcome and final action, such as purchasing a product. *#design #projects*
-- **User story** In software development and product management, a user story is an informal, natural language description of one or more features of a software system. User stories are often written from the perspective of an end user or user of a system. They are often recorded in project management software such as Jira. Depending on the project, user stories may be written by various stakeholders including clients, users, managers, or development team members. *#projects #agile*
+- **User story** - In software development and product management, a user story is an informal, natural language description of one or more features of a software system. User stories are often written from the perspective of an end user or user of a system. They are often recorded in project management software such as Jira. Depending on the project, user stories may be written by various stakeholders including clients, users, managers, or development team members. *#projects #agile*
 
 ## V
 
@@ -202,9 +202,9 @@ Here you can find:
 
 ## W
 
-- **White-label apps** - White-label apps are applications built by a white or private label app development company , re-branded and resold by other businesses. White-label app services are solutions wherein an application is ordered from Re-seller Company by their business client but actually built by third-party service provider Company. If you’re designing a white-label app that means you have to design a styleguide flexible enough to cover different business and branding cases. *#business #projects*
+- **White-label apps** - White-label apps are applications built by a white or private label app development company, re-branded and resold by other businesses. White-label app services are solutions wherein an application is ordered from Re-seller Company by their business client but actually built by third-party service provider Company. If you’re designing a white-label app that means you have to design a styleguide flexible enough to cover different business and branding cases. *#business #projects*
 - **White space** - White space is the area between design elements. It is also the space within individual design elements, including the space between typography glyphs (readable characters). Despite its name, white space does not need to be white. It can be any color, texture, pattern, or even a background image. White space can cause problems between designers and clients. Design theory promotes the use of white space for elegance and ensuring a quality user experience. Sadly, many clients and managers consider white space wasted space. They think it could be used to house more information or other visual elements. On the contrary, white space is a great tool to balance design elements and better organize content to improve the visual communication experience. *#design #projects*
-- **Widget** - a small software application that is designed to provide a specific piece of information (such as news, weather, or traffic updates) or a specific function (such as taking notes or controlling another application) on demand *#design #dev #android*
+- **Widget** - a small software application that is designed to provide a specific piece of information (such as news, weather, or traffic updates) or a specific function (such as taking notes or controlling another application) on demand. *#design #dev #android*
 
 ## X
 
@@ -216,4 +216,4 @@ Here you can find:
 
 ## Z
 
-- **Z-shaped pattern** - A z-pattern design traces the route the human eye travels when they scan the page— left to right, top to bottom. First, people scan from the top left to the top right, forming a horizontal line. Next, down and to the left side of the page, creating a diagonal line. Last, back across to the right again, forming a second horizontal line. When viewers’ eyes move in this pattern, it forms an imaginary “Z” shape *#design #projects #web*
+- **Z-shaped pattern** - A z-pattern design traces the route the human eye travels when they scan the page— left to right, top to bottom. First, people scan from the top left to the top right, forming a horizontal line. Next, down and to the left side of the page, creating a diagonal line. Last, back across to the right again, forming a second horizontal line. When viewers’ eyes move in this pattern, it forms an imaginary “Z” shape. *#design #projects #web*
