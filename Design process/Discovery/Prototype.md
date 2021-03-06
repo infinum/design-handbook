@@ -4,7 +4,7 @@ Prototypes serve as a demo of connected screens so that the team, stakeholders o
 - [Got Your Nose](https://www.figma.com/proto/VlOvNsX8TLiDHosL83P9MB/GotYourNoseDesign?node-id=325%3A9&scaling=scale-down) (mobile/Figma)
 - [Village Access](https://projects.invisionapp.com/share/DPPZDB78HVF#/screens/340996012_01-_Home) (mobile/InVision)
 
-If you're designing in **Figma**, its best to keep the prototype there. If you're using **Sketch**, you'll need [Craft](https://www.invisionapp.com/craft) to have a smoother integration with [InVision](https://www.invisionapp.com/cloud/prototype). We won't get too technical as tools often change, so check out these resources:
+If you're designing in **Figma**, it's best to keep the prototype there. If you're using **Sketch**, you'll need [Craft](https://www.invisionapp.com/craft) to have a smoother integration with [InVision](https://www.invisionapp.com/cloud/prototype). We won't get too technical as tools often change, so check out these resources:
 
 - [Figma's prototyping features](https://www.figma.com/prototyping/)
 - [Figma Tutorial: Prototyping & Transitions](https://www.youtube.com/watch?v=-d6zNGeF59M)
