@@ -87,7 +87,7 @@ When creating new features for a legacy project, follow our current guidelines (
 
 ### Sketch & Abstract
 
-When working in **Sketch** for version control, we use **Abstract**, where we keep design files that we work on and primarily **open sketch files from Abstract**. Since no software is perfect, you should periodically backed up the documents you work on in Abstract to Google Drive (every month or so).
+When working in **Sketch** for version control, we use **Abstract**, where we keep design files that we work on and primarily **open sketch files from Abstract**. Since no software is perfect, you should periodically back up the documents you work on in Abstract to Google Drive (every month or so).
 
 If you have not worked on the project for more than a week, everything should be committed and merged into the master. If there are multiple projects for the same client, it must be clear (visually or textually) which one is the latest version, what is updating and what is stale (outdated).
 
@@ -108,6 +108,6 @@ Ideally, Zeplin and InVision should be a 1:1 replica of your design file (even i
 
 There are no problems while you're working by yourself, but if something comes up while you are on vacation and someone needs to jump in ASAP... Well, that might be a problem. If a colleague doesn't know where everything is, a 15-minute task can quickly become several hours of soul searching and digging. All the latest files should be online in some form (Figma, Abstract or Google Drive).
 
-We support creative clutter, but it's a good idea to do a 15-minute cleanup once a week to keep everything tidy. It would be the best if you did this every day for a few minutes when you're finished with work, or while doing some kind of a recap in your head (I understand that sometimes there is no time for that).
+We support creative clutter, but it's a good idea to do a 15-minute cleanup once a week to keep everything tidy. It would be the best if you did this every day for a few minutes when you're finished with work, or while doing some kind of recap in your head (I understand that sometimes there is no time for that).
 
 Take half an hour on **Mondays (schedule it like it's fun) and go through your projects (active ones and those that you think will be active for some time). Clean them up a bit if you haven't already.** If that cleanup takes too much time, make a plan and work it out over the upcoming weeks parallel with ongoing tasks.
