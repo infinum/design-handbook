@@ -14,6 +14,7 @@
 - [Velvetyne](http://velvetyne.fr)
 - [Fontain](https://fontain.org/)
 - [Use & Modify](http://usemodify.com/)
+- [Fontshare](https://www.fontshare.com/)
 - [fontfabric](https://www.fontfabric.com/free-fonts/)
 - [Free Faces](https://freefaces.gallery/)
 - [Fonts in the Wild](https://www.fontsinthewild.com/free)
