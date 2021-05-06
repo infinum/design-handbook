@@ -35,5 +35,6 @@ Track time spent on working up a solution for a buddy on the project (check with
 
 ## 📚 Recommended reading
 
+- [Design Critiques: Encourage a Positive Culture to Improve Products](https://www.nngroup.com/articles/design-critiques/)
 - [Dealing with creative block – 10 strategies to get back on track](https://infinum.com/the-capsized-eight/10-strategies-to-deal-with-creative-block)
 - [A brief guide to design feedback](https://matthewstrom.com/writing/critique-vs-review/)
