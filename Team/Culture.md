@@ -1,7 +1,5 @@
 ## Birthdays
 
-> *"This is how we do it!" — Montell Jordan*
-
 Every time someone from the team has a birthday, the rest of the design team gathers in a private Slack channel and spends restless days and nights in search of the perfect gift. For each birthday, we randomly pick someone to be the Birthday gift manager - their job is to keep things going and motivate others to brainstorm until we choose a gift. They also make sure that the present is bought and delivered on time. So, a birthday manager makes sure that:
 
 - 💬 facilitate brainstorming to come up with present ideas
