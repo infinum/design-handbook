@@ -4,7 +4,7 @@
 - [Type Network](https://fontbureau.typenetwork.com/)
 - [Typotheque](https://www.typotheque.com/)
 - [Klim Type Foundry](https://klim.co.nz/)
-- [Darden Studio](hhttps://www.dardenstudio.com/)
+- [Darden Studio](https://www.dardenstudio.com/)
 - [Colophon Foundry](https://www.colophon-foundry.org/)
 
 ## Free foundries
@@ -17,9 +17,9 @@
 - [Fontshare](https://www.fontshare.com/)
 - [fontfabric](https://www.fontfabric.com/free-fonts/)
 - [Free Faces](https://freefaces.gallery/)
-- [Fonts in the Wild](https://www.fontsinthewild.com/free)
 
 ### Useful typography links
 - [Fonts In Use](https://fontsinuse.com/)
+- [Fonts in the Wild](https://www.fontsinthewild.com/free)
 - [Typographica](https://typographica.org)
 - [Typewolf](https://www.typewolf.com/)
