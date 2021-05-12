@@ -45,7 +45,6 @@
 
 ### Mockup templates
 
-- [Sketch App Sources](http://www.sketchappsources.com/) - Free design resources for Sketch
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Facebook Design Resources - Devices](https://facebook.design/devices)
 - [Facebook Design Resources - Diverse Device Hands](https://facebook.design/handskit)
@@ -63,7 +62,6 @@
 ### Games
 
 - [What kind of designer](https://www.whatkindofdesigner.com/)
-- [15 Design games for when you feel like procrastinating](https://www.melted.design/15-design-games/)
 - [Color - A color matching game](https://color.method.ac/)
 - [Shape type - a letter shaping game](https://shape.method.ac/)
 - [Art Sqool](https://artsqool.cool/)
