@@ -2,7 +2,6 @@
 
 - [Figma Help Center](https://help.figma.com/hc/en-us)
 - [Figma best practices](https://www.figma.com/best-practices/)
-- [Sketch Documentation](https://sketchapp.com/learn/)
 - [Principle Documentation](https://principleformac.com/tutorial.html)
 
 ### Chrome plugins
@@ -22,7 +21,7 @@
 - [vanschneider.com/colors](https://vanschneider.com/colors)
 - [artsexperiments.withgoogle.com/artpalette](https://artsexperiments.withgoogle.com/artpalette/)
 
-## Accessibility checkers
+### Accessibility checkers
 - [Colorable](https://colorable.jxnblk.com/)
 - [We Are Colorblind](https://wearecolorblind.com/examples/)
 
@@ -31,7 +30,7 @@
 - [Simple Icons](https://simpleicons.org/)
 - [World vector logo](https://worldvectorlogo.com/)
 
-## Favicon generator
+### Favicon generator
 
 - [Favicon Real Favicon Generator](https://realfavicongenerator.net/)
 
