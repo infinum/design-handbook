@@ -30,7 +30,7 @@ Here are some **good pick up lines** for your team lead:
 - I'm hungry, let's have lunch!
 - I won't be able to finish this on time. Can you help me out?
 
-It doesn't mean that asking anyone else in the team is off-limits. Everyone will be happy to help.  🙂
+It doesn't mean that asking anyone else in the team is off-limits. Everyone will be happy to help!
 
 
 ## Design coordination
@@ -43,7 +43,7 @@ Check the 🗝 [Design coordination sheet](https://docs.google.com/spreadsheets/
 
 ## Tech reviews
 
-Every couple of weeks, you will get a calendar invitation from Damjan Vujaklija, our tech director, regarding projects you are working at the moment.
+Every couple of weeks, you will get a calendar invitation from Damjan Vujaklija (Product Director) regarding projects you are working at the moment.
 
 Damjan has got a sixth sense for UX troubles, and he will help you get rid of them early in the design process... or later, but better late than never.
 
