@@ -5,7 +5,7 @@ When you need to switch from Sketch to Figma, Figma provides great import option
 
 ## First things first
 
-Create a new project inside Infinum Team. If you don’t have the access to the team, contact one of the team leaders to add you. Inside the project, you can add multiple files. We advise you to invite your Project Manager, developers and clients with view-only permission. Also, invite your clients with view-only permission.
+Create a new project inside Infinum Team. If you don’t have the access to the team, contact one of the team leaders to add you. Inside the project, you can add multiple files. We advise you to invite your Project Manager, developers and clients with view-only permission.
 
 In the sharing settings turn on access only to people invited to file, so your file isn’t seen by everyone outside the company. Everyone at Infinum Team will still be able to view your project and files, and that's ok for most of the projects which are not strictly under NDA.
 
