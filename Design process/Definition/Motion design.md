@@ -63,16 +63,13 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 # The workflow
 
 1. Before diving into the motion part, figure out the time and budget constraints:
-⋅Upcoming projects - should have ballpark estimates for motion included 
-⋅Current projects - Project Designer checks with PM if there’s a budget for motion on the project
-
+⋅⋅* Upcoming projects - should have ballpark estimates for motion included 
+⋅⋅* Current projects - Project Designer checks with PM if there’s a budget for motion on the project
 2. The Project Designer discusses the animation and works out concept ideas together with a Motion Designer
 3. Motion Designer gives an estimate and a brief direction description. When figuring out an estimate, make sure to include:
-
-- buffer time for importing and exporting assets
-- time for 2 critique check-in points with the Project designer (first draft and polishing) 
-- in case of a more complex animation, the motion designer might create a proof of concept and re-estimate the project if needed.
-
+⋅⋅* buffer time for importing and exporting assets
+⋅⋅* time for 2 critique check-in points with the Project designer (first draft and polishing) 
+⋅⋅* in case of a more complex animation, the motion designer might create a proof of concept and re-estimate the project if needed.
 4. An estimate is sent off to the PM
 5. When the PM gives the green light, we schedule it via Operations
 6. The Project Designer or PM creates a task stating the estimated hours and due date.
