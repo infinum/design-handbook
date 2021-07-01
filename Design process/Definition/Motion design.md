@@ -156,6 +156,7 @@ The community is continuously growing – check out more [great examples already
 ## Motion for WordPress projects
 
 Here are a couple of libraries that can come in handy when creating landing pages with Wordpress:
+
 - [GreenSock](https://greensock.com/gsap)
 - [anime.js](https://animejs.com)
 - [barba.js](https://barba.js.org)
