@@ -63,8 +63,8 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 # The workflow
 
 1. Before diving into the motion part, figure out the time and budget constraints:
-⋅⋅* Upcoming projects - should have ballpark estimates for motion included 
-⋅⋅* Current projects - Project Designer checks with PM if there’s a budget for motion on the project
+* Upcoming projects - should have ballpark estimates for motion included 
+* Current projects - Project Designer checks with PM if there’s a budget for motion on the project
 2. The Project Designer discusses the animation and works out concept ideas together with a Motion Designer
 3. Motion Designer gives an estimate and a brief direction description. When figuring out an estimate, make sure to include:
 ⋅⋅* buffer time for importing and exporting assets
