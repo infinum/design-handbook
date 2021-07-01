@@ -62,10 +62,12 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 
 # The workflow
 
+### Step by step guide
+
 1. Before diving into the motion part, figure out the time and budget constraints:
 
-* Upcoming projects - should have ballpark estimates for motion included 
-* Current projects - Project Designer checks with PM if there’s a budget for motion on the project
+* *Upcoming projects* - should have ballpark estimates for motion included 
+* *Current projects* - Project Designer checks with PM if there’s a budget for motion on the project
 
 2. The Project Designer discusses the animation and works out concept ideas together with a Motion Designer
 3. Motion Designer gives an estimate and a brief direction description. When figuring out an estimate, make sure to include:
@@ -79,11 +81,41 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 6. The Project Designer or PM creates a task stating the estimated hours and due date.
 7. The Project Designer prepares assets and hands them over to the Motion Designer. Upload or link assets in task.
 8. Motion Designer gets to work! ✨
-9. 1st check-in point: Draft - The first draft needs to be reviewed early on in the process, so we’re sure we’re on the right track. Keep in mind that motion iterations take longer than those in static design. Include devs in this step also, so we make sure our idea is feasible and won’t run into issues in development or under-estimate the needed effort. 
+9. 🎯 **1st check-in point: Draft** - The first draft needs to be reviewed early on in the process, so we’re sure we’re on the right track. Keep in mind that motion iterations take longer than those in static design. Include devs in this step also, so we make sure our idea is feasible and won’t run into issues in development or under-estimate the needed effort. 
 10. Motion Designer continues working
-11. 2nd check-in point: Polishing
+11. 🎯 **2nd check-in point: Polishing**
 12. Motion Designer works on final touches and exports it to the Google Drive folder of the project. Handoff from Motion Designer to devs is done via Productive tasks.
 13. After implementation, the Motion Designer should review the implementation.
+
+
+### Project info (provided by designer and/or PM)
+
+- Who's who on the project (designer, design coordinator, PM)
+- Productive: project and billing point
+- If it's a client project: state its purpose (pitching the idea or actual project that will be handed off to devs)
+- If it's an internal project then knowing the budget (available hours) is a must
+
+
+### Preparing assets for handoff to Motion design
+
+- Properly name layers and groups that need to be animated
+- Avoid clipping content in masks whenever possible
+- Prepare states for all elements that animated elements (if they aren’t part of the provided flow)
+- It’s ok to use auto layout
+
+
+### Access to project files
+
+- Access to Google Drive folder
+- Access to Sketch or Figma files
+- Access to fonts
+- Access to production and/or staging
+- Authorisation for staging when needed (banking apps)
+
+### Achtung!
+
+- **Designers**, keep in mind that we need to schedule motion in advance. If you don't prepare assets on time, we'll need to reschedule the booking.
+- **PMs**, AfterEffects changes aren't as swift as iterations in Figma. Rendering takes time, mid-animation changes result in moving a lot of stuff around, Lottie export might have bugs, and so on. Try to round up all client comments at once and not iterate on an animation bit by bit. 
 
 
 # Interaction styleguide
