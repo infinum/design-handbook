@@ -94,6 +94,13 @@ Although some After Effects features are not yet supported, this library is grow
 
 The community is continuously growing – check out more [great examples already created by the Lottie community](https://lottiefiles.com/account/dashboard).
 
+## Motion for Wordpress projects
+
+Here are a couple of libraries that can come in handy when creating landing pages with Wordpress:
+- [GreenSock](https://greensock.com/gsap)
+- [anime.js](https://animejs.com)
+- [barba.js](https://barba.js.org)
+
 ## 📚 Recommended reading
 
 - [UI Movement](https://uimovement.com/) (Examples of UI Animations)
