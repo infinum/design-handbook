@@ -4,7 +4,6 @@
 - [iOS Guidelines by Ivo Mynttinen](http://iosdesign.ivomynttinen.com/)
 - [Material Design](https://material.io/)
 - [Expressing Brand in Material](https://design.google.com/articles/expressing-brand-in-material/)
-- [Google Design](https://design.google.com/)
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [Pattern Index](http://www.patternindex.org/)
 - [Design Systems Repo](https://designsystemsrepo.com/)
@@ -17,6 +16,7 @@
 - [DesignerNews](https://www.designernews.co/)
 - [UsePanda](https://usepanda.com/app/#/)
 - [Nielsen Norman Group](https://www.nngroup.com/articles/)
+- [Google Design](https://design.google.com/)
 - [Medium](https://medium.com/)
 - [UX Collective](https://uxdesign.cc/)
 - [UX Movement](http://uxmovement.com/)
@@ -52,7 +52,6 @@
 - [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
 - [The User Experience Team of One: A Research and Design Survival Guide](https://rosenfeldmedia.com/books/the-user-experience-team-of-one/)
 - [Design Kit: Methods](http://www.designkit.org/methods)
-- [Skillshare: Remote Design Thinking: How to run a remote workshop](https://www.skillshare.com/classes/Remote-Design-Thinking-How-to-Design-and-Run-a-Workshop-for-Remote-Teams/556304612/reviews)
 - [The Co-create Handbook](http://www.cocreate.training/2019/03/15/the-co-create-handbook-for-creative-professionals-is-now-online/)
 - [Miro Academy](https://academy.miro.com/)
 
@@ -98,6 +97,17 @@
 - [TED: Arta + Design](https://ideas.ted.com/category/arts-design/)
 - [Adobe x Behance Replay](https://www.behance.net/live/replays)
 - [Nordic.design](https://www.youtube.com/c/Nordicdesignconf/videos) - Conference talks
+
+## Books
+
+- [Gestalten](https://gestalten.com/)
+- [Taschen](https://www.taschen.com/)
+- [Phaidon](https://www.phaidon.com/store/design/)
+- [COUNTER-PRINT](https://www.counter-print.co.uk/)
+- [Draw Down](https://draw-down.com/)
+- [Victionary](https://victionary.com/)
+- [Blackwell's](https://blackwells.co.uk/bookshop/category/_artanddesign/)
+- [BookDepository](https://www.bookdepository.com/category/2/Art-Photography)
 
 ## Tech portals
 
