@@ -11,7 +11,6 @@
 - [Shopify Design System](https://polaris.shopify.com/)
 - [Kiwi Design System](https://beta.orbit.kiwi/)
 - [Intuit Design System](https://contentdesign.intuit.com/)
-
 - [Design System Checklist](https://www.designsystemchecklist.com/)
 
 
