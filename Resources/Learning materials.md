@@ -8,6 +8,7 @@
 - [Pattern Index](http://www.patternindex.org/)
 - [Design Systems Repo](https://designsystemsrepo.com/)
 - [DesignBetter Books](https://www.designbetter.co/books)
+- [Design System Checklist](https://www.designsystemchecklist.com/)
 
 
 ## News and articles
@@ -69,6 +70,14 @@
 - [UI Sources](https://www.uisources.com/)
 - [Little Big Details](http://littlebigdetails.com/)
 - [UI Garage](http://uigarage.net/)
+
+
+## On brand and product
+- [Brand essentials](https://uxdesign.cc/what-every-product-designer-needs-to-know-about-brand-5863f92e97d7) - What every product designer needs to know about brand
+- [Brand cheat sheet](https://medium.com/@elanagurney/build-a-brand-cheat-sheet-a963f8948856) - All the tools you need to build a brand
+- [Brand vs Branding vs Identity](https://www.ebaqdesign.com/blog/branding-brand-identity)
+- [Building the Maze brand](https://maze.co/blog/building-the-maze-brand/)
+- [What is a brand](https://matthewstrom.com/writing/what-is-a-brand/)
 
 
 ## Inspiration
