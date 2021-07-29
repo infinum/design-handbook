@@ -1,4 +1,4 @@
-## Digital design guidelines
+## Digital design guidelines & systems
 
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [iOS Guidelines by Ivo Mynttinen](http://iosdesign.ivomynttinen.com/)
@@ -8,7 +8,12 @@
 - [Pattern Index](http://www.patternindex.org/)
 - [Design Systems Repo](https://designsystemsrepo.com/)
 - [DesignBetter Books](https://www.designbetter.co/books)
+- [Shopify Design System](https://polaris.shopify.com/)
+- [Kiwi Design System](https://beta.orbit.kiwi/)
+- [Intuit Design System](https://contentdesign.intuit.com/)
+
 - [Design System Checklist](https://www.designsystemchecklist.com/)
+
 
 
 ## News and articles
