@@ -98,7 +98,6 @@
 - [siteInspire](https://www.siteinspire.com/)
 - [Under Consideration: Brand New](https://www.underconsideration.com/brandnew/)
 - [Flowing Page](https://www.flowing.page/) - A Showcase Of The Best Animation Websites
-- [Codrops](https://tympanus.net/codrops/) - Web motion inspo
 - [Information is beautiful](https://informationisbeautiful.net/) - Data visualisation
 
 
