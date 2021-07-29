@@ -37,6 +37,7 @@
 - [AIGA Eye On Design](https://eyeondesign.aiga.org/)
 - [Design Observer](https://designobserver.com/)
 
+
 ## Recommended reading
 
 - [Which Input When](http://morgancarter.com.au/design-solutions/which-input-when)
@@ -44,6 +45,7 @@
 - [Design better data tables](https://medium.com/nextux/design-better-data-tables-4ecc99d23356)
 - [Device metrics](https://material.io/devices/)
 - [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
+- [Data visualization best practices](https://uxplanet.org/data-visualization-best-practices-and-foundations-48f4a08d354e)
 
 
 ## UX methods and workshop handbooks
@@ -70,6 +72,7 @@
 - [UI Sources](https://www.uisources.com/)
 - [Little Big Details](http://littlebigdetails.com/)
 - [UI Garage](http://uigarage.net/)
+- [PatternCollect](https://patterncollect.com/) - A curated gallery of patterns by awesome designers & illustrators
 
 
 ## On brand and product
@@ -90,6 +93,10 @@
 - [Case Study Club](https://www.casestudy.club/)
 - [siteInspire](https://www.siteinspire.com/)
 - [Under Consideration: Brand New](https://www.underconsideration.com/brandnew/)
+- [Flowing Page](https://www.flowing.page/) - A Showcase Of The Best Animation Websites
+- [Codrops](https://tympanus.net/codrops/) - Web motion inspo
+- [Information is beautiful](https://informationisbeautiful.net/) - Data visualisation
+
 
 ## Podcasts
 
@@ -101,11 +108,13 @@
 - [Illustration Hour](https://www.illustrationhour.com/)
 - [DesignBetter Podcast](https://www.designbetter.co/podcast)
 
+
 ## Videos lectures and tutorials
 
 - [TED: Arta + Design](https://ideas.ted.com/category/arts-design/)
 - [Adobe x Behance Replay](https://www.behance.net/live/replays)
 - [Nordic.design](https://www.youtube.com/c/Nordicdesignconf/videos) - Conference talks
+
 
 ## Books
 
@@ -118,11 +127,13 @@
 - [Blackwell's](https://blackwells.co.uk/bookshop/category/_artanddesign/)
 - [BookDepository](https://www.bookdepository.com/category/2/Art-Photography)
 
+
 ## Tech portals
 
 - [The Verge](https://www.theverge.com/)
 - [TechCrunch](https://techcrunch.com/)
 - [Increment](https://increment.com/)
+
 
 ## Design + Code
 
