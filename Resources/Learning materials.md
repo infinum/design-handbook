@@ -128,7 +128,7 @@
 - 💱 [Draw Down](https://draw-down.com/)
 - 💱 [Victionary](https://victionary.com/)
 - 💱 [Blackwell's](https://blackwells.co.uk/bookshop/category/_artanddesign/)
-- 💱 [BookDepository](https://www.bookdepository.com/category/2/Art-Photography
+- 💱 [BookDepository](https://www.bookdepository.com/category/2/Art-Photography)
 
 Note: Books with "💱" indicate shipping from countrires outside the EU.
 
