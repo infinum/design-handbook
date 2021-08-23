@@ -43,10 +43,10 @@ Check the 🗝 [Design coordination sheet](https://docs.google.com/spreadsheets/
 
 ## Tech reviews
 
-Every couple of weeks, you will get a calendar invitation from Damjan Vujaklija (Product Director) regarding projects you are working at the moment.
+We found it’s good practice for someone with a significant technical background to go over the project with you occasionally. We’ve dedicated a couple of developers for this. They have a good sense for UX, but also are experts for their platform. 
 
-Damjan has got a sixth sense for UX troubles, and he will help you get rid of them early in the design process... or later, but better late than never.
+These types of reviews are best when applied early in the project stages. But they are also great for improving technical or UX aspects later in the project lifecycle.
 
-He will make sure the design, or implemented design, is up to mobile and web standards we care about at Infinum. It will also help you develop a good sense of UX patterns and rules across different platforms.
+Use these reviews to improve the product. But also to get more knowledge about platform specific behaviour and patterns. 
 
-Make sure you improve your flows and design before the next session with Damjan.
+Tech reviews can be anything between half an hour and an hour meeting. There is no hard rule for who initiates the review: it can be you, your TL, design coordinator or a reviewer. If you haven’t had one of these before, don’t hesitate to start one! Best talk to your TL or design coordinator and they will help find a best fit for your project.
