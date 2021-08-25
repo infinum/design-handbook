@@ -1,6 +1,6 @@
 ## Where to start?
 
-Start by going through [Figma's Help Centre](https://help.figma.com/hc/en-us/articles/360039970673-Permissions-in-teams) - they’ve created an incredible library of easy to follow tutorials which concisely cover all of Figma’s functionalities. For advanced use, check their [Best Practices](https://www.figma.com/best-practices/) library. 
+Start by going through [Figma's Help Centre](https://help.figma.com/hc/en-us/categories/360002051613-Getting-Started) - they’ve created an incredible library of easy to follow tutorials which concisely cover all of Figma’s functionalities. For advanced use, check their [Best Practices](https://www.figma.com/best-practices/) library. 
 
 To stay up-to-date, follow them on [YouTube](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA/videos) for video tutorials and check their [What's New](https://www.figma.com/whats-new/) for the latest updates.
 
