@@ -36,7 +36,7 @@ A flowchart is the flow diagram which represents the complete map of an app or a
 
 We usually create a flowchart for the features based on the previous customer journey map. 
 
-You can draw flowcharts in Figma, but it's easier if you use this fantastic tool — [Overflow](https://overflow.io/).
+You can draw flowcharts in Figma with the help of the [Autoflow plugin](https://www.figma.com/community/plugin/733902567457592893/Autoflow).
 
 
 ![](/img/designprocess-flowchart.jpg)
