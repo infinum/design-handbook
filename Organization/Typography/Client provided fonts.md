@@ -1,4 +1,4 @@
 1. The client **must provide** fonts and licenses in case they use licensed fonts. You should store licenses in the Fonts folder inside the project folder (except for non-commercial fonts).
 2. If the client does not have a license for using the font, they must sign a **new contract** in which they agree that they take full legal responsibility if any issues occur.
 3. There is a possibility that the font is custom-made by the client, or the client has full ownership of the font. Then, in theory, there is nothing to be done, but it would be good to create a mini-contract where the client confirms that the font is his and takes full responsibility for all the possible legal issues.
-4. When the font is handed over to us, is kept in the corresponding **project folder on Google Drive**.
+4. When the font is forwarded to us, we store in the corresponding **project folder on Google Drive**.
