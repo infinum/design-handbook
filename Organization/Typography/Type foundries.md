@@ -6,6 +6,7 @@
 - [Klim Type Foundry](https://klim.co.nz/)
 - [Darden Studio](https://www.dardenstudio.com/)
 - [Colophon Foundry](https://www.colophon-foundry.org/)
+- [Order](https://order.design/)
 
 ## Free foundries
 
