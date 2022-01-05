@@ -95,3 +95,4 @@ P.S. if your file is large and you have a lot of components, maybe you can add c
 - [Instance finder](https://www.figma.com/c/plugin/741895659787979282/Instance-Finder)- Find all Instances of a Component used in your file.
 - [Quantizer](https://www.figma.com/c/plugin/753298710088509926/Quantizer) - This plugin is for quick arranging and rearranging selected layers in columns.
 - [Similayer](https://www.figma.com/c/plugin/735733267883397781/Similayer) - This plugin takes Figma’s in-built ‘Select all with...’ command to the next level. Select similar layers; based on a whole range of properties.
+- [Font Master](https://www.figma.com/community/plugin/781086314747849337/Font-Master) - This plugin scans your project then shows you all of your font styles and where they have been used. You can select your texts and group them under a style quickly.
