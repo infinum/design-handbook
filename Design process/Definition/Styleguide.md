@@ -18,7 +18,7 @@ A standard web or app styleguide includes:
 - guidelines on using these elements
 - categorized UI components
 - UI states of the components (ideal state, empty, loading, error, etc.)
-- interaction styleguide or instructions for developers
+- interaction instructions for developers
 
 You can find a styleguide template with all the necessary elements for your project in [our set of reusable templates](https://infinum.com/handbook/books/design/organization/a-set-of-reusable-templates).
 
