@@ -117,15 +117,6 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 - **Designers**, keep in mind that we need to schedule motion in advance. If you don't prepare assets on time, we'll need to reschedule the booking.
 - **PMs**, AfterEffects changes aren't as swift as iterations in Figma. Rendering takes time, mid-animation changes result in moving a lot of stuff around, Lottie export might have bugs, and so on. Try to round up all client comments at once and not iterate on an animation bit by bit. 
 
-
-# Interaction styleguide
-
-<p align="center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYCDdaMiHHl7NMh7j8D0yku%2FInteraction-template-WIP%3Fnode-id%3D1%253A9&chrome=DOCUMENTATION" allowfullscreen></iframe></p>
-
-We've created this [interaction styleguide](https://www.figma.com/file/YCDdaMiHHl7NMh7j8D0yku/Interaction-library-WIP?node-id=188%3A102) to help designers (and devs) define and point out places in the app or website where these interactions occur.
-
-You can also use some of our defaults for loading states, pressed states, hover states etc.
-
 # The tools
 
 ## Principle
