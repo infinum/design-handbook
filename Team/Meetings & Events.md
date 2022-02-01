@@ -4,8 +4,8 @@
 Weeklies are about planning and the workload and are scheduled in your calendar (every Monday at 10:45 AM). If you are working remotely, join via Zoom. In case you're working full time on an ongoing project without hopping onto other duties, or have a fixed schedule for a longer time, feel free to skip this meeting.
 
 
-### Sunbathing
-Every Wednesday at 3 PM we do a one-hour design critique called Sunbathing. A couple of designers present a problem or example of good practice while other team members make improvement suggestions or share their experiences.
+### Critique sessions
+A weekly meeting where a group of designers sits down to present work in progress while other team members make improvement suggestions or share their experiences.
 
 Check the [Getting back on track](https://infinum.com/handbook/books/design/design-process/feedback/getting-back-on-track) chapter for ways to give meaningful feedback and critiquing here.
 
