@@ -1,7 +1,7 @@
 ## Recurring meetings
 
 ### Weeklies
-Weeklies are about planning and the workload and are scheduled in your calendar (every Monday at 10:45 AM). If you are working remotely, join via Zoom. In case you're working full time on an ongoing project without hopping onto other duties, or have a fixed schedule for a longer time, feel free to skip this meeting.
+Weeklies are about planning and the workload and are scheduled in your calendar (every Monday at 10:00 AM). If you are working remotely, join via Zoom. In case you're working full time on an ongoing project without hopping onto other duties, or have a fixed schedule for a longer time, feel free to skip this meeting.
 
 
 ### Critique sessions
@@ -13,10 +13,7 @@ Check the [Getting back on track](https://infinum.com/handbook/books/design/desi
 
 ### Lectures
 
-Format: 20 min. presentation + 10 min. discussion. Prepare an accompanying presentation so we can all refer back to the lecture. A good time slot for lectures is in the afternoon, around 4 PM. Make sure to record your lecture (double-check if you're recording both video and audio). 
-
-If you have something you'd like to talk about, go ahead and ping your Team Lead, prepare a lecture and share your discoveries with the team.
-
+If you have something you'd like to talk about, go ahead and ping your Team Lead, prepare a lecture and share your discoveries with the team. A good time slot for lectures is in the afternoon, around 3 or 4 PM. Make sure to record your lecture (double-check if you're recording both video and audio). 
 Oh, and bring booze. 🍻
 
 🗝 **Google Drive: [Internal Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxalZyTlIwemN2Zmc?usp=sharing) + [Worldwide Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxMS1FZHh3VVZDNGc?usp=sharing)**
@@ -47,6 +44,6 @@ More on our Design Talks can be found in 🗝 [this Paper doc](https://paper.dro
 
 
 ### Off the Grid
-Every couple of months, the design team gathers on a Saturday to work on a specific design skill that isn't related to our day job. It's a safe zone for analogue design experiments. We usually kick off the workshop around 10 AM until 3 PM, but everyone can drop in at any time. Time spent on this workshop is voluntary, so attendance isn't mandatory. Infinum provides breakfast, snacks, drinks, and lunch.
+From time to time, the design team gathers on a Saturday to work on a specific design skill that isn't related to our day job. It's a safe zone for analogue design experiments. We usually kick off the workshop around 10 AM until 3 PM, but everyone can drop in at any time. Time spent on this workshop is voluntary, so attendance isn't mandatory. Infinum provides breakfast, snacks, drinks, and lunch.
 
 So far we turned each-others worst fears into movie posters, worked on our illustrations with critique sessions from teammates, and kicked off some cool stuff for Design Islands. If you have an idea for a workshop, let your TL know and let's start planning!
