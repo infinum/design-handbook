@@ -13,27 +13,16 @@
 - [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html) + [Lottie](https://airbnb.design/lottie/) ⭐️
 - [Principle](https://principleformac.com/)
 
-
-### Charts
-- [Overflow](https://overflow.io/) 
-- [OmniGraffle](https://www.omnigroup.com/omnigraffle) 
-
 ### Prototyping
 - [Figma](https://www.figma.com/) ⭐️
 - [InVision](https://www.invisionapp.com/) 
-- [Marvel](https://marvelapp.com/)
 
 ### Micro-interaction animation
-- [Principle](https://zeplin.io/)
+- [Principle](https://principleformac.com/)
 - [Framer](https://www.framer.com/)
-- [Atomic](https://www.atomic.io/)
-- [Flinto](https://www.flinto.com/)
-- [Inspector Spacetime](https://google.github.io/inspectorspacetime/)
 
 ### Mirroring
 - Figma Mirror ([iOS](https://apps.apple.com/us/app/figma-mirror/id1152747299)/[Android](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en)) - preview Figma screens on mobile devices
-- [Sketch Mirror](https://apps.apple.com/us/app/sketch-mirror/id677296955) - preview Sketch screens on a iOS device
-- [Crystal](https://play.google.com/store/apps/details?id=com.smithyproductions.crystal) - preview Sketch screens on an Android device
 
 
 ### Hand-off
