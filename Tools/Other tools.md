@@ -15,16 +15,16 @@
 
 
 ### Charts
-- [Overflow](https://overflow.io/) ⭐️
+- [Overflow](https://overflow.io/) 
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) 
 
 ### Prototyping
 - [Figma](https://www.figma.com/) ⭐️
-- [InVision](https://www.invisionapp.com/) ⭐️
+- [InVision](https://www.invisionapp.com/) 
 - [Marvel](https://marvelapp.com/)
 
 ### Micro-interaction animation
-- [Principle](https://zeplin.io/) ⭐️ 
+- [Principle](https://zeplin.io/)
 - [Framer](https://www.framer.com/)
 - [Atomic](https://www.atomic.io/)
 - [Flinto](https://www.flinto.com/)
@@ -37,11 +37,8 @@
 
 
 ### Hand-off
-- [Zeplin](https://zeplin.io/) ⭐️
+- [Zeplin](https://zeplin.io/) 
 - [InVision](https://www.invisionapp.com/feature/inspect) + [Craft](https://www.invisionapp.com/craft)
 - [ImageOptim](https://imageoptim.com/) ⭐️ - supports both lossless and lossy compression, lossy being a great choice for large photos
 - [TinyPNG](https://tinypng.com/) - lossy compression for PNGs and JPGs
 - [Handbrake](https://handbrake.fr/) - video compression tool
-
-### Window organisation
-- [Spectacle](https://www.spectacleapp.com/) - a window control app
