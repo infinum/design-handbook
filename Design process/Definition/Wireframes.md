@@ -16,7 +16,7 @@ Wireframes help us with:
 
 Wireframes are also useful for creating quick [prototypes](https://infinum.com/handbook/books/design/design-process/discovery/prototype) which we often use during usability testing sessions with users.
 
-If you are going to create wireframes for your project, please use [one of our reusable templates](https://infinum.com/handbook/books/design/organization/a-set-of-reusable-templates) as a starting point. 
+If you are going to create wireframes for your project, please use one of our reusable templates as a starting point. You can find our templates in Figma. 
 
 It's not necessary to design all the screen states during the wireframe phase. It's just important to get the structure and the flows right.
 
