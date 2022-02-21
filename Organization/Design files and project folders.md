@@ -22,27 +22,27 @@ We currently take care of 4 things:
 
 ### Naming convention
 
-If a colleague takes over your project, the naming convention will help them to onboard faster. Here are a couple of pointers:
+If a colleague takes over your project, the naming convention will help them onboard faster. Here are a couple of pointers:
 
-- Naming screens with numbers makes communication with the client easier. They are necessary if you are using Sketch but not needed if you use Figma. 
-- Logical page order and page names will keep everyone on the same page. Separate different flows into pages. 
-- Keep a consistent numbering and naming convention, and grid-align the artboards.
-
-
-e.g. Client: 01.02 screen is great, but 01.03 is too complicated.
+- You should never have two screens with the same name.
+- Name the screens meaningfully. Mention the flow and description of the screen. This will help developers, clients, and colleagues understand what's happening on the screen more straightforward.
+- Logical page order and page names will keep everyone on the same page. Separate different flows into pages.
+- Keep a consistent naming convention, and grid-align the frames.
 
 Naming conventions for **Pages**:
 
-- 00 Onboarding
-- 01 Home
-- 02 Notifications
-- 03 …04 Archive
+- Onboarding
+- Home
+- Notifications
+- Archive
 
-Naming conventions for **Screens**:
+Naming conventions for **Screens (Frames)**:
+(Flow - Name of the screen - State)
 
-- 00.01 Splash
-- 00.02 Welcome message
-- 00.03
+- Onboarding - Language picker - Selected
+- Schedule - New visit - Filled
+- My profile - Appliance details - Software version
+- Rooms - Floor view - Tags
 
 
 ### Flows
