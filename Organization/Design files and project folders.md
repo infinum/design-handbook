@@ -37,8 +37,8 @@ Naming conventions for **Pages**:
 - Archive
 
 Naming conventions for **Screens (Frames)**:
-(Flow - Name of the screen - State)
 
+- *(Flow - Name of the screen - State)*
 - Onboarding - Language picker - Selected
 - Schedule - New visit - Filled
 - My profile - Appliance details - Software version
