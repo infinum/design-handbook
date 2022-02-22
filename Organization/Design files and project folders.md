@@ -6,7 +6,7 @@ We usually store our project files in project folders on Google Drive. Keep your
 
 We currently take care of 4 things:
 
-1. Project folders (in alignment with PM).
+1. Project folders (in alignment with PM)
 2. File tidiness
 3. Versioning
 4. Export
