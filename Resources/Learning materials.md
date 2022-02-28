@@ -77,6 +77,10 @@
 - [Little Big Details](http://littlebigdetails.com/)
 - [UI Garage](http://uigarage.net/)
 - [PatternCollect](https://patterncollect.com/) - A curated gallery of patterns by awesome designers & illustrators
+- [Page Flows](https://pageflows.com/) - Web and mobile
+- [Collect UI](https://collectui.com/) - Web and mobile
+- [Nicelydone](https://nicelydone.club/) - Web
+- [Land-book](https://land-book.com/) - Web
 
 
 ## On brand and product
