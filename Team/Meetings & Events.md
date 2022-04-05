@@ -40,7 +40,7 @@ Once in a while, we organize Design Talks where we hold brief presentations on t
 
 Once we have a good foundation about a topic, we have a moderated discussion about it. A rule of thumb is about two talks per event, so we don't go over an hour. Attendance is not mandatory. We record all talks and upload them on 🗝 [Drive: Internal Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxalZyTlIwemN2Zmc?usp=sharing) if you miss it and would still like to check out later.
 
-More on our Design Talks can be found in 🗝 [this Paper doc](https://paper.dropbox.com/doc/Design-Talks--A6dn1IsCgMtDotwPRVWaelm9Ag-BSnp4MOp6XBPcno7M0MjO).
+More on our Design Talks can be found in 🗝 [this Productive doc](https://app.productive.io/1-infinum/pages/67052).
 
 
 ### Off the Grid
