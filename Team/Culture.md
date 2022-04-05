@@ -6,7 +6,7 @@ Every time someone from the team has a birthday, the rest of the design team gat
 - 🎁 purchase the gift
 - ⏱ make sure the gift is on time
 
-The budget is usually 40 kunas multiplied by the number of people pitching in. Of course, you can give more or less; it's all about agreement. Oh, and don't forget to upload birthday photos to our 🗝 [scrapbook folder](https://drive.google.com/drive/folders/1LvWpKhQhtg4zaJybv5-GY9CiKTl2mWsN?usp=sharing)).
+The budget is usually 40 kunas multiplied by the number of people pitching in. Of course, you can give more or less; it's all about agreement. Oh, and don't forget to upload birthday photos to our 🔒 [scrapbook folder](https://drive.google.com/drive/folders/1LvWpKhQhtg4zaJybv5-GY9CiKTl2mWsN?usp=sharing)).
 
 
 ## Food orders
