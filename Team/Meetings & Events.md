@@ -16,7 +16,7 @@ Check the [Getting back on track](https://infinum.com/handbook/books/design/desi
 If you have something you'd like to talk about, go ahead and ping your Team Lead, prepare a lecture and share your discoveries with the team. A good time slot for lectures is in the afternoon, around 3 or 4 PM. Make sure to record your lecture (double-check if you're recording both video and audio). 
 Oh, and bring booze. 🍻
 
-🗝 **Google Drive: [Internal Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxalZyTlIwemN2Zmc?usp=sharing) + [Worldwide Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxMS1FZHh3VVZDNGc?usp=sharing)**
+🔒 **Google Drive: [Internal Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxalZyTlIwemN2Zmc?usp=sharing) + [Worldwide Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxMS1FZHh3VVZDNGc?usp=sharing)**
 
 
 ### Workshops
@@ -27,7 +27,7 @@ Divide the presentation in 2 parts: theory and tasks. There should always be a t
 
 No booze. Spillage danger. 📔 ✏️
 
-🗝 **Google Drive: [Internal Workshops](https://drive.google.com/drive/folders/0B3Jin_BtSdpxOGo1aFdxWU1IaHc?usp=sharing)**
+🔒 **Google Drive: [Internal Workshops](https://drive.google.com/drive/folders/0B3Jin_BtSdpxOGo1aFdxWU1IaHc?usp=sharing)**
 
 
 ### Design Talks
@@ -38,9 +38,9 @@ Once in a while, we organize Design Talks where we hold brief presentations on t
 - showcasing unique processes
 - anything educational or thought-provoking in the design field.
 
-Once we have a good foundation about a topic, we have a moderated discussion about it. A rule of thumb is about two talks per event, so we don't go over an hour. Attendance is not mandatory. We record all talks and upload them on 🗝 [Drive: Internal Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxalZyTlIwemN2Zmc?usp=sharing) if you miss it and would still like to check out later.
+Once we have a good foundation about a topic, we have a moderated discussion about it. A rule of thumb is about two talks per event, so we don't go over an hour. Attendance is not mandatory. We record all talks and upload them on 🔒 [Drive: Internal Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxalZyTlIwemN2Zmc?usp=sharing) if you miss it and would still like to check out later.
 
-More on our Design Talks can be found in 🗝 [this Productive doc](https://app.productive.io/1-infinum/pages/67052).
+More on our Design Talks can be found in 🔒 [this Productive doc](https://app.productive.io/1-infinum/pages/67052).
 
 
 ### Off the Grid
