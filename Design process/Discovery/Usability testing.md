@@ -250,7 +250,7 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 
 ## 3. Analysis
 
-*Live testing:* After the session, or after all sessions, enter data collected from the task rating tables into the 🗝 [**Task rating spreadsheet**](https://drive.google.com/open?id=1yM2OfOHQ_AFMomjRM2qYgOk0KNkPZatP4Xn3vOgVUEo). 
+*Live testing:* After the session, or after all sessions, enter data collected from the task rating tables into the 🔒 [**Task rating spreadsheet**](https://drive.google.com/open?id=1yM2OfOHQ_AFMomjRM2qYgOk0KNkPZatP4Xn3vOgVUEo). 
 
 When you got all the data, go through the rating table or Maze's report and the observer's notes and video recordings. 
 <br>Build your report around these:
@@ -261,7 +261,7 @@ When you got all the data, go through the rating table or Maze's report and the 
 <br>5. **General appeal** of the app to participants,
 <br>6. **Improvement suggestions** based either on participants' direct ideas or your analysis of all of the above.
 
-You can write your report as Pages/Word document or as a presentation document. You can find both templates 🗝 [in this folder](https://drive.google.com/drive/folders/1GWjGGeO1wGoNCflg0vMxuHP4_6YdA2wU?usp=sharing). If you follow these templates' structure, you won't miss any significant part of the report, such as describing participants.
+You can write your report as Pages/Word document or as a presentation document. You can find both templates 🔒 [in this folder](https://drive.google.com/drive/folders/1GWjGGeO1wGoNCflg0vMxuHP4_6YdA2wU?usp=sharing). If you follow these templates' structure, you won't miss any significant part of the report, such as describing participants.
 
 You'll be sending this report to the client, so try to write it in a plain language with no UX/UI lingo and lay down what improvement ideas result from the testing. That's what clients care about - how we'll use insights to make their product better.
 
