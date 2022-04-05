@@ -49,11 +49,11 @@ The usability testing organization depends on many factors (the number of partic
 There are some essential steps that don't differ from one setup to another. We'll explain the differences as we come by them.
 
 
-<br>1. Send 🗝 [**Statement of Consent and Confidentiality statement**](https://drive.google.com/open?id=1OzQrCEtUuzfynynlDKRyg5b5PMbdBDkv) documents to your project’s PM and the client to make sure if everything is ok from a legal standpoint.
+<br>1. Send 🔒 [**Statement of Consent and Confidentiality statement**](https://drive.google.com/open?id=1OzQrCEtUuzfynynlDKRyg5b5PMbdBDkv) documents to your project’s PM and the client to make sure if everything is ok from a legal standpoint.
 
 <br>2. Discuss with the client early on **who is recruiting participants** and where the testing will take place. One significant point to discuss: how participants will be rewarded. Usually, it's a gift voucher or some small gadget. Make sure the client knows about this and budgets for rewards.
 
-<br>3. Go over the 🗝 [**requirements document**](https://drive.google.com/open?id=1Y_MU8k9fB28ZmW251tuiz1whPV7NIVb2) with the client in person or on a call. Also, send this document in a follow-up email. 
+<br>3. Go over the 🔒 [**requirements document**](https://drive.google.com/open?id=1Y_MU8k9fB28ZmW251tuiz1whPV7NIVb2) with the client in person or on a call. Also, send this document in a follow-up email. 
 
 Here’s an example of a mail we send alongside the requirements doc:
 
@@ -91,9 +91,9 @@ Here’s an example of a mail we send alongside the requirements doc:
 <br>4. Create a [**testing schedule table**](https://docs.google.com/spreadsheets/d/1Qe3JTMC-OTln9CbZJO5DycNsektAJVaoOzdG0r0jyRA/edit?usp=sharing). Depending on the setup, it will be up to the client or us to fill the timeslots. Keep each session about 60 min per person (40 min of interacting with the participant, 20 min for reviewing and preparing for the next participant)— five participants per day max. In case the testing is conducted remotely or in a different country, keep time zones in mind when planning and scheduling. 
 
 
-<br>5. **Recruit participants** using our 🗝 [**testers database**](https://drive.google.com/drive/folders/1j1UbwKxepV7ob0wkXM6Vegtr7App44Lr?usp=sharing) or ask good people of Infinum at #infinum Slack channel if they happen to know someone who fits the target audience. For each group of users have one back-up participant. When using the testers database, please consult with team leads or UX strategist.
+<br>5. **Recruit participants** using our 🔒 [**testers database**](https://drive.google.com/drive/folders/1j1UbwKxepV7ob0wkXM6Vegtr7App44Lr?usp=sharing) or ask good people of Infinum at #infinum Slack channel if they happen to know someone who fits the target audience. For each group of users have one back-up participant. When using the testers database, please consult with team leads or UX strategist.
     
-<br>6. Prepare an 🗝 [**agenda**](https://drive.google.com/open?id=1rvcT8KHnBXLNHH8sgFlDrmshlCybZL20) for all testing sessions based on participant availability. Here is an example agenda for one day:
+<br>6. Prepare an 🔒 [**agenda**](https://drive.google.com/open?id=1rvcT8KHnBXLNHH8sgFlDrmshlCybZL20) for all testing sessions based on participant availability. Here is an example agenda for one day:
 
 ```
 09:00 AM - 10:00 AM – 1st user
@@ -164,7 +164,7 @@ This is where live and remote usability testing diverge. Steps are similar, but 
 
 <br>Ping HR for this. We use [Hello sign](https://www.hellosign.com/) for remote documents signing. You'll need to send HR the list of participant's email addresses and versions of NDA and Consent that participants need to sign. Colleagues from HR will ping you as participants start signing the documents.
 
-<br>10. **Prep participants** for testing. Send them the 🗝 [prep email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) so that they know what to expect and have an up to date browser needed for Maze to run smoothly.
+<br>10. **Prep participants** for testing. Send them the 🔒 [prep email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) so that they know what to expect and have an up to date browser needed for Maze to run smoothly.
 
 <br>11. **Reserve timeslots** at Infinum's Zoom account. Send your PM the testing schedule and ask them to reserve these timeslots for you. Zoom usually has the most stable video connection, and it lets you record the call online. Recording online is better because your Mac will quickly start dragging if you record it locally.
 
@@ -198,7 +198,7 @@ We do test runs to notice smaller issues and any improvements we can make before
 
 
 *Remote testing:* Much easier than above. 
-<br>1. Send participant 🗝 [the email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) with both links to Zoom and Maze.
+<br>1. Send participant 🔒 [the email](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing) with both links to Zoom and Maze.
 
 
 ### The session
@@ -214,7 +214,7 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 
 #### Live testing
 
-<br>4.Give the 🗝 [**Statement of Consent and Confidentiality statement**](https://drive.google.com/open?id=1OzQrCEtUuzfynynlDKRyg5b5PMbdBDkv) (when mentioned in the Interviewer guides). 
+<br>4.Give the 🔒 [**Statement of Consent and Confidentiality statement**](https://drive.google.com/open?id=1OzQrCEtUuzfynynlDKRyg5b5PMbdBDkv) (when mentioned in the Interviewer guides). 
     **Statement of** **Consent** — explain that we will record the screen and the user's face and use it only for this research. 
     **Confidentiality statement** — point out that all the information regarding the app and this testing is confidential. Your role here is not to come across as an expert but as a good listener, so don’t hesitate to admit your ignorance about anything.
     
