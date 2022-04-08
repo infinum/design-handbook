@@ -149,3 +149,36 @@ Note: Books with "💱" indicate shipping from countrires outside the EU.
 - [Codepen](https://codepen.io/)
 - [Codrops](http://tympanus.net/codrops/)
 - [CodyHouse](http://codyhouse.co/)
+
+## Online Design Courses
+
+### [Nielsen Norman Group](https://www.nngroup.com/1-hour-talks/): 1-Hour Talks
+
+On-demand 1h lectures per $100. The lectures can be streamed again and don’t expire. Covers a breadth of topics.
+
+- [Effective Wireframing](https://www.nngroup.com/1-hour-talks/effective-wireframing-techniques/)
+- [Presenting to Stakeholders](https://www.nngroup.com/1-hour-talks/presenting-stakeholders/)
+- [Design Critiques: What, How, and When](https://www.nngroup.com/1-hour-talks/design-critiques-what-how-and-when/) 
+- [Facilitating Remote Design Workshops](https://www.nngroup.com/1-hour-talks/facilitating-remote-design-workshops/)
+- [Building a 2.0](https://www.nngroup.com/1-hour-talks/building-2/)
+- [UX for Big Data](https://www.nngroup.com/1-hour-talks/ux-big-data/)
+
+### [Interaction Design Foundation](https://www.interaction-design.org/) 
+
+All courses are pre-recorded. You pay €15 per month to access all courses. They are not bought individually.
+
+When you enroll in a course, one lecture is unlocked each week. There are no deadlines. After each unit (or course) you must take an open-ended test that their instructors grade. After that, you get a certificate.
+
+**UX:**
+- [User Research – Methods and Best Practices](https://www.interaction-design.org/courses/user-research-methods-and-best-practices) (Beginner, Intermediate) 
+- [Emotional Design — How to Make Products People Will Love](https://www.interaction-design.org/courses/emotional-design-how-to-make-products-people-will-love) (Beginner, Intermediate)
+- [Mobile User Experience (UX) Design](https://www.interaction-design.org/courses/mobile-user-experience-design) (Beginner, Intermediate)
+- [Affordances: Designing Intuitive User Interfaces](https://www.interaction-design.org/courses/affordances-designing-intuitive-user-interfaces) (Intermediate, Advanced) 
+- [Information Visualization: Getting Dashboards Right](https://www.interaction-design.org/courses/information-visualization-getting-dashboards-right) (Intermediate, Advanced) 
+- [Accessibility: How to Design for All](https://www.interaction-design.org/courses/accessibility-how-to-design-for-all) (Intermediate, Advanced)
+
+**UI:**
+- [The Ultimate Guide to Visual Perception and Design](https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design) (Intermediate, Advanced)
+
+
+
