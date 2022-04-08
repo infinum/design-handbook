@@ -170,6 +170,7 @@ All courses are pre-recorded. You pay €15 per month to access all courses. The
 When you enroll in a course, one lecture is unlocked each week. There are no deadlines. After each unit (or course) you must take an open-ended test that their instructors grade. After that, you get a certificate.
 
 **UX:**
+
 - [User Research – Methods and Best Practices](https://www.interaction-design.org/courses/user-research-methods-and-best-practices) (Beginner, Intermediate) 
 - [Emotional Design — How to Make Products People Will Love](https://www.interaction-design.org/courses/emotional-design-how-to-make-products-people-will-love) (Beginner, Intermediate)
 - [Mobile User Experience (UX) Design](https://www.interaction-design.org/courses/mobile-user-experience-design) (Beginner, Intermediate)
@@ -178,6 +179,7 @@ When you enroll in a course, one lecture is unlocked each week. There are no dea
 - [Accessibility: How to Design for All](https://www.interaction-design.org/courses/accessibility-how-to-design-for-all) (Intermediate, Advanced)
 
 **UI:**
+
 - [The Ultimate Guide to Visual Perception and Design](https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design) (Intermediate, Advanced)
 
 
