@@ -182,5 +182,33 @@ When you enroll in a course, one lecture is unlocked each week. There are no dea
 
 - [The Ultimate Guide to Visual Perception and Design](https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design) (Intermediate, Advanced)
 
+### [IDEOU](https://www.ideou.com/collections/courses)
+Online self-paced pre-recoded courses for $199 (+$49 taxes).
 
+- [Unlocking Creativity](https://www.ideou.com/products/unlocking-creativity) (All)
+- Exercises to overcome the common barriers to creativity
+- [Prototyping for Digital Experiences](https://www.ideou.com/products/prototyping-for-digital-experiences) (All) 
+- Low-fidelity prototyping methods for digital products and services
+- [Power of Purpose](https://www.ideou.com/products/power-of-purpose) (Intermediate, Advanced) 
+- Learn to work and lead with purpose
 
+### [Skillshare](https://www.skillshare.com/home)
+Monthly subscription, check 1Password for the credentials.
+
+- [User Experience Strategy Masterclass - Become UX Strategist](https://www.skillshare.com/classes/User-Experience-Strategy-Masterclass-Become-UX-Strategist/225657341/projects?via=search-layout-grid) (All levels)
+- [Designing for the Future: UI/UX Prototyping](https://www.skillshare.com/classes/Designing-for-the-Future-UIUX-Prototyping/915958036?via=search-layout-grid) (Beginner)
+- [Intro to UX: Designing with a User-Centered Approach](https://www.skillshare.com/classes/Intro-to-UX-Designing-with-a-User-Centered-Approach/658216834) (Beginner)
+- [Intro to UX: Fundamentals of Usability](https://www.skillshare.com/classes/Intro-to-UX-Fundamentals-of-Usability/538580770?via=browse-rating-ui-ux-design-layout-grid)
+
+### [Awwwards Academy](https://www.awwwards.com/academy/)
+
+- [The Secret Sauce: Creating brands that are impossible to ignore](https://www.awwwards.com/academy/course/the-secret-sauce-creating-brands-that-are-impossible-to-ignore)
+
+### [SuperHi](https://www.superhi.com/)
+
+- [Intro to User Experience Design]() (Intermediate) - $160
+
+### [DesignCode.io](https://designcode.io/courses/)
+
+- [Principle](https://www.superhi.com/courses/introduction-to-user-experience-design) 
+- [Figma: Design systems](https://designcode.io/figma)  
