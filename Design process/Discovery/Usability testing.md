@@ -88,7 +88,7 @@ Here’s an example of a mail we send alongside the requirements doc:
 > Your name
 
 
-<br>4. Create a [**testing schedule table**](https://docs.google.com/spreadsheets/d/1Qe3JTMC-OTln9CbZJO5DycNsektAJVaoOzdG0r0jyRA/edit?usp=sharing). Depending on the setup, it will be up to the client or us to fill the timeslots. Keep each session about 60 min per person (40 min of interacting with the participant, 20 min for reviewing and preparing for the next participant)— five participants per day max. In case the testing is conducted remotely or in a different country, keep time zones in mind when planning and scheduling. 
+<br>4. Create a 🔒 [**testing schedule table**](https://docs.google.com/spreadsheets/d/1Qe3JTMC-OTln9CbZJO5DycNsektAJVaoOzdG0r0jyRA/edit?usp=sharing). Depending on the setup, it will be up to the client or us to fill the timeslots. Keep each session about 60 min per person (40 min of interacting with the participant, 20 min for reviewing and preparing for the next participant)— five participants per day max. In case the testing is conducted remotely or in a different country, keep time zones in mind when planning and scheduling. 
 
 
 <br>5. **Recruit participants** using our 🔒 [**testers database**](https://drive.google.com/drive/folders/1j1UbwKxepV7ob0wkXM6Vegtr7App44Lr?usp=sharing) or ask good people of Infinum at #infinum Slack channel if they happen to know someone who fits the target audience. For each group of users have one back-up participant. When using the testers database, please consult with team leads or UX strategist.
@@ -124,7 +124,7 @@ For a more in-depth study of this process, take a look at [**NNG’s guide**](ht
 This is where live and remote usability testing diverge. Steps are similar, but to avoid confusion, we'll cover them separately.
 
 ### Live usability testing, either hosted by the client or us    
-<br>9. Prepare [**task rating tables**](https://drive.google.com/drive/folders/1vCQEJyaTYtFupEq3pHisLsXrkUzHGqbq?usp=sharing). Task rating tables are useful for measuring success on each task and having an objective overview of pain points and room for improvement.
+<br>9. Prepare 🔒 [**task rating tables**](https://drive.google.com/drive/folders/1vCQEJyaTYtFupEq3pHisLsXrkUzHGqbq?usp=sharing). Task rating tables are useful for measuring success on each task and having an objective overview of pain points and room for improvement.
 
 <br>10. Print out these documents:<br> 
 <br> - Statement of Consent (equal to the number of participants),
@@ -218,14 +218,14 @@ As with preparation, this is where live and remote testing diverge. First, we'll
     **Statement of** **Consent** — explain that we will record the screen and the user's face and use it only for this research. 
     **Confidentiality statement** — point out that all the information regarding the app and this testing is confidential. Your role here is not to come across as an expert but as a good listener, so don’t hesitate to admit your ignorance about anything.
     
-<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), give the user the 🗝 [**Out loud instruction**](https://drive.google.com/open?id=14SzICkNuCsTBJKXacZafm-YL4QD_VTZc) document. This activity helps the user to be comfortable with talking out loud. Give the first **task**.<br>
+<br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), give the user the 🔒 [**Out loud instruction**](https://drive.google.com/open?id=14SzICkNuCsTBJKXacZafm-YL4QD_VTZc) document. This activity helps the user to be comfortable with talking out loud. Give the first **task**.<br>
 <br>It is crucial to give only one task at a time so the user can focus. The user will do an excellent job by thinking out loud on their own. If they don’t, encourage them to do so. It's ok to ask questions like “What are you thinking?” or “What do you think…” to get them to start talking about their experience but try not to evoke a conversation. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings. From here on, observe while the participants try to complete the given task, letting them continue until either:
 <br> - they finished the task,
 <br> - they get frustrated,
 <br> - we’re not learning anything new by watching them try to muddle through.
 <br>If the participant can't solve the task after a couple of minutes, suggest that they read it out loud again. Remind the user during the task to tell you when they think they are done.
 
-<br>6. After the task - give a [**task rating table**](https://drive.google.com/drive/folders/1vCQEJyaTYtFupEq3pHisLsXrkUzHGqbq?usp=sharing) for that specific task.
+<br>6. After the task - give a 🔒 [**task rating table**](https://drive.google.com/drive/folders/1vCQEJyaTYtFupEq3pHisLsXrkUzHGqbq?usp=sharing) for that specific task.
 
 <br>7. After each task, while the user is filling out the task rating table, the facilitator prepares the prototype for the next task. Set up the prototype on the screen where the next task begins and make sure everything is working.
 
