@@ -30,19 +30,6 @@ No booze. Spillage danger. 📔 ✏️
 🔒 **Google Drive: [Internal Workshops](https://drive.google.com/drive/folders/0B3Jin_BtSdpxOGo1aFdxWU1IaHc?usp=sharing)**
 
 
-### Design Talks
-Once in a while, we organize Design Talks where we hold brief presentations on topics we're passionate about, for example: 
-
-- design news
-- knowledge exchange
-- showcasing unique processes
-- anything educational or thought-provoking in the design field.
-
-Once we have a good foundation about a topic, we have a moderated discussion about it. A rule of thumb is about two talks per event, so we don't go over an hour. Attendance is not mandatory. We record all talks and upload them on 🔒 [Drive: Internal Lectures](https://drive.google.com/drive/folders/0B3Jin_BtSdpxalZyTlIwemN2Zmc?usp=sharing) if you miss it and would still like to check out later.
-
-More on our Design Talks can be found in 🔒 [this Productive doc](https://app.productive.io/1-infinum/pages/67052).
-
-
 ### Off the Grid
 From time to time, the design team gathers on a Saturday to work on a specific design skill that isn't related to our day job. It's a safe zone for analogue design experiments. We usually kick off the workshop around 10 AM until 3 PM, but everyone can drop in at any time. Time spent on this workshop is voluntary, so attendance isn't mandatory. Infinum provides breakfast, snacks, drinks, and lunch.
 
