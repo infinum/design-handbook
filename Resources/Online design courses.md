@@ -1,5 +1,3 @@
-# Online Design Courses
-
 ## [Nielsen Norman Group](https://www.nngroup.com/1-hour-talks/): 1-Hour Talks
 
 On-demand 1h lectures per $100. The lectures can be streamed again and don’t expire. Covers a breadth of topics.
