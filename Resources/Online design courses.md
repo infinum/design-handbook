@@ -33,8 +33,8 @@ Online self-paced pre-recoded courses for $199 (+$49 taxes).
 
 - [Prototyping for Digital Experiences](https://www.ideou.com/products/prototyping-for-digital-experiences) (All) <br>
 Low-fidelity prototyping methods for digital products and services
-- [Power of Purpose](https://www.ideou.com/products/power-of-purpose) (Intermediate, Advanced) 
-- Learn to work and lead with purpose
+- [Power of Purpose](https://www.ideou.com/products/power-of-purpose) (Intermediate, Advanced) <br>
+Learn to work and lead with purpose
 
 ## [Skillshare](https://www.skillshare.com/home)
 Monthly subscription, check 1Password for the credentials.
