@@ -17,7 +17,7 @@ The best way to do it is to:
 
 ## Latest build
 
-If you're reviewing a mobile app, check 🔒 **[Tryout apps](https://tryoutapps.com/users/sign_in)** for the latest builds on iOS and Android.
+If you're reviewing a mobile app, check **[Tryout apps](https://tryoutapps.com/users/sign_in)** for the latest builds on iOS and Android.
 
 
 ## Test devices
