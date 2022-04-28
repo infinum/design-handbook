@@ -31,10 +31,8 @@ When you enroll in a course, one lecture is unlocked each week. There are no dea
 ## [IDEOU](https://www.ideou.com/collections/courses)
 Online self-paced pre-recoded courses for $199 (+$49 taxes).
 
-- [Unlocking Creativity](https://www.ideou.com/products/unlocking-creativity) (All)
-- Exercises to overcome the common barriers to creativity
-- [Prototyping for Digital Experiences](https://www.ideou.com/products/prototyping-for-digital-experiences) (All) 
-- Low-fidelity prototyping methods for digital products and services
+- [Prototyping for Digital Experiences](https://www.ideou.com/products/prototyping-for-digital-experiences) (All) <br>
+Low-fidelity prototyping methods for digital products and services
 - [Power of Purpose](https://www.ideou.com/products/power-of-purpose) (Intermediate, Advanced) 
 - Learn to work and lead with purpose
 
