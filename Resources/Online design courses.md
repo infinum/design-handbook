@@ -28,7 +28,7 @@ When you enroll in a course, one lecture is unlocked each week. There are no dea
 
 - [The Ultimate Guide to Visual Perception and Design](https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design) (Intermediate, Advanced)
 
-### [IDEOU](https://www.ideou.com/collections/courses)
+## [IDEOU](https://www.ideou.com/collections/courses)
 Online self-paced pre-recoded courses for $199 (+$49 taxes).
 
 - [Unlocking Creativity](https://www.ideou.com/products/unlocking-creativity) (All)
