@@ -16,36 +16,6 @@ Through UI design, our task is to:
 3. There is a possibility that the font is custom-made by the client, or the client has full ownership of the font. Then, in theory, there is nothing to be done, but it would be good to create a mini-contract where the client confirms that the font is his and takes full responsibility for all the possible legal issues.
 4. When the font is forwarded to us, we store in the corresponding **project folder on Google Drive**.
 
-## Type foundries
-
-### Paid foundries
-- [Type Foundry Index](https://type.lol/)
-- [Fonts by Hoefler&Co.](https://www.typography.com/)
-- [Type Network](https://fontbureau.typenetwork.com/)
-- [Typotheque](https://www.typotheque.com/)
-- [Klim Type Foundry](https://klim.co.nz/)
-- [Darden Studio](https://www.dardenstudio.com/)
-- [Colophon Foundry](https://www.colophon-foundry.org/)
-- [Order](https://order.design/)
-
-### Free foundries
-
-- [Google Fonts](https://fonts.google.com/)
-- [Open Foundry / Fonts](https://open-foundry.com/fonts)
-- [Velvetyne](http://velvetyne.fr)
-- [Fontain](https://fontain.org/)
-- [Use & Modify](http://usemodify.com/)
-- [Fontshare](https://www.fontshare.com/)
-- [fontfabric](https://www.fontfabric.com/free-fonts/)
-- [Free Faces](https://freefaces.gallery/)
-
-#### Useful typography links
-- [Fonts In Use](https://fontsinuse.com/)
-- [Fonts in the Wild](https://www.fontsinthewild.com/free)
-- [Typographica](https://typographica.org)
-- [Typewolf](https://www.typewolf.com/)
-
-
 ## Iterating on the UI
 
 ![](/img/designprocess-ui-iterations.png)
@@ -82,3 +52,33 @@ While approaching the end of the design phase, make sure you have:
 - [Handbook: Learning materials/UI Patterns + Inspiration](https://infinum.com/handbook/books/design/resources/learning-materials#inspiration)
 - [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
 - [Visibility of System Status](https://www.nngroup.com/articles/visibility-system-status/)
+
+## Type foundries
+
+### Paid foundries
+- [Type Foundry Index](https://type.lol/)
+- [Fonts by Hoefler&Co.](https://www.typography.com/)
+- [Type Network](https://fontbureau.typenetwork.com/)
+- [Typotheque](https://www.typotheque.com/)
+- [Klim Type Foundry](https://klim.co.nz/)
+- [Darden Studio](https://www.dardenstudio.com/)
+- [Colophon Foundry](https://www.colophon-foundry.org/)
+- [Order](https://order.design/)
+
+### Free foundries
+
+- [Google Fonts](https://fonts.google.com/)
+- [Open Foundry / Fonts](https://open-foundry.com/fonts)
+- [Velvetyne](http://velvetyne.fr)
+- [Fontain](https://fontain.org/)
+- [Use & Modify](http://usemodify.com/)
+- [Fontshare](https://www.fontshare.com/)
+- [fontfabric](https://www.fontfabric.com/free-fonts/)
+- [Free Faces](https://freefaces.gallery/)
+
+#### Useful typography links
+- [Fonts In Use](https://fontsinuse.com/)
+- [Fonts in the Wild](https://www.fontsinthewild.com/free)
+- [Typographica](https://typographica.org)
+- [Typewolf](https://www.typewolf.com/)
+
