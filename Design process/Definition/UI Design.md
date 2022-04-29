@@ -18,7 +18,7 @@ Through UI design, our task is to:
 
 ## Type foundries
 
-## Paid foundries
+### Paid foundries
 - [Type Foundry Index](https://type.lol/)
 - [Fonts by Hoefler&Co.](https://www.typography.com/)
 - [Type Network](https://fontbureau.typenetwork.com/)
@@ -28,7 +28,7 @@ Through UI design, our task is to:
 - [Colophon Foundry](https://www.colophon-foundry.org/)
 - [Order](https://order.design/)
 
-## Free foundries
+### Free foundries
 
 - [Google Fonts](https://fonts.google.com/)
 - [Open Foundry / Fonts](https://open-foundry.com/fonts)
@@ -39,7 +39,7 @@ Through UI design, our task is to:
 - [fontfabric](https://www.fontfabric.com/free-fonts/)
 - [Free Faces](https://freefaces.gallery/)
 
-### Useful typography links
+#### Useful typography links
 - [Fonts In Use](https://fontsinuse.com/)
 - [Fonts in the Wild](https://www.fontsinthewild.com/free)
 - [Typographica](https://typographica.org)
