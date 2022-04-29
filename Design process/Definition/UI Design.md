@@ -9,6 +9,43 @@ Through UI design, our task is to:
 - make the app communicate the same brand values as the company does
 - achieve consistency throughout the features and mobile platforms
 
+## Client provided fonts
+
+1. The client **must provide** fonts and licenses in case they use licensed fonts. You should store licenses in the Fonts folder inside the project folder (except for non-commercial fonts).
+2. If the client does not have a license for using the font, they must sign a **new contract** in which they agree that they take full legal responsibility if any issues occur.
+3. There is a possibility that the font is custom-made by the client, or the client has full ownership of the font. Then, in theory, there is nothing to be done, but it would be good to create a mini-contract where the client confirms that the font is his and takes full responsibility for all the possible legal issues.
+4. When the font is forwarded to us, we store in the corresponding **project folder on Google Drive**.
+
+## Type foundries
+
+## Paid foundries
+- [Type Foundry Index](https://type.lol/)
+- [Fonts by Hoefler&Co.](https://www.typography.com/)
+- [Type Network](https://fontbureau.typenetwork.com/)
+- [Typotheque](https://www.typotheque.com/)
+- [Klim Type Foundry](https://klim.co.nz/)
+- [Darden Studio](https://www.dardenstudio.com/)
+- [Colophon Foundry](https://www.colophon-foundry.org/)
+- [Order](https://order.design/)
+
+## Free foundries
+
+- [Google Fonts](https://fonts.google.com/)
+- [Open Foundry / Fonts](https://open-foundry.com/fonts)
+- [Velvetyne](http://velvetyne.fr)
+- [Fontain](https://fontain.org/)
+- [Use & Modify](http://usemodify.com/)
+- [Fontshare](https://www.fontshare.com/)
+- [fontfabric](https://www.fontfabric.com/free-fonts/)
+- [Free Faces](https://freefaces.gallery/)
+
+### Useful typography links
+- [Fonts In Use](https://fontsinuse.com/)
+- [Fonts in the Wild](https://www.fontsinthewild.com/free)
+- [Typographica](https://typographica.org)
+- [Typewolf](https://www.typewolf.com/)
+
+
 ## Iterating on the UI
 
 ![](/img/designprocess-ui-iterations.png)
