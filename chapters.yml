@@ -44,6 +44,7 @@ entries:
       - Handoff:
           - Export
           - Checking implementation
+          - Offboarding a project
   - Tools:
       - Accounts & licensing
       - Figma
