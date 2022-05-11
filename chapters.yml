@@ -16,8 +16,6 @@ entries:
       - Learning materials
       - Online design courses
       - Software and goodies
-  - Organization:
-      - Deleting files from Google Drive
   - Design process:
       - Discovery:
           - Research
@@ -44,6 +42,7 @@ entries:
           - Checking implementation
           - Design files and project folders
           - Offboarding a project
+          - Deleting files from Google Drive
   - Tools:
       - Accounts & licensing
       - Figma
