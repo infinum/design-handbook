@@ -145,7 +145,7 @@ Although some After Effects features are not yet supported, this library is grow
 
 The community is continuously growing – check out more [great examples already created by the Lottie community](https://lottiefiles.com/account/dashboard).
 
-[Check the list of supported features](https://github.com/airbnb/lottie/blob/master/supported-features.md)
+Check the list of [supported features](https://github.com/airbnb/lottie/blob/master/supported-features.md)
 
 ## Motion libraries for Web projects
 
