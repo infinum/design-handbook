@@ -102,7 +102,7 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 - Avoid clipping content in masks whenever possible
 - Prepare states for all elements that animated elements (if they aren’t part of the provided flow)
 - It’s ok to use auto layout
-- If you are preparing assets for the Lottie animation, make sure to flatten elements (**cmd+e** in Figma) - especially if you have elements with border-radius because Lottie has some problems on iOS and Android with rendering it correctly
+- If you are preparing assets for the Lottie animation, make sure to flatten elements (**CMD ⌘ + E** in Figma) - especially if you have elements with border-radius because Lottie has some problems on iOS and Android with rendering it correctly
 - If you are preparing assets for dribbble, you don’t have to flatten elements
 
 ### Access to project files
@@ -145,9 +145,9 @@ Although some After Effects features are not yet supported, this library is grow
 
 The community is continuously growing – check out more [great examples already created by the Lottie community](https://lottiefiles.com/account/dashboard).
 
-Check the list of [supported features](https://github.com/airbnb/lottie/blob/master/supported-features.md)
+Check the list of [supported features](https://github.com/airbnb/lottie/blob/master/supported-features.md).
 
-## Motion libraries for Web projects
+## Motion libraries for web projects
 
 Here are a couple of libraries that can come in handy when creating landing pages with Wordpress:
 
