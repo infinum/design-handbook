@@ -165,4 +165,4 @@ Here are a couple of libraries that can come in handy when creating landing page
 - [Motion Design Is the Future](https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f) (Article)
 - [Motion Design School](https://motiondesign.school/) (Course)
 - [Material design - The motion system](https://material.io/design/motion/the-motion-system.html)
-- [Human-interface-guidelines - Motion](https://developer.apple.com/design/human-interface-guidelines/foundations/motion/#Resources)
+- [Human-interface-guidelines - Motion](https://developer.apple.com/design/human-interface-guidelines/foundations/motion/)
