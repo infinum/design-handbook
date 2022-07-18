@@ -102,7 +102,8 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 - Avoid clipping content in masks whenever possible
 - Prepare states for all elements that animated elements (if they aren’t part of the provided flow)
 - It’s ok to use auto layout
-
+- If you are preparing assets for the Lottie animation, make sure to flatten elements (**cmd+e** in Figma) - especially if you have elements with border-radius because Lottie has some problems on iOS and Android with rendering it correctly
+- If you are preparing assets for dribbble, you don’t have to flatten elements
 
 ### Access to project files
 
@@ -144,13 +145,16 @@ Although some After Effects features are not yet supported, this library is grow
 
 The community is continuously growing – check out more [great examples already created by the Lottie community](https://lottiefiles.com/account/dashboard).
 
-## Motion for WordPress projects
+[Check the list of supported features](https://github.com/airbnb/lottie/blob/master/supported-features.md)
+
+## Motion libraries for Web projects
 
 Here are a couple of libraries that can come in handy when creating landing pages with Wordpress:
 
 - [GreenSock](https://greensock.com/gsap)
 - [anime.js](https://animejs.com)
 - [barba.js](https://barba.js.org)
+- [Locomotive scroll](https://locomotivemtl.github.io/locomotive-scroll/)
 
 ## 📚 Recommended reading
 
@@ -160,3 +164,5 @@ Here are a couple of libraries that can come in handy when creating landing page
 - [How Motion Design Applies to UI](https://infinum.com/the-capsized-eight/motion-design-ui-design) (Article)
 - [Motion Design Is the Future](https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f) (Article)
 - [Motion Design School](https://motiondesign.school/) (Course)
+- [Material design - The motion system](https://material.io/design/motion/the-motion-system.html)
+- [Human-interface-guidelines - Motion](https://developer.apple.com/design/human-interface-guidelines/foundations/motion/#Resources)
