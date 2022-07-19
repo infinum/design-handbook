@@ -9,13 +9,6 @@ entries:
       - Mentoring
       - Design coordination
       - Quarterly goals
-  - Resources:
-      - Glossary
-      - Reusable templates
-      - Internal resources
-      - Learning materials
-      - Online design courses
-      - Software and goodies
   - Design process:
       - Discovery:
           - Research
@@ -44,6 +37,13 @@ entries:
           - Offboarding a project
           - Moving Figma project to the client
           - Deleting files from Google Drive
+  - Resources:
+      - Glossary
+      - Reusable templates
+      - Internal resources
+      - Learning materials
+      - Online design courses
+      - Software and goodies
   - Tools:
       - Accounts & licensing
       - Figma
