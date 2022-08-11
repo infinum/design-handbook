@@ -18,6 +18,26 @@ We currently take care of 4 things:
 - If the project already exists,  in cooperation with the PM, organize it according to the instructions we have outlined. 
 - 📚 Mandatory reading: [Keep It Clean: Project Folder Organization Template](https://infinum.com/the-capsized-eight/keep-it-clean-project-folder-organization-template)
 
+### New projects
+
+When starting a new project, ping David when you start working on UI. We will schedule 2 meetings: 
+
+- First meeting – the designers and reviewers agree on how to approach the organization of a new file.
+- Second meeting (scheduled three weeks after the first one) – we will check the project's status, open the review task and write down things that need to be fixed.
+
+After the second meeting, further reviews will be transferred to the design coordinator. From that moment, the design coordinator is responsible for executing the review task.
+
+### Ongoing projects
+
+- Design coordinators are responsible for ongoing projects they oversee.
+- If something is not ok, the design coordinator will open the tasks in the [Team: Design > File reviews](https://app.productive.io/1-infinum/projects/1888/tasks?board=108220&filter=MjQzOTky) board and, together with the designer, write down all the issues that need to be fixed.
+- A designer should write an estimation of the task, ping the project PM, and ask for approval of those hours.
+- If the PM declines the requested hours, they must write down an explanation in the same task. (If the PM is not added to the project, ping a TL, and they will add him). When we get the explanation, the design coordinator should move the task to the "Not reviewed" column and add the "Inactive/PM approved" tag to it.
+- If the PM approves the request, the designer should put a deadline on the task and finish it by then.
+- If the designer is no longer scheduled on the project, they still need to mention the task on our weekly design scheduling meeting and request hours to solve the file review task at some point. 
+- If you see that you won't be able to complete something within the agreed deadline, you should write that in the task and postpone the deadline. The deadline can be moved once. If the tasks are not solved within the agreed deadlines, the designer will receive a 🟨 yellow card from their team lead. Designers shouldn't leave messy files behind them because it makes the job harder for the rest of the project team and for designers who will take over at some point.
+
+
 ## 2. File tidiness
 
 ### Naming convention
@@ -51,8 +71,9 @@ Sub-flows will make it easier to locate screens in an extensive feature flow. Fo
 
 ### Components
 
-Symbols (or Master Components) allow you to reuse elements easily across your document's Artboards and Pages so try to use them as often as you can. Bounds are also a must so that the assets of the same type (icons, images) are the same in size, thus making the developers' job a bit easier.
-Keep symbol names logical and tidy. Use them regularly!
+Master Components (or Symbols) allow you to reuse elements easily across your document's Artboards and Pages, so try to use them as often as you can. When creating them, use [Auto Layout](https://help.figma.com/hc/en-us/articles/5731482952599-Using-auto-layout) and [Variants](https://help.figma.com/hc/en-us/articles/360056440594-Create-and-use-variants) to optimize your workflow.
+
+Bounds are also a must so that the assets of the same type (icons, images) are the same in size, thus making the developers' job a bit easier. Keep symbol names logical and tidy. Use them regularly!
 
 ### Styleguide
 
@@ -98,6 +119,7 @@ If you have not worked on the project for more than a week, everything should be
 3. If you are working on the same project with other colleagues, sync with them regularly and keep the project neat.
 
 *Pro tip: Commit upload can work in the background as you continue to work on the file.*
+
 
 ## 4. Export
 
