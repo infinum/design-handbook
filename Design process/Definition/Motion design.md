@@ -135,9 +135,57 @@ Another big advantage of this software is the easy way of [importing screens](ht
 
 While Principle allows us to create a fast flow and prototypes to present the main interactions of an application, After Effects lets us explore the creation of more complex effects and interactions.
 
-One of the main reasons for the popularity of this software among motion designers is the [Bodymovin](https://github.com/airbnb/lottie-web) plugin, which allows the export of more complex shape animations to code, making it easier for developers to implement them.
+### ZXP
 
-## Lottie
+Free installer for CEP (Common Extensibility Platform, which enables developers to build integrated panels in Adobe desktop applications).  It will work with any ZXP extension (e.g. aeux, bodymovin, overlord...).  It is a great tool to instal and keep all of your plugins organised in one place.  Just drag and drop the .zxp file to the ZXP interface to install any new plugin. 
+
+![Frame 1](https://user-images.githubusercontent.com/99874159/184838747-5dca6e6d-3441-456e-b8ef-c886e6f95bfd.png)
+
+### AEUX Plugin
+
+You have created your design in Figma, and now is time to transfer it to After Effects. The easiest way to transfer layers with the least friction between visual design and motion is by the AEUX plugin. 
+
+AEUX is a set of panels for Figma, Sketch, and After Effects. Spell it out or say it like A-Yo.
+
+Although AEUX is not available as a community plugin, there are a few steps you need to do before you start using it.
+
+Instructions:
+- Make sure your elements are inside of a frame in Figma
+- Open the AEUX plugin (Plugins > Development > AEUX)
+- Select the frame
+- Press the button “Send selection to Ae” (Make sure you already have created the composition in the AE)
+- Do your magic inside of the AE
+
+[Check it out here.](https://www.figma.com/file/kpWZpkLDMbAEHx2HkudBht/Motion-handbook?node-id=23%3A2)
+
+![Frame 3](https://user-images.githubusercontent.com/99874159/184840712-f299914f-8e04-4a05-890f-e3d90982890d.png)
+
+### OVERLORD Plugin
+
+You can easily import illustrator files to after effects by dragging and dropping the file in the AE animation pane, but there is also a helpful plugin to speed up your workflow - Overflow.
+
+Transfer shapes as you need them without importing, converting or redrawing. 
+
+Check out the whole set of features [here](https://www.battleaxe.co/overlord).
+
+![Frame 4](https://user-images.githubusercontent.com/99874159/184841518-659636e0-1a24-4174-8f7b-4a18b6e2514d.png)
+
+Useful after effects plugins for animation:
+- [Motion4](https://www.mtmograph.com/products/motion-3)
+- [Flow](https://aescripts.com/flow/)
+
+### Bodymovin
+
+Once you have installed the Bodymovin plugin through the ZXP installer, you’ll find it in AE - Window > Extension > Bodymovin. 
+
+It is important to select the composition you’d like to export as Lottie and select the folder where you’d like to save it. 
+
+If you press “Settings”, you’ll see multiple export modes. Check the “Standard” option and “Demo” to preview the animation in the browser.
+
+![Frame 5](https://user-images.githubusercontent.com/99874159/184842175-0c29db44-73d9-46f8-80b9-898465f2dbcc.png)
+
+
+### Lottie
 
 [Lottie](https://lottiefiles.com/) renders animations exported from After Effects through the [bodymovin](https://github.com/airbnb/lottie-web) plugin. This makes integrating animated assets in apps and websites quick and easy. There's a [step by step tutorial that can be found on Design Islands.](https://design.infinum.com/case/using-lottie)
 
