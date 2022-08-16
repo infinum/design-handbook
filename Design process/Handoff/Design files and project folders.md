@@ -11,7 +11,7 @@ We currently take care of 4 things:
 3. Versioning
 4. Export
 
-## 1. Project folders
+## 1. Project organization
 
 - It is up to you to set up the project folder and keep it up to date.
 - You are also in charge of maintenance **but in collaboration with the PMs.** PMs and developers usually may use the Resources folder here and there for documentation. Designers use everything else, so most of the responsibility is yours.
