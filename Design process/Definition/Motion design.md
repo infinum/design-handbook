@@ -149,7 +149,8 @@ AEUX is a set of panels for Figma, Sketch, and After Effects. Spell it out or sa
 
 Although AEUX is not available as a community plugin, there are a few steps you need to do before you start using it.
 
-Instructions:
+__Instructions:__
+
 - Make sure your elements are inside of a frame in Figma
 - Open the AEUX plugin (Plugins > Development > AEUX)
 - Select the frame
