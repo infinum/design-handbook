@@ -150,6 +150,7 @@ AEUX is a set of panels for Figma, Sketch, and After Effects. Spell it out or sa
 Although AEUX is not available as a community plugin, there are a few steps you need to do before you start using it.
 
 __Instructions:__
+
 - Make sure your elements are inside of a frame in Figma
 - Open the AEUX plugin (Plugins > Development > AEUX)
 - Select the frame
@@ -170,7 +171,8 @@ Check out the whole set of features [here](https://www.battleaxe.co/overlord).
 
 ![Frame 4](https://user-images.githubusercontent.com/99874159/184841518-659636e0-1a24-4174-8f7b-4a18b6e2514d.png)
 
-Useful after effects plugins for animation:
+__Useful after effects plugins for animation:__
+
 - [Motion4](https://www.mtmograph.com/products/motion-3)
 - [Flow](https://aescripts.com/flow/)
 
