@@ -154,7 +154,7 @@ __Instructions:__
 - Make sure your elements are inside of a frame in Figma
 - Open the AEUX plugin (Plugins > Development > AEUX)
 - Select the frame
-- Press the button “Send selection to Ae” (Make sure you already have created the composition in the AE)
+- Press the button “Send selection to AE” (Make sure you already have created the composition in the AE)
 - Do your magic inside of the AE
 
 [Check it out here.](https://www.figma.com/file/kpWZpkLDMbAEHx2HkudBht/Motion-handbook?node-id=23%3A2)
