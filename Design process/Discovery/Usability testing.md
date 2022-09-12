@@ -49,7 +49,7 @@ The usability testing organization depends on many factors (the number of partic
 There are some essential steps that don't differ from one setup to another. We'll explain the differences as we come by them.
 
 
-<br>1. Send **[Statement of Consent and NDA]([url](https://drive.google.com/file/d/1IKhQ8gNoYoqd2m7tJXhbQvuU2cGPNQP3/view?usp=sharing))** to your project’s PM and the client to make sure if everything is ok from a legal standpoint. If you're running the research in Croatian, here's local version of [Statment of consent and NDA]([url](https://drive.google.com/file/d/1CeSY2zV5W9aTwNpOVxmcQjgQI4RAclWy/view?usp=sharing)).
+<br>1. Send **[Statement of Consent and NDA]**(https://drive.google.com/file/d/1IKhQ8gNoYoqd2m7tJXhbQvuU2cGPNQP3/view?usp=sharing) to your project’s PM and the client to make sure if everything is ok from a legal standpoint. If you're running the research in Croatian, here's local version of [Statment of consent and NDA](https://drive.google.com/file/d/1CeSY2zV5W9aTwNpOVxmcQjgQI4RAclWy/view?usp=sharing).
 
 <br>2. Discuss with the client early on **who is recruiting participants** and where the testing will take place. One significant point to discuss: how participants will be rewarded. Usually, it's a gift voucher or some small gadget. Make sure the client knows about this and budgets for rewards.
 
@@ -214,7 +214,7 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 
 #### Live testing
 
-<br>4.Give the **[Statement of Consent and NDA]([url](https://drive.google.com/file/d/1IKhQ8gNoYoqd2m7tJXhbQvuU2cGPNQP3/view?usp=sharing))** (when mentioned in the Interviewer guides). 
+<br>4.Give the **[Statement of Consent and NDA](https://drive.google.com/file/d/1IKhQ8gNoYoqd2m7tJXhbQvuU2cGPNQP3/view?usp=sharing)** (when mentioned in the Interviewer guides). 
     **Statement of Consent** — explain that we will record the screen and the user's face and use it only for this research. 
     **NDA** — point out that all the information regarding the app and this testing is confidential. Your role here is not to come across as an expert but as a good listener, so don’t hesitate to admit your ignorance about anything.
     
