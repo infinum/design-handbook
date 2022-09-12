@@ -190,7 +190,7 @@ If you press “Settings”, you’ll see multiple export modes. Check the “St
 
 ### Lottie
 
-[Lottie](https://lottiefiles.com/) renders animations exported from After Effects through the [bodymovin](https://github.com/airbnb/lottie-web) plugin. This makes integrating animated assets in apps and websites quick and easy. There's a [step by step tutorial that can be found on Design Islands.](https://design.infinum.com/case/using-lottie)
+[Lottie](https://lottiefiles.com/) renders animations exported from After Effects through the [bodymovin](https://github.com/airbnb/lottie-web) plugin. This makes integrating animated assets in apps and websites quick and easy.
 
 Although some After Effects features are not yet supported, this library is growing, allowing for the export of more complex shapes, masks, trim paths, solids, and alpha matte effects.
 
