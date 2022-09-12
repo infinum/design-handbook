@@ -1,5 +1,6 @@
 Usability is the ability to use a product with ease. When we talk about usability, we make sure that products are easy to use for everyone in any usage context. It should be evident to people where they are, what they are supposed to do next and to be able to complete the necessary task. From the design perspective, we want our users to have a product that is easy to use without much thought and any frustrations.
 
+This chapter goes into lot of detail about user testing. To make it easier to implement best practices we've created Project Lifecycle Checklist in Productive. In the **Design Phase board**, there's a task list called Validation. Ping your TL to give you access to it.
 
 # How to conduct usability testing
 
