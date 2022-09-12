@@ -49,7 +49,7 @@ The usability testing organization depends on many factors (the number of partic
 There are some essential steps that don't differ from one setup to another. We'll explain the differences as we come by them.
 
 
-<br>1. Send 🔒 [**Statement of Consent and Confidentiality statement**](https://drive.google.com/open?id=1OzQrCEtUuzfynynlDKRyg5b5PMbdBDkv) documents to your project’s PM and the client to make sure if everything is ok from a legal standpoint.
+<br>1. Send **[Statement of Consent and NDA]([url](https://drive.google.com/file/d/1IKhQ8gNoYoqd2m7tJXhbQvuU2cGPNQP3/view?usp=sharing))** to your project’s PM and the client to make sure if everything is ok from a legal standpoint. If you're running the research in Croatian, here's local version of [Statment of consent and NDA]([url](https://drive.google.com/file/d/1CeSY2zV5W9aTwNpOVxmcQjgQI4RAclWy/view?usp=sharing)).
 
 <br>2. Discuss with the client early on **who is recruiting participants** and where the testing will take place. One significant point to discuss: how participants will be rewarded. Usually, it's a gift voucher or some small gadget. Make sure the client knows about this and budgets for rewards.
 
@@ -91,7 +91,7 @@ Here’s an example of a mail we send alongside the requirements doc:
 <br>4. Create a 🔒 [**testing schedule table**](https://docs.google.com/spreadsheets/d/1Qe3JTMC-OTln9CbZJO5DycNsektAJVaoOzdG0r0jyRA/edit?usp=sharing). Depending on the setup, it will be up to the client or us to fill the timeslots. Keep each session about 60 min per person (40 min of interacting with the participant, 20 min for reviewing and preparing for the next participant)— five participants per day max. In case the testing is conducted remotely or in a different country, keep time zones in mind when planning and scheduling. 
 
 
-<br>5. **Recruit participants** using our 🔒 [**testers database**](https://drive.google.com/drive/folders/1j1UbwKxepV7ob0wkXM6Vegtr7App44Lr?usp=sharing) or ask good people of Infinum at #infinum Slack channel if they happen to know someone who fits the target audience. For each group of users have one back-up participant. When using the testers database, please consult with team leads or UX strategist.
+<br>5. **Recruit participants** using our 🔒 [**testers database**](https://drive.google.com/drive/folders/1j1UbwKxepV7ob0wkXM6Vegtr7App44Lr?usp=sharing) or ask good people of Infinum at #infinum Slack channel if they happen to know someone who fits the target audience. For each group of users have one back-up participant. When using the testers database, please consult with Team Leads or pProduct Strategist.
     
 <br>6. Prepare an 🔒 [**agenda**](https://drive.google.com/open?id=1rvcT8KHnBXLNHH8sgFlDrmshlCybZL20) for all testing sessions based on participant availability. Here is an example agenda for one day:
 
@@ -214,9 +214,9 @@ As with preparation, this is where live and remote testing diverge. First, we'll
 
 #### Live testing
 
-<br>4.Give the 🔒 [**Statement of Consent and Confidentiality statement**](https://drive.google.com/open?id=1OzQrCEtUuzfynynlDKRyg5b5PMbdBDkv) (when mentioned in the Interviewer guides). 
-    **Statement of** **Consent** — explain that we will record the screen and the user's face and use it only for this research. 
-    **Confidentiality statement** — point out that all the information regarding the app and this testing is confidential. Your role here is not to come across as an expert but as a good listener, so don’t hesitate to admit your ignorance about anything.
+<br>4.Give the **[Statement of Consent and NDA]([url](https://drive.google.com/file/d/1IKhQ8gNoYoqd2m7tJXhbQvuU2cGPNQP3/view?usp=sharing))** (when mentioned in the Interviewer guides). 
+    **Statement of Consent** — explain that we will record the screen and the user's face and use it only for this research. 
+    **NDA** — point out that all the information regarding the app and this testing is confidential. Your role here is not to come across as an expert but as a good listener, so don’t hesitate to admit your ignorance about anything.
     
 <br>5. After reading [**Interview guides**](https://drive.google.com/drive/folders/1HZk2ez9spfpvNBYwz68wOcP9kX06-4EW?usp=sharing), give the user the 🔒 [**Out loud instruction**](https://drive.google.com/open?id=14SzICkNuCsTBJKXacZafm-YL4QD_VTZc) document. This activity helps the user to be comfortable with talking out loud. Give the first **task**.<br>
 <br>It is crucial to give only one task at a time so the user can focus. The user will do an excellent job by thinking out loud on their own. If they don’t, encourage them to do so. It's ok to ask questions like “What are you thinking?” or “What do you think…” to get them to start talking about their experience but try not to evoke a conversation. Talking too much at inappropriate times or leading the user can affect what they do and say, which can ruin the research findings. From here on, observe while the participants try to complete the given task, letting them continue until either:
