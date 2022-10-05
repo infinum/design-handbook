@@ -9,7 +9,7 @@
 - [Pocket](https://getpocket.com/)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
-- [Fontface Ninja](http://www.fontface.ninja/)
+- [Font Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 - [Window Resize](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/related?hl=en)
 
 ### Color palettes
@@ -46,10 +46,9 @@
 ### Mockup templates
 
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
-- [Facebook Design Resources - Devices](https://facebook.design/devices)
-- [Facebook Design Resources - Diverse Device Hands](https://facebook.design/handskit)
+- [Devices from Design at Meta](https://design.facebook.com/toolsandresources/devices/)
+- [Diverse device hands from Design at Meta](https://design.facebook.com/toolsandresources/diverse-device-hands/)
 - [Sketchsheets](http://sketchsheets.com/) - Ready to print sketch sheet templates for UX designers
-- [Threed](http://threed.io/)
 
 ### 3D
 
