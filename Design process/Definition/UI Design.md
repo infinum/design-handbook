@@ -38,7 +38,7 @@ While approaching the end of the design phase, make sure you have:
 
 - a [styleguide](https://infinum.com/handbook/books/design/design-process/definition/styleguide) with colors, typography, brand elements and components
 - all the screens set in color and typography styles organized in components
-- [screens organized in flows separated in different pages](https://infinum.com/handbook/books/design/organization/design-files-and-project-folders)
+- [screens organized in flows separated in different pages](https://infinum.com/handbook/design/design-process/handoff/design-files-and-project-folders)
 - archive page or duplicated file with old iterations and unused versions
 - exportable elements for developers
 - comments with specific behaviour and flow descriptions for developers
@@ -68,7 +68,6 @@ While approaching the end of the design phase, make sure you have:
 ### Free foundries
 
 - [Google Fonts](https://fonts.google.com/)
-- [Open Foundry / Fonts](https://open-foundry.com/fonts)
 - [Velvetyne](http://velvetyne.fr)
 - [Fontain](https://fontain.org/)
 - [Use & Modify](http://usemodify.com/)
