@@ -112,7 +112,7 @@
 - [Dissection](http://dissection.jkdesign.com/)
 - [DesignLife.fm](https://www.designlife.fm/)
 - [Wireframe](https://xd.adobe.com/ideas/perspectives/wireframe-podcast/)
-- [Illustration Hour](https://www.illustrationhour.com/)
+- [Illustration Hour](https://open.spotify.com/show/1TQ0H2msJEE3QZqx4cMEJA?si=bd29f476b22d4f0a)
 - [DesignBetter Podcast](https://www.designbetter.co/podcast)
 
 
