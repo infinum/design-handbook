@@ -57,4 +57,4 @@ Monthly subscription, check 1Password for the credentials.
 - [Principle](https://www.superhi.com/courses/introduction-to-user-experience-design) 
 - [Figma: Design systems](https://designcode.io/figma)  
 
-### 🛒 [Purchased courses](https://app.productive.io/1-infinum/docs/doc/67044?filter=MjQ3Nzgw&page=67044)
+### 🛒 [Purchased courses](https://app.productive.io/1-infinum/pages/83124)
