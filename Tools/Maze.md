@@ -121,4 +121,4 @@ Maze report will give you a lot to work with. You can find some tips and tricks 
 
 ### When in doubt...
 
-...visit [Maze Help Center](https://help.maze.design/en/) (specifically their [Usability Testing](https://maze.design/guides/usability-testing) article) or ask a colleague (Design or QA) who worked in Maze before.
+...visit [Maze Help Center](https://help.maze.co/hc/en-us) (specifically their [Usability Testing](https://maze.design/guides/usability-testing) article) or ask a colleague (Design or QA) who worked in Maze before.
