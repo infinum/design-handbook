@@ -24,6 +24,40 @@ When prototyping, take into account **additional UI elements that are hardware a
 Figma's interface already takes up enough space at the top when viewing a website on a desktop. Still, for mobile, we need to mock extra OS and browser interface elements to have a more natural and realistic preview.
 
 
+## Prototype instructions
+
+**The prototype** is a clickable Figma file that we use to showcase interactions on the screens still
+in design.
+
+<img width="2033" alt="img-29" src="https://user-images.githubusercontent.com/99874159/215465347-6a13132b-3dd8-407b-ab37-38a29006307d.png">
+
+### Getting started with the prototype
+In the sidebar (**A**), located on the left side of the screen, you can find all prototype links – different
+design flows (e.g. Login flow, Registration flow, etc.) you can access in this file. Clicking on those
+links switches to the starting point of the selected flow.
+You can hide or show the sidebar by clicking the sidebar icon on the top (**B**).
+By pressing the “Options” dropdown (**C**) you can:
+• change the preview options (if the prototype is cut off or isn’t fitting your screen as intended)
+• hide/show the top toolbar
+• show/hide comments
+
+### Navigating through the screens
+Interact with hotspots (blue areas that appear on the screen when you click) to move to the next
+screen/page. You can also use arrow keys to move from one screen to another or arrows on the
+bottom of the screen (**D**).
+Pressing “R” key on your keyboard returns you to the starting point of the prototype flow.
+
+### Leaving feedback
+Press “**C**” on your keyboard or click the comment icon on the top (E) to open the comment dialog.
+You can click anywhere on the screen to leave feedback.
+
+### Viewing prototype on mobile
+To view the prototype on your mobile device you will need a Figma account. It is recommended that you download the Figma mobile app ([iOS version](https://apps.apple.com/app/figma-mirror/id1152747299) or [Android version](https://play.google.com/store/apps/details?id=com.figma.mirror&pli=1)) to have a better experience with viewing the prototype. 
+
+![designprocess-prototyping-viewport](https://user-images.githubusercontent.com/99874159/215469775-c2861b51-0058-4172-a878-11a11c755b4b.jpg)
+
+Once you open the prototype, long pressing with two fingers opens the prototype menu where you can control the prototype. Here you can find the options to switch to another prototype flow, restart the prototype and go to the starting point of the prototype flow, and leave feedback using comments.
+
 ### Recommended reading
 
 - [NNG: UX Prototypes - Low Fidelity vs. High Fidelity](https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/)
