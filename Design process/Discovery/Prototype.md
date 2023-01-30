@@ -37,6 +37,7 @@ design flows (e.g. Login flow, Registration flow, etc.) you can access in this f
 links switches to the starting point of the selected flow.
 You can hide or show the sidebar by clicking the sidebar icon on the top (**B**).
 By pressing the “Options” dropdown (**C**) you can:
+
 - change the preview options (if the prototype is cut off or isn’t fitting your screen as intended)
 - hide/show the top toolbar
 - show/hide comments
