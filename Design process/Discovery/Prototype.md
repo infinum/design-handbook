@@ -54,7 +54,7 @@ You can click anywhere on the screen to leave feedback.
 ### Viewing prototype on mobile
 To view the prototype on your mobile device you will need a Figma account. It is recommended that you download the Figma mobile app ([iOS version](https://apps.apple.com/app/figma-mirror/id1152747299) or [Android version](https://play.google.com/store/apps/details?id=com.figma.mirror&pli=1)) to have a better experience with viewing the prototype. 
 
-![designprocess-prototyping-viewport](https://user-images.githubusercontent.com/99874159/215469775-c2861b51-0058-4172-a878-11a11c755b4b.jpg)
+![designprocess-prototyping-viewport](https://user-images.githubusercontent.com/99874159/215481816-f3f0499e-775e-4bdd-aa45-293063681add.jpg)
 
 Once you open the prototype, long pressing with two fingers opens the prototype menu where you can control the prototype. Here you can find the options to switch to another prototype flow, restart the prototype and go to the starting point of the prototype flow, and leave feedback using comments.
 
