@@ -62,7 +62,7 @@ Once you open the prototype, long pressing with two fingers opens the prototype 
 
 ### Onboarding clients
 
-To avoid worrying if your clients memorized everything you explained, send them these instructions ([which you can find on Google Drive](https://drive.google.com/drive/folders/1u44DuNNnRmG66KUBaBqTYfocrkoB27su)) along with your prototype. You can adjust the instructions in the .pages document and export it as PDF before sending it off. 
+To avoid worrying if your clients memorized everything you explained, send them these instructions ([which you can find on Google Drive](https://drive.google.com/drive/folders/1u44DuNNnRmG66KUBaBqTYfocrkoB27su)) along with your prototype. You can adjust the instructions in the Pages document and export it as PDF before sending it off. 
 
 ### Recommended reading
 
