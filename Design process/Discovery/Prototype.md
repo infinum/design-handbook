@@ -60,6 +60,8 @@ To view the prototype on your mobile device you will need a Figma account. It is
 
 Once you open the prototype, long pressing with two fingers opens the prototype menu where you can control the prototype. Here you can find the options to switch to another prototype flow, restart the prototype and go to the starting point of the prototype flow, and leave feedback using comments.
 
+### Onboarding clients
+
 To avoid worrying if your clients memorized everything you explained, send them these instructions ([which you can find on Google Drive](https://drive.google.com/drive/folders/1u44DuNNnRmG66KUBaBqTYfocrkoB27su)) along with your prototype. You can adjust the instructions in the .pages document and export it as PDF before sending it off. 
 
 ### Recommended reading
