@@ -26,8 +26,9 @@ Figma's interface already takes up enough space at the top when viewing a websit
 
 ## Prototype instructions
 
-**The prototype** is a clickable Figma file that we use to showcase interactions on the screens still
-in design.
+When sharing the prototype with clients, ensure they understand how to navigate it. Here is everything you need to cover so they have a good viewing experience.
+
+**The prototype** is a clickable Figma file that we use to showcase interactions on the screens still in design.
 
 <img width="2033" alt="img-29" src="https://user-images.githubusercontent.com/99874159/215465347-6a13132b-3dd8-407b-ab37-38a29006307d.png">
 
@@ -58,6 +59,8 @@ To view the prototype on your mobile device you will need a Figma account. It is
 ![designprocess-prototyping-viewport](https://user-images.githubusercontent.com/99874159/215481816-f3f0499e-775e-4bdd-aa45-293063681add.jpg)
 
 Once you open the prototype, long pressing with two fingers opens the prototype menu where you can control the prototype. Here you can find the options to switch to another prototype flow, restart the prototype and go to the starting point of the prototype flow, and leave feedback using comments.
+
+To avoid worrying if your clients memorized everything you explained, send them these instructions ([which you can find on Google Drive](https://drive.google.com/drive/folders/1u44DuNNnRmG66KUBaBqTYfocrkoB27su)) along with your prototype. You can adjust the instructions in the .pages document and export it as PDF before sending it off. 
 
 ### Recommended reading
 
