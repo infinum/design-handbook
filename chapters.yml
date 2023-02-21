@@ -33,7 +33,7 @@ entries:
           - Requesting feedback from clients
       - Handoff:
           - Export
-          - Checking implementation
+          - Builds and test environments
           - Design files and project folders
           - Offboarding a project
           - Moving Figma project to the client
