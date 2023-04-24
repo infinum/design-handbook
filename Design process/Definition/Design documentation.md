@@ -45,6 +45,7 @@ There is no one-size-fits-all approach to design documentation. However, there a
 For example, if you are working on a **short**, **in-and-out project**, let’s say – a web one-pager, chances are that you don’t need a particularly detailed design documentation. What you might do instead:
 
 1. Create a single **UI design file** in Figma
+
 - Include UI of all screens in their various states (empty, loading, error, etc.)
 - Screens linked with arrows: Use arrows or connectors to indicate the flow between screens, clarifying which components lead to different parts of the application.
 
@@ -69,6 +70,7 @@ On the other hand, if you are just now building a foundation of what promises to
 3. Create a separate file for your **styleguide**, as a Figma project library
 
 4. Create a separate file for your **components and patterns**, as a Figma project library
+
 - Map out and design all component variants
 - Map out all distinct design patterns
 - Add detailed specifications and guidelines for all design patterns
