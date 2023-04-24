@@ -28,15 +28,11 @@ A web or app design documentation may include:
 - categorized patterns
 - pattern specifications, usage guidelines, and examples of how to use them
 
-<br>
-
 <h2>When to document?</h3>
 
 In short – **always**. But how you approach the documentation process will largely depend on the project size, complexity and, sometimes – timelines. Smaller, shorter projects may not require more than a concise set of guidelines, while complex, collaborative projects need more detailed and structured documentation to ensure consistency and quality in design.
 
 Design pattern documentation, in particular, is useful for larger projects that involve multiple designers and developers, as it helps to ensure that everyone is on the same page throughout the project lifecycle. It can also help with projects that are intended to evolve, as it provides a solid foundation of building blocks for future design decisions and ensures consistency.
-
-<br>
 
 <h2>How to document?</h3>
 
@@ -51,11 +47,7 @@ For example, if you are working on a **short**, **in-and-out project**, let’s 
 3. Add a separate page for your **main components**, with basic specifications, such as component states
 4. If needed, add **small notes for developers** as a reminder of how a specific pattern is meant to behave and interact
 
-<br>
-
 <img width="2834" alt="1" src="https://user-images.githubusercontent.com/24880388/233973449-b6f0ecbc-c7e6-4f22-829f-0342c5e25943.png">
-
-<br>
   
 On the other hand, if you are just now building a foundation of what promises to be a **complex**, **long-term project**, with a potential to evolve even cross-platform, this is what you might want to do:
 
@@ -70,11 +62,7 @@ On the other hand, if you are just now building a foundation of what promises to
   - Provide specifications for animations and transitions
 5. Create a separate file for interactive prototypes
 
-<br>
-
 <img width="2834" alt="2" src="https://user-images.githubusercontent.com/24880388/233975678-80d7dc3c-34db-4b20-8d0d-8b9d12333577.png">
-
-<br>
 
 <h2>Useful links</h3>
 
