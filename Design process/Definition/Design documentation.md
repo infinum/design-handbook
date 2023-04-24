@@ -44,12 +44,12 @@ There is no one-size-fits-all approach to design documentation. However, there a
 
 For example, if you are working on a **short**, **in-and-out project**, let’s say – a web one-pager, chances are that you don’t need a particularly detailed design documentation. What you might do instead:
 
-- Create a single **UI design file** in Figma
+1. Create a single **UI design file** in Figma
   - Include UI of all screens in their various states (empty, loading, error, etc.)
   - Screens linked with arrows: Use arrows or connectors to indicate the flow between screens, clarifying which components lead to different parts of the application.
-- Add a separate page for your **basic styleguide** (e.g. colors, typography, grids and spacing, etc)
-- Add a separate page for your **main components**, with basic specifications, such as component states
-- If needed, add **small notes for developers** as a reminder of how a specific pattern is meant to behave and interact
+2. Add a separate page for your **basic styleguide** (e.g. colors, typography, grids and spacing, etc)
+3. Add a separate page for your **main components**, with basic specifications, such as component states
+4. If needed, add **small notes for developers** as a reminder of how a specific pattern is meant to behave and interact
 
 <br>
 
@@ -59,16 +59,16 @@ For example, if you are working on a **short**, **in-and-out project**, let’s 
   
 On the other hand, if you are just now building a foundation of what promises to be a **complex**, **long-term project**, with a potential to evolve even cross-platform, this is what you might want to do:
 
-- Create a **Figma project**
-- Create a **separate file for UI design**
-- Create a separate file for your **styleguide**, as a Figma project library
-- Create a separate file for your **components and patterns**, as a Figma project library
+1. Create a **Figma project**
+2. Create a **separate file for UI design**
+3. Create a separate file for your **styleguide**, as a Figma project library
+4. Create a separate file for your **components and patterns**, as a Figma project library
   - Map out and design all component variants
   - Map out all distinct design patterns
   - Add detailed specifications and guidelines for all design patterns
   - Show examples of pattern usage
   - Provide specifications for animations and transitions
-- Create a separate file for interactive prototypes
+5. Create a separate file for interactive prototypes
 
 <br>
 
