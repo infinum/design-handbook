@@ -79,6 +79,7 @@ On the other hand, if you are just now building a foundation of what promises to
 <h2>Useful links</h3>
 
 Here are some best practice examples to get you started:
+
 - [Material Design 3 - Web guidelines](https://m3.material.io/) 
 - [Material Design 3 - Figma Design Kit](https://www.figma.com/community/file/1035203688168086460)
 - [Ant Design System](https://www.figma.com/community/file/831698976089873405)
