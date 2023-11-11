@@ -129,7 +129,6 @@
 - [Taschen](https://www.taschen.com/)
 - [Phaidon](https://www.phaidon.com/store/design/)
 - [Blackwell's](https://blackwells.co.uk/bookshop/category/_artanddesign/)
-- [BookDepository](https://www.bookdepository.com/category/2/Art-Photography)
 - 💱 [COUNTER-PRINT](https://www.counter-print.co.uk/)
 - 💱 [Draw Down](https://draw-down.com/)
 - 💱 [Victionary](https://victionary.com/)
