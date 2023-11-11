@@ -1,9 +1,7 @@
 ## Digital design guidelines & systems
 
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- [iOS Guidelines by Ivo Mynttinen](http://iosdesign.ivomynttinen.com/)
 - [Material Design](https://material.io/)
-- [Expressing Brand in Material](https://design.google.com/articles/expressing-brand-in-material/)
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 - [Pattern Index](http://www.patternindex.org/)
 - [Design Systems Repo](https://designsystemsrepo.com/)
@@ -58,7 +56,7 @@
 - [UX Methods Bank](https://uxmastery.com/resources/techniques/)
 - [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
 - [The User Experience Team of One: A Research and Design Survival Guide](https://rosenfeldmedia.com/books/the-user-experience-team-of-one/)
-- [Design Kit: Methods](http://www.designkit.org/methods)
+- [Design Kit: Methods](http://www.designkit.org/methods.html)
 - [The Co-create Handbook](http://www.cocreate.training/2019/03/15/the-co-create-handbook-for-creative-professionals-is-now-online/)
 - [Miro Academy](https://academy.miro.com/)
 
