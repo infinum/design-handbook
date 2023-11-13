@@ -23,12 +23,12 @@ Feel free to check out our [Accessibility Guidelines](https://www.figma.com/comm
 Come along for the journey and start building with digital product accessibility in mind to create solutions that are truly every-user-friendly.
 
 Here is a summary of useful links in one place:
-[Accessibility handbook](https://infinum.com/handbook/accessibility) 
-[Design chapter](https://infinum.com/handbook/accessibility/design/intro)
-[Accessibility review chapter](https://infinum.com/handbook/accessibility/design/accessibility-review)
-[List of useful plugins and tools](https://infinum.com/handbook/accessibility/design/useful-plugins-and-tools)
-[Infinum talks in Ljubljana](https://www.youtube.com/watch?v=3_1Qmu0Muo0)
-[Infinum talks in Podgorica](https://www.youtube.com/watch?v=lspK_5Y7ZIg)
-[Accessibility Guidelines Figma Community File](https://www.figma.com/community/file/1162686263875105735)
-[Accessibility initiative introductory blog post](https://infinum.com/blog/digital-product-accessibility/)
-[8 Best Practices for Designing Accessible Products](https://infinum.com/blog/digital-product-accessibility/)
+[Accessibility handbook](https://infinum.com/handbook/accessibility)\
+[Design chapter](https://infinum.com/handbook/accessibility/design/intro)\
+[Accessibility review chapter](https://infinum.com/handbook/accessibility/design/accessibility-review)\
+[List of useful plugins and tools](https://infinum.com/handbook/accessibility/design/useful-plugins-and-tools)\
+[Infinum talks in Ljubljana](https://www.youtube.com/watch?v=3_1Qmu0Muo0)\
+[Infinum talks in Podgorica](https://www.youtube.com/watch?v=lspK_5Y7ZIg)\
+[Accessibility Guidelines Figma Community File](https://www.figma.com/community/file/1162686263875105735)\
+[Accessibility initiative introductory blog post](https://infinum.com/blog/digital-product-accessibility/)\
+[8 Best Practices for Designing Accessible Products](https://infinum.com/blog/digital-product-accessibility/)\
