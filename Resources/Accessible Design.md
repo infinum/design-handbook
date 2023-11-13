@@ -22,7 +22,7 @@ Emanuel Loborec brought out the importance of Accessibility closer to the audien
 Feel free to check out our [Accessibility Guidelines](https://www.figma.com/community/file/1162686263875105735) Figma Community file, where we show an overview of our guidelines along with the Checklist Template.
 Come along for the journey and start building with digital product accessibility in mind to create solutions that are truly every-user-friendly.
 
-Here is a summary of useful links in one place:
+Here is a summary of useful links in one place:\
 [Accessibility handbook](https://infinum.com/handbook/accessibility)\
 [Design chapter](https://infinum.com/handbook/accessibility/design/intro)\
 [Accessibility review chapter](https://infinum.com/handbook/accessibility/design/accessibility-review)\
