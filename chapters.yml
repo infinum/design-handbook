@@ -1,5 +1,4 @@
 entries:
-  - Hello, designer
   - Team:
       - Starter pack
       - General company rules
@@ -8,9 +7,12 @@ entries:
       - Culture
       - Team roles
       - Mentoring
-      - Design coordination
       - Quarterly goals
+      - Design coordination
   - Design process:
+      - Estimates:
+          - Mobile and web app estimates
+          - WordPress estimates
       - Discovery:
           - Research
           - Discovery workshop
@@ -21,26 +23,30 @@ entries:
           - Week 1 - Discovery & Feature Definition
           - Week 2 - Prototyping & Usability Testing
           - Deliverables
-      - Definition:
+          - Case study - Cormeum
+      - Product design:
           - Information architecture
           - UX strategy
           - Wireframes
           - UI design
+          - UX writing
           - Motion design
-          - Styleguide
+          - Design documentation
+      - Web design:
+          - Designing for WordPress
       - Feedback:
           - Getting back on track
           - Requesting feedback from clients
       - Handoff:
           - Export
-          - Builds and test environments
           - Design files and project folders
+          - Builds and test environments
+          - Design implementation reviews
           - Offboarding a project
           - Moving Figma project to the client
           - Deleting files from Google Drive
   - Resources:
       - Glossary
-      - Accessible design
       - Reusable templates
       - Internal resources
       - Learning materials
@@ -48,11 +54,24 @@ entries:
       - Software and goodies
   - Tools:
       - Accounts & licensing
+      - Artificial intelligence
       - Figma
       - Sketch
       - From Sketch to Figma
       - Abstract
       - Zeplin
       - Maze
-      - iPad
+      - Procreate
       - Other tools
+  - Workplace Challenges and Stress:
+      - Personal challenges:
+          - Losing focus & Lack of concentration
+          - I don’t know how to do something
+          - Impostor syndrome
+      - Time-related challenges:
+          - Overtime
+          - A crazy deadline was assigned
+      - Project-related challenges:
+          - I feel unhappy working on this project
+          - Too many projects in parallel
+  
