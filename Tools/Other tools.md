@@ -15,19 +15,17 @@
 
 ### Prototyping
 - [Figma](https://www.figma.com/) ⭐️
-- [InVision](https://www.invisionapp.com/) 
 
 ### Micro-interaction animation
-- [Principle](https://principleformac.com/)
 - [Framer](https://www.framer.com/)
+- [Principle](https://principleformac.com/)
+
 
 ### Mirroring
 - Figma Mirror ([iOS](https://apps.apple.com/us/app/figma-mirror/id1152747299)/[Android](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en)) - preview Figma screens on mobile devices
 
 
-### Hand-off
-- [Zeplin](https://zeplin.io/) 
-- [InVision](https://www.invisionapp.com/feature/inspect) + [Craft](https://www.invisionapp.com/craft)
+### Compression
 - [ImageOptim](https://imageoptim.com/) ⭐️ - supports both lossless and lossy compression, lossy being a great choice for large photos
 - [TinyPNG](https://tinypng.com/) - lossy compression for PNGs and JPGs
 - [Handbrake](https://handbrake.fr/) - video compression tool
