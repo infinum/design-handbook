@@ -112,6 +112,11 @@
 - [Wireframe](https://xd.adobe.com/ideas/perspectives/wireframe-podcast/)
 - [Illustration Hour](https://open.spotify.com/show/1TQ0H2msJEE3QZqx4cMEJA?si=bd29f476b22d4f0a)
 - [DesignBetter Podcast](https://www.designbetter.co/podcast)
+- [NN/g UX podcast](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idv78lCtzYaKUiO07CC_rU0A)
+- [UI breakfast](https://uibreakfast.com/category/podcast/)
+- [Design Emergency](https://open.spotify.com/show/5csNyfolubwOBlaiF3vf4L)
+- [User Defenders](https://userdefenders.com/podcast/)
+- [UX podcast](https://uxpodcast.com/)
 
 
 ## Videos lectures and tutorials
