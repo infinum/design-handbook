@@ -106,7 +106,7 @@ When creating new features for a legacy project, follow our current guidelines (
 
 # Why all this bureaucracy?
 
-There are no problems while you're working by yourself, but if something comes up while you are on vacation and someone needs to jump in ASAP... Well, that might be a problem. If a colleague doesn't know where everything is, a 15-minute task can quickly become several hours of soul searching and digging. All the latest files should be online in some form (Figma, Abstract or Google Drive).
+There are no problems while you're working by yourself, but if something comes up while you are on vacation and someone needs to jump in ASAP... Well, that might be a problem. If a colleague doesn't know where everything is, a 15-minute task can quickly become several hours of soul searching and digging. All the latest files should be online in some form (Figma or Google Drive).
 
 We support creative clutter, but it's a good idea to do a 15-minute cleanup once a week to keep everything tidy. It would be the best if you did this every day for a few minutes when you're finished with work, or while doing some kind of recap in your head (I understand that sometimes there is no time for that).
 
