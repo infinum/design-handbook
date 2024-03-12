@@ -108,7 +108,7 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 ### Access to project files
 
 - Access to Google Drive folder
-- Access to Sketch or Figma files
+- Access to Figma files
 - Access to fonts
 - Access to production and/or staging
 - Authorisation for staging when needed (banking apps)
@@ -124,7 +124,7 @@ Surely, animations can also be simply decorative – as long as they don’t neg
 
 [Principle](https://principleformac.com/) — ease of creating animated flow from different applications or web screens through predefined animations allows motion designers to quickly and easily create an animated prototype.
 
-Another big advantage of this software is the easy way of [importing screens](https://principleformac.com/docs.html#import) from the other design software, such as Sketch and Figma. 
+Another big advantage of this software is the easy way of [importing screens](https://principleformac.com/docs.html#import) from the other design software, such as Figma. 
 
 🔗 [Principle: Documentation](https://principleformac.com/docs.html)<br>
 🔗 [Principle: Tutorials](https://principleformac.com/tutorial.html)
@@ -145,7 +145,7 @@ Free installer for CEP (Common Extensibility Platform, which enables developers 
 
 You have created your design in Figma, and now is time to transfer it to After Effects. The easiest way to transfer layers with the least friction between visual design and motion is by the AEUX plugin. 
 
-AEUX is a set of panels for Figma, Sketch, and After Effects. Spell it out or say it like A-Yo.
+AEUX is a set of panels for Figma, and After Effects. Spell it out or say it like A-Yo.
 
 Although AEUX is not available as a community plugin, there are a few steps you need to do before you start using it.
 
