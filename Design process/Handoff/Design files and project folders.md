@@ -95,36 +95,14 @@ Feel free to leave notes under screens or flows. Sometimes a screen flow can be 
 
 ### Legacy projects
 
-Sometimes we need to update something or add a feature in an old legacy project that no one opened in years. They do not follow our current standards and partially break because of a lack of Sketch backward compatibility. For these projects, we should have a status explanation on the first page. This explanation should have hold information about missing or broken things in the file and the reason for why they can't be fixed (due to a fixed budget, the client didn't want it or some other reason).
+Sometimes we need to update something or add a feature in an old legacy project that no one opened in years. They do not follow our current standards. For these projects, we should have a status explanation on the first page. This explanation should have hold information about missing or broken things in the file and the reason for why they can't be fixed (due to a fixed budget, the client didn't want it or some other reason).
 
 When creating new features for a legacy project, follow our current guidelines (create text styles, group flows, use components, etc.).
 
 
 ## 3. Versioning
 
-### Figma
-
 **Figma** autosaves all your work and creates versions on its own, but it's not so easy to navigate through auto-generated versions, so make sure you **save versions on your own after** finishing a specific task or a chunk of work. Versioning in Figma is as easy as it gets; click **File → Save to version history** and name it in a way that makes sense and is easy to find.
-
-### Sketch & Abstract
-
-When working in **Sketch** for version control, we use **Abstract**, where we keep design files that we work on and primarily **open sketch files from Abstract**. Since no software is perfect, you should periodically back up the documents you work on in Abstract to Google Drive (every month or so).
-
-If you have not worked on the project for more than a week, everything should be committed and merged into the master. If there are multiple projects for the same client, it must be clear (visually or textually) which one is the latest version, what is updating and what is stale (outdated).
-
-**How to commit on Abstract**
-
-1. Make sure you commit once a day at a minimum (at the end of the workday).
-2. Branches should be active for a maximum of 5 days. So, for example, at the end of the week, merge everything to Master.
-3. If you are working on the same project with other colleagues, sync with them regularly and keep the project neat.
-
-*Pro tip: Commit upload can work in the background as you continue to work on the file.*
-
-
-## 4. Export
-
-### Zeplin & InVision
-Ideally, Zeplin and InVision should be a 1:1 replica of your design file (even if all of the screens aren't imported the flow structure should be visible nonetheless). More on exporting in later chapters.
 
 # Why all this bureaucracy?
 
