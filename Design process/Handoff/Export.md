@@ -1,6 +1,6 @@
 ## Visual assets
 
-Make sure all assets are marked as *exportable* ([Figma steps](https://help.figma.com/hc/en-us/articles/360040028114-Getting-Started-with-Exports), [Sketch steps](https://support.zeplin.io/en/articles/367379-exporting-assets-from-sketch)). You only have to mark the master component/symbol as exportable; it will apply to all its copies. If you are not sure what assets need to be exported (other than icons and illustrations) - ask the project's developer.
+Make sure all assets are marked as *exportable* ([Figma steps](https://help.figma.com/hc/en-us/articles/360040028114-Getting-Started-with-Exports)). You only have to mark the master component/symbol as exportable; it will apply to all its copies. If you are not sure what assets need to be exported (other than icons and illustrations) - ask the project's developer.
 
 Follow the naming convention below:
 
