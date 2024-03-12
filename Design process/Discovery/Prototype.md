@@ -1,10 +1,9 @@
 Prototypes serve as a demo of connected screens so that the team, stakeholders or users (during [usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing)) have a **clear understanding of the flows**, since flows are [hard to explain in words](https://twitter.com/kvyn_/status/1254789229181169665?s=21).
 
-If you're designing in **Figma**, it's best to keep the prototype there. If you're using **Sketch**, you'll need [Craft](https://www.invisionapp.com/craft) to have a smoother integration with [InVision](https://www.invisionapp.com/cloud/prototype). We won't get too technical as tools often change, so check out these resources:
+If you're designing in **Figma**, it's best to keep the prototype there. We won't get too technical as tools often change, so check out these resources:
 
 - [Figma's prototyping features](https://www.figma.com/prototyping/)
 - [Figma Tutorial: Prototyping & Transitions](https://www.youtube.com/watch?v=-d6zNGeF59M)
-- [Sketch's prototyping documentation](https://www.sketch.com/docs/prototyping/)
 
 **Interactions** are an integral part of the user experience. Make sure that:
 
