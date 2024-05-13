@@ -117,6 +117,8 @@
 - [Design Emergency](https://open.spotify.com/show/5csNyfolubwOBlaiF3vf4L)
 - [User Defenders](https://userdefenders.com/podcast/)
 - [UX podcast](https://uxpodcast.com/)
+- [Design MBA](https://designmba.show/)
+- [High Resolution](https://www.youtube.com/@HighResolution)
 
 
 ## Videos lectures and tutorials
