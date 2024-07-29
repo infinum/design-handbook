@@ -210,7 +210,6 @@ Here are a couple of libraries that can come in handy when creating landing page
 ## 📚 Recommended reading
 
 - [UI Movement](https://uimovement.com/) (Examples of UI Animations)
-- [InVision's Animation Handbook](https://www.designbetter.co/animation-handbook)
 - [Creating Usability with Motion](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) (Article)
 - [How Motion Design Applies to UI](https://infinum.com/the-capsized-eight/motion-design-ui-design) (Article)
 - [Motion Design Is the Future](https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f) (Article)
