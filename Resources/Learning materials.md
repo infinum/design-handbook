@@ -32,7 +32,6 @@
 - [Google Design](https://design.google/)
 - [Spotify Design](https://spotify.design/)
 - [Airbnb Design](https://airbnb.design/)
-- [InVision's Inside Design](https://www.invisionapp.com/inside-design/category/design/)
 - [Marvel Blog](https://blog.marvelapp.com/)
 - [Evernote Design](https://www.evernote.design/)
 - [User Onboard](https://www.useronboard.com/)
