@@ -69,7 +69,3 @@ More in [Figma's Help Centre](https://help.figma.com/hc/en-us/articles/360040530
 - [Style Organiser](https://www.figma.com/community/plugin/816627069580757929/Style-Organizer) - display and organise colour & text styles
 - [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - create, attach, clone and move components in a couple of clicks without losing overrides
 - [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - change values of multiple (text and color) styles at once
-
-## 📚 Recommended reading
-
-- [From Zeplin to Figma in 5 Simple Steps for Developers](https://infinum.com/the-capsized-eight/zeplin-to-figma)
