@@ -2,8 +2,7 @@ Prototypes serve as a demo of connected screens so that the team, stakeholders o
 
 If you're designing in **Figma**, it's best to keep the prototype there. We won't get too technical as tools often change, so check out these resources:
 
-- [Figma's prototyping features](https://www.figma.com/prototyping/)
-- [Figma Tutorial: Prototyping & Transitions](https://www.youtube.com/watch?v=-d6zNGeF59M)
+- [Figma's prototyping resources](https://www.figma.com/prototyping/)
 
 **Interactions** are an integral part of the user experience. Make sure that:
 
