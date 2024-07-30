@@ -18,7 +18,7 @@ Figma supports permissions at a team, project, and file level, which means we ha
 When you create a new project (and file inside the project), the file ownership is automatically assigned to you. You'll need to the following for the project and each individual file:
 
 1. Click **Share**
-1. Invite **Infinum** to the project (or file)
+1. Invite **Infinum** (accounts.figma@infinum.com) to the project (or file)
 1. After it appears on the list, click the dropdown next to its name and select **Owner**
 1. A dialog will pop up, click **Transfer ownership**
 1. Repeat this for every file you created.
