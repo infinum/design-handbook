@@ -9,7 +9,7 @@ Its [design chapter](https://infinum.com/handbook/accessibility/design/intro) el
 The digital accessibility principles we implement in our projects are organized in the same way as the WCAG principles. There are three conformance levels across four categories – level A being the minimum level of accessibility in a digital product:
 
 - **A** - Includes providing text alternatives for non-text content, making sure that the site is usable when stylesheets are turned off, and ensuring that the site is keyboard accessible. It level also includes support for TalkBack/VoiceOver.
-**AA** - On top of the Level A guidelines, this level takes additional steps to ensure that content is accessible to users in a wider range of scenarios. Most accessibility regulations require this level at the moment.
+- **AA** - On top of the Level A guidelines, this level takes additional steps to ensure that content is accessible to users in a wider range of scenarios. Most accessibility regulations require this level at the moment.
 - **AAA** - Represents the highest level of conformance and the strictest set of guidelines. It aims to make information and user interfaces accessible to all users, including those with severe disabilities. This level is recommended for tools that have elderly and disabled people as a target group.
 
 Each of the levels is applied to the four main categories: perceivable, operable, understandable, and robust.
