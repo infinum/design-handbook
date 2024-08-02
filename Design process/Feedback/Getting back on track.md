@@ -17,19 +17,15 @@ Giving each other helpful feedback is one of the most important parts of being a
 - *“This isn’t great because…” “This could be better if…”* That is sharp negative feedback. It explains why something isn’t great and how it could be better. That makes the feedback actionable. Note that this doesn’t mean you’re “solutioning” for the presenter (which is almost always counter-productive in reviews)—you could be giving them potential areas to explore.
 - *“This is awesome because…”* That is sharp positive feedback. It lets you feel good while learning what to keep or continue doing.
 
-When you have a dilemma that can be **explained briefly and solved without hands-on work, you can always turn to your team to hear some opinions**. Write up a brief explanation of the task (or project), what you're unsure of, and take a screenshot. Post it to the _#team-design-feedback_ channel, and the team will work their magic.
+When you have a dilemma that can be **explained briefly and solved without hands-on work, you can always turn to your team to hear some opinions**. Write up a brief explanation of the task (or project) and what you're unsure of, and take a screenshot. Post it to the _#team-design-feedback_ channel, and the team will work their magic.
 
-If you made **multiple versions of the design** and can't choose which one is better - provide voting emojis and let the *vox populi* decide.
-
-If you have a more **complex problem that requires hands-on designing and iterating**, make a calendar reservation in some of the available conference rooms, gather the crew, and initiate a brainstorming sesh.
+If you have a more **complex problem that requires hands-on designing and iterating**, gather a couple of brains and initiate a brainstorming session.
 
 ## 🏓 Ping-pong
 
-Sometimes you get to a point where you realize you are nudging elements around on screen for an hour, only to find yourself right back where you started. It can be a pain point in the design process, but not an unusual one. Most of the time, the problem lies in the fact that you have been looking at the same design/project/task for too long and got stuck in finding the right solution for the issue you are facing. 
+Sometimes, you get to a point where you realize you are nudging elements around on screen for an hour, only to find yourself right back where you started. It can be a pain point in the design process, but not an unusual one. Most of the time, the problem lies in the fact that you have been looking at the same design/project/task for too long and got stuck in finding the right solution for the issue you are facing. 
 
-To pull you out of that vortex, turn to a buddy who will play along. The rules are simple: once you realize you are stuck, pass your design along to a colleague who can help. Onboard them to the task (or project) briefly and explain the problem you are currently facing, link your Figma screen, and let them work their magic. A fresh pair of eyes will find some outside of the box solution quite fast and efficiently, or at least point you in the right direction.  
-
-The whole process is just fast-paced, collaborative design work with a catchy title. It can be short & sweet and serve as a base that will get your creative juices flowing again, or if your buddy gets inspired, they can deliver a complete solution.
+The rules are simple: once you realize you are stuck, pass your design along to a colleague who can help. Onboard them to the task (or project) briefly and explain the problem you are currently facing, link your Figma screen, and let them work their magic. A fresh pair of eyes will find some outside-of-the-box solution quite fast and efficiently, or at least point you in the right direction.  
 
 Track time spent on working up a solution for a buddy on the project (check with the PM), or (if the project has a tight budget) on _Team: Design → Team activities_.
 
