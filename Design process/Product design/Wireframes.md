@@ -9,9 +9,8 @@ We usually design wireframes before any visual design to keep the focus on the f
 Wireframes help us with:
 
 - get feedback from clients and developers before we're deep into the final stages of design
-- staying within the scope and the budget for development
-- figure out any technical restrictions (usually during [tech reviews](https://infinum.com/handbook/books/design/team/mentoring#tech-reviews))
-- getting feedback.
+- figure out any technical restrictions and staying within the scope for development
+- getting feedback from the clients and project team.
 
 Wireframes are also useful for creating quick [prototypes](https://infinum.com/handbook/books/design/design-process/discovery/prototype), which we often use during usability testing with users.
 
