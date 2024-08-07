@@ -29,7 +29,7 @@ All courses are pre-recorded and accessible through a monthly subscription. Upon
 - [The Ultimate Guide to Visual Perception and Design](https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design) (Intermediate, Advanced)
 
 ## [IDEOU](https://www.ideou.com/collections/courses)
-Online self-paced pre-recoded courses for $199 (+$49 taxes).
+Online self-paced pre-recoded courses.
 
 - [Prototyping for Digital Experiences](https://www.ideou.com/products/prototyping-for-digital-experiences) (All) <br>
 Low-fidelity prototyping methods for digital products and services
@@ -37,7 +37,6 @@ Low-fidelity prototyping methods for digital products and services
 Learn to work and lead with purpose
 
 ## [Skillshare](https://www.skillshare.com/home)
-Monthly subscription, check 1Password for the credentials.
 
 - [User Experience Strategy Masterclass - Become UX Strategist](https://www.skillshare.com/classes/User-Experience-Strategy-Masterclass-Become-UX-Strategist/225657341/projects?via=search-layout-grid) (All levels)
 - [Designing for the Future: UI/UX Prototyping](https://www.skillshare.com/classes/Designing-for-the-Future-UIUX-Prototyping/915958036?via=search-layout-grid) (Beginner)
@@ -46,15 +45,8 @@ Monthly subscription, check 1Password for the credentials.
 
 ## [Awwwards Academy](https://www.awwwards.com/academy/)
 
-- [The Secret Sauce: Creating brands that are impossible to ignore](https://www.awwwards.com/academy/course/the-secret-sauce-creating-brands-that-are-impossible-to-ignore)
+Awwwards Academy offers specialized online courses in web design, UX/UI, and digital development, taught by industry experts. The courses include video lectures, practical assignments, and live Q&A sessions, culminating in certificates of completion that enhance professional credentials. 
 
-## [SuperHi](https://www.superhi.com/)
+## 🛒 [Purchased courses](https://app.productive.io/1-infinum/pages/83124)
 
-- [Intro to User Experience Design]() (Intermediate) - $160
-
-## [DesignCode.io](https://designcode.io/courses/)
-
-- [Principle](https://www.superhi.com/courses/introduction-to-user-experience-design) 
-- [Figma: Design systems](https://designcode.io/figma)  
-
-### 🛒 [Purchased courses](https://app.productive.io/1-infinum/pages/83124)
+A list of courses our team mates went through and their ratings/recommendations.
