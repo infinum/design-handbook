@@ -1,19 +1,19 @@
-## [Nielsen Norman Group](https://www.nngroup.com/1-hour-talks/): 1-Hour Talks
+## [Nielsen Norman Group]([https://www.nngroup.com/1-hour-talks/](https://www.nngroup.com/courses/)): Training & UX Certification
 
-On-demand 1h lectures per $100. The lectures can be streamed again and don’t expire. Covers a breadth of topics.
+Nielsen Norman Group (NN/g) offers a respected UX Certification program through its UX Conferences, which are available both in person and online.
 
-- [Effective Wireframing](https://www.nngroup.com/1-hour-talks/effective-wireframing-techniques/)
-- [Presenting to Stakeholders](https://www.nngroup.com/1-hour-talks/presenting-stakeholders/)
-- [Design Critiques: What, How, and When](https://www.nngroup.com/1-hour-talks/design-critiques-what-how-and-when/) 
-- [Facilitating Remote Design Workshops](https://www.nngroup.com/1-hour-talks/facilitating-remote-design-workshops/)
-- [Building a 2.0](https://www.nngroup.com/1-hour-talks/building-2/)
-- [UX for Big Data](https://www.nngroup.com/1-hour-talks/ux-big-data/)
+NN/g’s UX Conferences cover various topics:
+- **Interaction Design**
+- **UX Research**
+- **UX Management**
+
+Courses are 1-2 days long and provide both theoretical and practical knowledge. They cater to all levels, from beginners to advanced practitioners. Courses use tools like Zoom for classes, Google Drive for materials, and Slack for networking. They feature interactive sessions, breakout rooms, and engagement through polls and discussions.
+
+The certification process requires participants to attend five courses and pass an exam for each. Upon passing, participants receive a certification badge and are listed on NN/g’s website.
 
 ## [Interaction Design Foundation](https://www.interaction-design.org/) 
 
-All courses are pre-recorded. You pay €15 per month to access all courses. They are not bought individually.
-
-When you enroll in a course, one lecture is unlocked each week. There are no deadlines. After each unit (or course) you must take an open-ended test that their instructors grade. After that, you get a certificate.
+All courses are pre-recorded and accessible through a monthly subscription. Upon enrolling in a course, one lecture is unlocked each week. There are no deadlines to complete the lectures. After finishing each unit or course, you must take an open-ended test, which will be graded by the instructors. Upon passing the test, you will receive a certificate.
 
 **UX:**
 
