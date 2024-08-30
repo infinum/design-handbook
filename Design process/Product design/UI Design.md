@@ -67,3 +67,27 @@ While approaching the end of the design phase, make sure you have:
 - [Fonts in the Wild](https://www.fontsinthewild.com/free)
 - [Typographica](https://typographica.org)
 - [Typewolf](https://www.typewolf.com/)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) or [Font Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
+
+
+### Color palettes
+
+- [pigment.shapefactory.co](https://pigment.shapefactory.co/)
+- [vanschneider.com/colors](https://vanschneider.com/colors)
+- [artsexperiments.withgoogle.com/artpalette](https://artsexperiments.withgoogle.com/artpalette/)
+
+
+### Brand logos
+
+- [Simple Icons](https://simpleicons.org/)
+- [World vector logo](https://worldvectorlogo.com/)
+
+
+### Icons
+
+- [The Noun Project](http://thenounproject.com/)
+- [Feather Icons](https://feathericons.com/)
+- [TablerIcons](https://tablericons.com/)
+- [Ikonate](https://ikonate.com/)
+- [Google Material Icons](https://www.google.com/design/icons/) (official source)
+- [Material Design Icons](https://materialdesignicons.com/) (unofficial additional icons)
