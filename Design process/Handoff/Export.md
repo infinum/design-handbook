@@ -25,3 +25,16 @@ If you create a [promo video, follow these guidelines](https://help.apple.com/ap
 The [requirements for Play Store](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en) are a bit simpler, especially for **static images**.
 
 As for the **video**, you can add a promotional YouTube video within your gallery.
+
+### Mockup templates
+
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
+- [Devices from Design at Meta](https://design.facebook.com/toolsandresources/devices/)
+- [Diverse device hands from Design at Meta](https://design.facebook.com/toolsandresources/diverse-device-hands/)
+
+
+## Favicon generator for websites
+
+- [Favicon Real Favicon Generator](https://realfavicongenerator.net/)
+
+
