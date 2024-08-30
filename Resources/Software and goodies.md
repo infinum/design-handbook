@@ -2,15 +2,12 @@
 
 - [Figma Help Center](https://help.figma.com/hc/en-us)
 - [Figma best practices](https://www.figma.com/best-practices/)
-- [Principle Documentation](https://principleformac.com/tutorial.html)
 
 ### Chrome plugins
 
-- [Pocket](https://getpocket.com/)
+- [Pocket](https://getpocket.com/) or [Matter](https://hq.getmatter.com/web-extension) - collect and organize to-read list
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
-- [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 - [Font Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
-- [Window Resize](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/related?hl=en)
 
 ### Color palettes
 
@@ -54,16 +51,9 @@
 
 - [3D for Designers](https://www.3dfordesigners.com/)
 
-### Audio
-
-- [UI Sounds](https://files.design/sounds?utm_source=gsio&utm_medium=refferal&utm_campaign=blackfriday&utm_content=banner)
-
 ### Games
 
 - [What kind of designer](https://www.whatkindofdesigner.com/)
 - [Color - A color matching game](https://color.method.ac/)
 - [Shape type - a letter shaping game](https://shape.method.ac/)
 - [Art Sqool](https://artsqool.cool/)
-
-### Other
-- [waifu2x](http://waifu2x.udp.jp/) - Image upscaling
