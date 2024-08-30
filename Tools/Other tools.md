@@ -7,12 +7,11 @@
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
 
-### Animation
+### Motion design
 - [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html) + [Lottie](https://airbnb.design/lottie/) 
 
 ### Prototyping
 - [Figma](https://www.figma.com/) 
-
 
 ### Compression
 - [ImageOptim](https://imageoptim.com/) - supports both lossless and lossy compression, lossy being a great choice for large photos
