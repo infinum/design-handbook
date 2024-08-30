@@ -8,7 +8,7 @@
 - [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
 
 ### Motion design
-- [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html) + [Lottie](https://airbnb.design/lottie/) 
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) + [Lottie](https://airbnb.design/lottie/) 
 
 ### Prototyping
 - [Figma](https://www.figma.com/) 
