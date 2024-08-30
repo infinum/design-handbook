@@ -4,9 +4,9 @@ Follow the naming convention below:
 
 | **Platform**        | **Web**             | **iOS**                     | **Android**               |
 | ------------------- | ------------------- | --------------------------- | ------------------------  |
-| Icon                | ic-name.ext         | icon-name.ext               | ic_name.ext               |
-| Background          | bg-name.ext         | background-name.ext         | bg_name.ext               |
-| Image               | img-name.ext        | image-name.ext              | img_name.ext              |
+| Icon                | ic-name             | icon-name                   | ic_name                   |
+| Background          | bg-name             | background-name             | bg_name                   |
+| Image               | img-name            | image-name                  | img_name                  |
 
 
 ## Promotional graphic assets for App Store and Play Store
