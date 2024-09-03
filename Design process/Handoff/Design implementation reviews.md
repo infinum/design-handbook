@@ -74,8 +74,6 @@ Scheduling live or remote reviews can be a hassle at times. Asynchronous design 
 
 A standard method for asynchronous reviews is for designers to compare implementation screenshots with the original designs in Figma. Here are a couple of general tips that will help you on your way:
 
-
-
 * Before starting the review, specify what build you were using. You want to ensure you have the latest build installed on your testing device, as you don’t want to test bugs and issues that have already been fixed. 
 * Make sure to take screenshots while going through flows. Alternatively, you can screen-record everything and then screenshot specific frames. 
 * If you’re doing a design implementation review for mobile, compare the implementation on iOS and Android.
@@ -92,6 +90,7 @@ When we review, we find it best to categorize issues and fixes into three groups
 
 Document all the necessary changes with as much detail and clarity as possible so developers can understand precisely what needs to be improved. Your design review documentation can include notes next to the screenshots you have taken and more detailed information in the appropriate place.
 
+![](/img/design-implementation-review.jpg)
 
 After annotating the implementation and design screens, you must align with the developers and testers about task handling, development fixing, and further testing. 
 
