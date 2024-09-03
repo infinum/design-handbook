@@ -99,7 +99,7 @@ When you designate a task for the development team after a review, make sure to 
 
 ## Checking implementation during testing phases
 
-As our software testers test flows and functionalities, they either screen record everything or take screenshots and attach them while creating tasks for the development team. Whenever they address issues in those tasks, they look at the provided screenshots or videos and try to catch any UI issues that also need fixing.
+As our software testers test flows and functionalities, they either screen record everything or take screenshots and attach them while creating tasks for the development team. Whenever they address issues in those tasks, take a look at the provided screenshots or videos and try to catch any UI issues that also need fixing.
 
 “Mini design reviews” can be a great addition to your usual review practice, but they cannot replace the benefits and impact of a comprehensive review.
 
