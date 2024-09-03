@@ -10,8 +10,8 @@ Design implementation reviews, or design reviews, keep everyone (designers, deve
 
 > **The golden rule is: review early and often.** Identifying potential bugs and UI issues early in the process reduces the chance of major problems going unnoticed until later in development. 
 
-Making changes early in development is much more cost-effective than altering a product later in its lifecycle. Additionally, reviews and feedback at any stage of digital product development are crucial for the product's success. \
- \
+Making changes early in development is much more cost-effective than altering a product later in its lifecycle. Additionally, reviews and feedback at any stage of digital product development are crucial for the product's success.
+
 There is no one-size-fits-all approach to design reviews, so you should customize them to fit your project's specific needs.
 
 
@@ -70,7 +70,7 @@ Scheduling live or remote reviews can be a hassle at times. Asynchronous design 
 
 
 
-## Way of Working for Asynchronous Design Reviews
+### Way of Working for Asynchronous Design Reviews
 
 A standard method for asynchronous reviews is for designers to compare implementation screenshots with the original designs in Figma. Here are a couple of general tips that will help you on your way:
 
@@ -86,9 +86,9 @@ When we review, we find it best to categorize issues and fixes into three groups
 
 
 
-* **“Must fix”** issues typically relate to critical UX or UI issues likely to disrupt the user experience.
-* **“Should fix”** issues usually relate to UI issues caused by a slight deviation from the original design during implementation.
-* **“Nice to haves”** relate to improvements or fixes that are not critical or essential but can enhance the quality, usability, or performance of the whole product.
+* 🔴 **“Must fix”** issues typically relate to critical UX or UI issues likely to disrupt the user experience.
+* 🟠 **“Should fix”** issues usually relate to UI issues caused by a slight deviation from the original design during implementation.
+* 🟢 **“Nice to haves”** relate to improvements or fixes that are not critical or essential but can enhance the quality, usability, or performance of the whole product.
 
 Document all the necessary changes with as much detail and clarity as possible so developers can understand precisely what needs to be improved. Your design review documentation can include notes next to the screenshots you have taken and more detailed information in the appropriate place.
 
