@@ -70,7 +70,7 @@ Scheduling live or remote reviews can be a hassle at times. Asynchronous design 
 
 
 
-### Way of Working for Asynchronous Design Reviews
+### Way of Working for asynchronous design reviews
 
 A standard method for asynchronous reviews is for designers to compare implementation screenshots with the original designs in Figma. Here are a couple of general tips that will help you on your way:
 
