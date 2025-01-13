@@ -1,4 +1,4 @@
-## [Nielsen Norman Group]([https://www.nngroup.com/1-hour-talks/](https://www.nngroup.com/courses/)): Training & UX Certification
+## [Nielsen Norman Group](https://www.nngroup.com/courses/): Training & UX Certification
 
 Nielsen Norman Group (NN/g) offers a respected UX Certification program through its UX Conferences, which are available both in person and online.
 
