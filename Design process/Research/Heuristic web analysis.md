@@ -20,7 +20,7 @@ You can do the heuristic analysis in any phase of the lifecycle of the website.
 ### How
 **Part 1 — preparation (4-8h/person)**
 
-**Go through the personas to prepare for the heuristic analysis, as you will use them as the basis for the walkthrough.** Personas will help you predict users' reactions to the interface correctly, and reduce the risk of faulty presumptions. It will be extremely hard to answer some questions without them. If you want to read more, there’s a [whole chapter about personas in the handbook](https://infinum.com/handbook/product_strategy/strategy/stage-2-research/persona).
+**Go through the personas to prepare for the heuristic analysis, as you will use them as the basis for the walkthrough.** Personas will help you predict users' reactions to the interface correctly, and reduce the risk of faulty presumptions. It will be extremely hard to answer some questions without them. If you want to read more, there’s a [whole chapter about personas in the handbook](https://infinum.com/handbook/design/design-process/research/persona).
 
 Once you know everything about people visiting the website, jump into organizing the heuristic analysis workshop. Schedule about two hours to do the workshop, invite all the stakeholders that will be doing the analysis, and tell them to take the CXL heuristic analysis online course  (if they haven’t already). 
 
