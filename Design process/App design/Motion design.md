@@ -194,7 +194,7 @@ If you press “Settings”, you’ll see multiple export modes. Check the “St
 
 Although some After Effects features are not yet supported, this library is growing, allowing for the export of more complex shapes, masks, trim paths, solids, and alpha matte effects.
 
-The community is continuously growing – check out more [great examples already created by the Lottie community](https://lottiefiles.com/account/dashboard).
+The community is continuously growing – check out more [great examples already created by the Lottie community](https://lottiefiles.com/community).
 
 Check the list of [supported features](https://github.com/airbnb/lottie/blob/master/supported-features.md).
 
