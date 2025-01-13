@@ -6,7 +6,6 @@ Use [Pocket](https://getpocket.com/) or [Matter](https://hq.getmatter.com/web-ex
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Material Design](https://material.io/)
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
-- [Pattern Index](http://www.patternindex.org/)
 - [Design Systems Repo](https://designsystemsrepo.com/)
 - [DesignBetter Books](https://www.designbetter.co/books)
 - [Shopify Design System](https://polaris.shopify.com/)
@@ -75,7 +74,6 @@ Use [Pocket](https://getpocket.com/) or [Matter](https://hq.getmatter.com/web-ex
 - [UI Patterns](http://ui-patterns.com/)
 - [UI Sources](https://www.uisources.com/)
 - [Little Big Details](http://littlebigdetails.com/)
-- [UI Garage](http://uigarage.net/)
 - [PatternCollect](https://patterncollect.com/) - A curated gallery of patterns by awesome designers & illustrators
 - [Page Flows](https://pageflows.com/) - Web and mobile
 - [Collect UI](https://collectui.com/) - Web and mobile
