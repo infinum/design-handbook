@@ -72,7 +72,7 @@ Here you can find:
 ## D
 
 - **Decision maker** - a person, usually from the client team, responsible for making key decisions that move the project forward. *#projects #role*
-- **Dialog** - [Dialogs](https://material.io/develop/web/components/dialogs) inform users about a task and can contain critical information, require decisions, or involve multiple tasks. There are four types of dialogs: Alert, Simple, Confirmation, Full-screen. The alert style is the only style supported on iOS. *#design #dev #android* 
+- **Dialog** - [Dialogs](https://m3.material.io/components/dialogs/overview) inform users about a task and can contain critical information, require decisions, or involve multiple tasks. There are four types of dialogs: Alert, Simple, Confirmation, Full-screen. The alert style is the only style supported on iOS. *#design #dev #android* 
 
 ## E
 
