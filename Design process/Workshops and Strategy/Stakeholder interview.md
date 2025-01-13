@@ -1,6 +1,6 @@
 **A qualitative method and a generative method.**
 
-Stakeholder interviews are **structured and moderated conversations with key individuals** who have a vested interest or influence in the user experience of a product or service. Occasionally, you might use it as an evaluative method, but in these cases, this will be more similar to [usability testing](https://infinum.com/handbook/product_strategy/user-research/qualitative/moderated-usability-testing) than a stakeholder interview.
+Stakeholder interviews are **structured and moderated conversations with key individuals** who have a vested interest or influence in the user experience of a product or service. Occasionally, you might use it as an evaluative method, but in these cases, this will be more similar to [usability testing](https://infinum.com/handbook/design/design-process/research/moderated-usability-testing) than a stakeholder interview.
 
 These stakeholders typically include: 
 
