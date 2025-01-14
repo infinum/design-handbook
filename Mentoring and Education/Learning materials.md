@@ -95,7 +95,6 @@ Use [Pocket](https://getpocket.com/) or [Matter](https://hq.getmatter.com/web-ex
 - [Awwwards](https://www.awwwards.com/blog/)
 - [CollectUI](http://collectui.com/)
 - [Dribbble](https://dribbble.com/)
-- [Ueno](https://ueno.design/)
 - [Case Study Club](https://www.casestudy.club/)
 - [siteInspire](https://www.siteinspire.com/)
 - [Under Consideration: Brand New](https://www.underconsideration.com/brandnew/)
