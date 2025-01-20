@@ -35,7 +35,7 @@ App icons are a crucial part of a product’s visual identity and are often incl
 - [Figma template for Android app icons](https://www.figma.com/community/file/1131374111452281708)
 - [Figma template for iOS app icons](https://www.figma.com/community/file/1387687009990313744)
 
-However, when developing apps, we (especially developers and QA) work with different environments like production, staging, development, testing, and mock to manage various stages of the process. To avoid confusion and make it easy to tell them apart, when needed, we have to create app icons with ribbons that show which environment they belong to. These icons help the team quickly identify the right version of the app and prevent mix-ups. Here is [our Figma template](https://www.figma.com/design/YJ8DCUje499dxvNNNvCehT/App-icon-ribbons-template?m=auto&t=Dr23tS6GAaFDygRH-6) which you can use to quickly add environment ribbons to your app icons.
+However, when developing apps, we (especially developers and QA) work with different environments like production, staging and development to manage various stages of the process. To avoid confusion and make it easy to tell them apart, when needed, we have to create app icons with ribbons that show which environment they belong to. These icons help the team quickly identify the right version of the app and prevent mix-ups. Here is [our Figma template](https://www.figma.com/design/YJ8DCUje499dxvNNNvCehT/App-icon-ribbons-template?m=auto&t=Dr23tS6GAaFDygRH-6) which you can use to quickly add environment ribbons to your app icons.
 
 <h2>When to document?</h3>
 
