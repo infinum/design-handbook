@@ -1,21 +1,8 @@
-You have proven that target users want this solution and that there is business value for clients. Now, we’re narrowing down our focus. What would this solution look like as a digital product? 
-
-This is the stage of the process we’re doing very often for our clients. It’s **a mix of Discovery and Design Sprint**, as laid out by Google. We’re not going into the details of developing and designing the product, but we want to test out its core value prop with the target users.
-
-As with the previous two stages, there are multiple questions you need to find the answers to, and, once again, there are desired answers to these questions. Getting such answers would mean we’re ready for the last stage – planning the product development and launch.
+Once you agree the idea is viable, there are multiple questions you need to find the answers to, and, once again, there are desired answers to these questions. Getting such answers would mean we’re ready for the last stage – planning the product development and launch.
 
 - **What would this solution look like when turned into a digital product?** → We need to be able to prototype such a product rapidly and create a facade of the product that looks convincing to stakeholders.
 - **How appealing is such a digital product? Does it resonate with our target customers?** → When interacting with the prototype, the target audience should report that the product is intuitive and that it addresses some pain points they had recently.
 - **What are operational and tech limitations we need to take into account?** → We need to be able to identify limitations and have a clear plan of overcoming or mitigating them. Otherwise, the product isn’t feasible.
-
-# Envisioned user journey
-We already covered the as-is user journey in [one of the previous chapters](https://infinum.com/handbook/product_strategy/strategy/stage-2-research/user-journey). This version of the user journey maps not the current state of affairs, but the envisioned one. We won’t repeat the process, but just outline differences.
-
-There’s **more ideation** in the envisioned user journey than in the as-is user journey. This means you can let your strategic imagination run more freely. Yes, you need to ground the user journey in the research, but you should be able to ideate potential solutions and opportunities you could capture through a digital product.
-
-Envisioned user journeys will probably have **more steps than an as-is one**. It’s okay if you’re simplifying things for users, but chances are that your new product will need to embed itself in the current way of doing things for target users.
-
-Envisioned used journey is the foundation for flowcharts, and idea sketching. It provides a **high-level view of the value** you’ll be providing to users. Make sure it’s aligned with the persona and always clearly mark things you ideated, i.e., things you didn’t find in the research, but are just a seed of an idea.
 
 # Ask the experts
 You might cover expert insights before the workshop with the client. Still, there’s a huge value in **letting client workshop participants ask questions to an expert** in the domain and creating a joint set of insights.
