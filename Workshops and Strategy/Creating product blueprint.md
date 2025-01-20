@@ -1,6 +1,4 @@
-Just a reminder, the last stage of the innovation process is being able to confidently say, “Such a product can be designed and developed.”
-
-How do we get there? This stage requires pulling different experts from Infinum. We’re talking POs, solution architects, designers, and analytics experts – all of them are needed to create a feasible plan for bringing this product to market.
+Wrapping up the product discovery phase requires pulling different experts from Infinum. We’re talking POs, solution architects, designers, and analytics experts – all of them are needed to create a feasible plan for bringing this product to market.
 
 There are a few key questions we need answered to be able to move into the delivery phase of the project. We’re now in the hard planning mode making both strategic and tactical decisions about the product.
 
