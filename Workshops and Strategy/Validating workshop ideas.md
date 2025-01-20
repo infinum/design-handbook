@@ -88,7 +88,7 @@ Prototyping is the next step. **Align with the Designer** on the user tasks the 
 # Concept test
 Recruit five people that match your target persona. You want actionable feedback to your idea to people who are potential users. Don’t settle for stakeholder or internal feedback. This is the key moment of this stage – real users need to see and use your product so that you can **validate the demand for such a product**.
 
-The user testing interviews are somewhat focused on usability (check: [moderated usability testing chapter](https://infinum.com/handbook/product_strategy/user-research/qualitative/moderated-usability-testing)). Still, your main focus is to test the concept – i.e., **does it resonate with the target users?** 
+The user testing interviews are somewhat focused on usability (check: [moderated usability testing chapter](https://infinum.com/handbook/design/research/evaluative-research/moderated-usability-testing)). Still, your main focus is to test the concept – i.e., **does it resonate with the target users?** 
 
 Your user testing session should have the following three segments:
 
