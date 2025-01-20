@@ -1,8 +1,5 @@
-Remember the first gate we want to pass with this new product idea: **Idea is business viable**. All the activities in this stage focus on testing the idea's business viability.
-
-In this stage, we’re mixing product and business frameworks to ensure the product’s business foundations are sound.
-
-We’re in the **hard learning and exploring mode**. We’re testing the waters and trying to define the business case for the idea.
+# Innovation framework
+Digital products are similar to caterpillars, they need to eat a lot (of mental energy) to be **transformed into something else**. While caterpillars go from yucky to beautiful, digital products go from “just an idea” to “launched on production”. Same difference, if you ask us.
 
 This is the list of key learnings we need to obtain and answers to these questions that would signal the idea is business viable.
 
@@ -11,9 +8,6 @@ This is the list of key learnings we need to obtain and answers to these questio
 - **Why do potential customers want this?** → It should be aligned with our hypothesis, and it should be a considerable pain point.
 - **Is someone else doing the same or a similar thing?** → The good answer here is “no”. We want to be working in a market of one.
 - **How do we monetize the product?** → A clear plan needs to be devised.
-
-# Innovation framework
-Digital products are similar to caterpillars, they need to eat a lot (of mental energy) to be **transformed into something else**. While caterpillars go from yucky to beautiful, digital products go from “just an idea” to “launched on production”. Same difference, if you ask us.
 
 The innovation framework is our way of **visualizing that process**. It’s more of a communication vehicle than something set in stone. It does ensure you get optimal results, but you’re free to tailor the approach to a specific client. As long as you're able to confirm a product passes innovation framework gates, you’re all good.
 
