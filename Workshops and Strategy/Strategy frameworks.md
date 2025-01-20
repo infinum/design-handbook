@@ -49,7 +49,6 @@ You passed all three previous gates: the product makes sense business-wise, ther
 We must create an activities roadmap that’s feasible tech- and operations-wise. Tech needs to be able to support such a value proposition, and both clients and our teams need to be able to **execute that product vision**.
 
 # Lean canvas
-This is the key activity in this stage. Once you’re able to fill all the areas of the canvas, you should be able to pass the stage one gate and move to the research stage. 
 
 “Lean” comes from the concept of a lean startup – meaning you’re doing just enough to be able to market and sell the product. No bells and whistles, only the absolute core of your product’s offering. Lean canvas is here to document your assumptions and iterate through them if needed.
 
