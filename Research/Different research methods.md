@@ -10,4 +10,4 @@ Methods can be split among the **quant-qual axis** as well.
 
 **Qualitative research methods** require less participants and go into more depth. You’ll learn more about the why’s of people's behavior. But generalizing your findings is a tricky thing. Your sample will be 5-10 people, so you need to tread lightly when using those insights.
 
-For the purposes of this Handbook, we’ll stick with the qual-quant split. To add some confusion to the mix, in most of the cases — the split is not clear. For example, you can add a qualitative question to find out why participants provided some of the quantitative answers. 
+For the purposes of this Handbook, we’ll stick with the generative-evaluative split. To add some confusion to the mix, in most of the cases — the split is not clear. For example, you can use survey both to generate more information and to test your hypothesis. 
