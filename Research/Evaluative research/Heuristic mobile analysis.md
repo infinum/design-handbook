@@ -11,7 +11,7 @@ You will need at least **3-5 experts** to do the 360º Expert App Audit. It does
 
 To prepare for the analysis, we suggest you get acquainted with [10 Usability Heuristics for User Interface Design by Jackob Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
-360º Expert App Audit and [Website heuristic analysis](https://infinum.com/handbook/design/design-process/research/heuristic-web-analysis) are the only two user research methods we conduct — without users. This is because they rely on frameworks that consider well-tested and proven usability principles (heuristics). So the focus is still on the user's reality.
+360º Expert App Audit and [Website heuristic analysis](https://infinum.com/handbook/design/research/evaluative-research/heuristic-web-analysis) are the only two user research methods we conduct — without users. This is because they rely on frameworks that consider well-tested and proven usability principles (heuristics). So the focus is still on the user's reality.
 
 
 ### When
