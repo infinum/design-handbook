@@ -1,5 +1,5 @@
 ### Define the target population
-The first step in recruiting participants is to define the target population. You can use [persona](https://infinum.com/handbook/design/design-process/research/persona) documents or google analytics reports to identify the specific characteristics of the users you want to recruit. For example, you can set age, gender, occupation, or location as screener criteria. Add psychographics into the mixture too. Think in terms of behaviors, lifestyles, experience with a specific technology and other factors that might influence people’s attitudes toward your research subject.
+The first step in recruiting participants is to define the target population. You can use [persona](https://infinum.com/handbook/design/research/generative-research/persona) documents or google analytics reports to identify the specific characteristics of the users you want to recruit. For example, you can set age, gender, occupation, or location as screener criteria. Add psychographics into the mixture too. Think in terms of behaviors, lifestyles, experience with a specific technology and other factors that might influence people’s attitudes toward your research subject.
 
 Also, It is important to have a diverse group of participants to ensure that the data collected is representative of the overall population.
 
