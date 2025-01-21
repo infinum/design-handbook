@@ -1,4 +1,4 @@
-Prototypes serve as a demo of connected screens so that the team, stakeholders or users (during [usability testing](https://infinum.com/handbook/design/design-process/research/moderated-usability-testing)) have a **clear understanding of the flows**, since flows are [hard to explain in words](https://twitter.com/kvyn_/status/1254789229181169665?s=21).
+Prototypes serve as a demo of connected screens so that the team, stakeholders or users (during [usability testing](https://infinum.com/handbook/design/research/evaluative-research/moderated-usability-testing)) have a **clear understanding of the flows**, since flows are [hard to explain in words](https://twitter.com/kvyn_/status/1254789229181169665?s=21).
 
 If you're designing in **Figma**, it's best to keep the prototype there. We won't get too technical as tools often change, so check out these resources:
 
