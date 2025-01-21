@@ -12,13 +12,13 @@ How to recognize a good UX copy? It’s:
 
 ## Getting there
 
-Knowing both users, product, and the client doesn’t happen overnight. In most cases, it starts during the [Discovery workshop](https://infinum.com/handbook/books/design/design-process/discovery/discovery-workshop). This is where we get to know the client, discuss their overall communication and set the product’s tone and voice (we’ll get to Tone and voice, don’t worry).
+Knowing both users, product, and the client doesn’t happen overnight. In most cases, it starts during the [discovery workshop](https://infinum.com/handbook/design/workshops-and-strategy/workshops). This is where we get to know the client, discuss their overall communication and set the product’s tone and voice (we’ll get to Tone and voice, don’t worry).
 
-Usually, the next step is [creating black and white wireframes](https://infinum.com/handbook/books/design/design-process/definition/wireframes). UX writer creates copy for these screens, and this is the first road-test of tone and voice. Writing the copy this early in design aligns both design and client’s team around the final product’s look and feel. 
+Usually, the next step is [creating black and white wireframes](https://infinum.com/handbook/design/design-process/product-design/wireframes). UX writer creates copy for these screens, and this is the first road-test of tone and voice. Writing the copy this early in design aligns both design and client’s team around the final product’s look and feel. 
 
 ![](/img/designprocess-uxwriting-1.jpg)
 
-We use wireframes for [usability testing](https://infinum.com/handbook/books/design/design-process/discovery/usability-testing). That's how we get authentic feedback to copy from real-life users and catch any problem early on, saving our clients time and money. Using this feedback, we make final tweaks and [finish the whole UI](https://infinum.com/handbook/books/design/design-process/definition/ui-design).
+We use wireframes for [usability testing](https://infinum.com/handbook/design/research/evaluative-research/moderated-usability-testing). That's how we get authentic feedback to copy from real-life users and catch any problem early on, saving our clients time and money. Using this feedback, we make final tweaks and [finish the whole UI](https://infinum.com/handbook/design/design-process/product-design/ui-design).
 
 An example of user feedback to our copy. We aimed for a slightly enthusiastic and neutral on funny - serious dimension. It seems we got it right.
 
