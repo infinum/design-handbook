@@ -28,6 +28,6 @@ Listed below are the most common types of testing environments and the ones you 
 
 When checking implementation, we use mobile devices from our Test Lab. Each office has its own Test lab, usually consisting of a shelf with test devices. For instance, in the Zagreb office, all test devices can be found on the 7th floor next to the QA team.
 
-Device claiming is described in detail in our **[General Handbook](https://infinum.com/handbook/general/doing-your-work/test-devices)** and the **[QA Handbook](https://infinum.com/handbook/qa/onboarding/test-devices-and-accounts).**
+Device claiming is described in detail in our **[General Handbook](https://infinum.com/handbook/general/everyday-processes/equipment-handling/test-devices)** and the **[QA Handbook](https://infinum.com/handbook/qa/onboarding/test-devices-and-accounts).**
 
 We're working a lot more remotely, so you'll need to check implementation from time to time even if you don't have physical devices on hand. That's where **[BrowserStack](https://app-live.browserstack.com)** comes in - its an emulator of a lot of different platforms, desktop and mobile devices where you can load app files to test them out. The credentials are in 1Password.
