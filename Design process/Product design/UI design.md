@@ -17,15 +17,13 @@ Before you dig into the UI design of every screen, make as many versions as poss
 
 ## Testing the UI with users
 
-If you're working on a project highly influenced by user opinion, you can use the desirability testing method to ask the users which version of the UI design is better. Desirability testing helps us get objective feedback from users. We usually show them 2-3 versions of the UI and ask them to choose terms from the list of adjectives that describe the version best. The proposal which overlaps the most with the objectives we have set for UI design wins.
-
-Here you can find [more information about this method](https://drive.google.com/file/d/1JynfjFxsuIiz0MRIKXhiGYJ7Ii3fmfsw/view?usp=sharing). 
+If you're working on a project highly influenced by user opinion, you can use the [desirability testing](https://infinum.com/handbook/design/research/evaluative-research/desirability-testing) method to ask the users which version of the UI design is better. Desirability testing helps us get objective feedback from users. We usually show them 2-3 versions of the UI and ask them to choose terms from the list of adjectives that describe the version best. The proposal which overlaps the most with the objectives we have set for UI design wins.
 
 ## Finalizing the UI design
 
 While approaching the end of the design phase, make sure you have:
 
-- a [styleguide](https://infinum.com/handbook/books/design/design-process/definition/styleguide) with colors, typography, brand elements and components
+- a styleguide with colors, typography, brand elements and components
 - all the screens set in color and typography styles organized in components
 - [screens organized in flows separated into different pages](https://infinum.com/handbook/design/design-process/handoff/design-files-and-project-folders)
 - archive page or duplicated file with old iterations and unused versions
