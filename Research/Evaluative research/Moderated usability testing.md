@@ -39,6 +39,6 @@ Here are some tips and tricks to get you started:
 - When users finish the study in Useberry (they'll get "Thank you" screen), ask them follow-up questions.
 - Tell users how they'll get their reward, e.g., you'll send voucher code via email.
 
-A google drive folder with templates and examples of usability testing interview guides → [LINK](https://drive.google.com/drive/folders/1-U55rhcepV43AVmmWAAULXMa_tdT_8Ox?usp=sharing)
+A google drive folder with templates and examples of usability testing interview guides → [LINK (🔒Internal use)](https://drive.google.com/drive/folders/1-U55rhcepV43AVmmWAAULXMa_tdT_8Ox?usp=sharing)
 
-Template for prep email to send to your participants → [LINK](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing)
+Template for prep email to send to your participants → [LINK (🔒Internal use)](https://docs.google.com/document/d/1tJWRe_ynST6CYKGrWsqAEq9m1Hobp6sBsf1titqIo0I/edit?usp=sharing)
