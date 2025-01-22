@@ -1,6 +1,6 @@
 ## Latest builds
 
-Check out **[Tryout apps](https://tryoutapps.com/users/sign_in)** for the latest builds for both iOS and Android.
+Check out [Tryout apps (🔒 Internal use)](https://tryoutapps.com/users/sign_in) for the latest builds for both iOS and Android.
 
 ## Development and testing environments
 
