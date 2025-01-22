@@ -32,4 +32,4 @@ Check out our [Accessibility Guidelines](https://www.figma.com/community/file/11
 - [No User Left Behind (Infinum Talks)](https://www.youtube.com/watch?v=3_1Qmu0Muo0)
 - [Accessibility Guidelines Figma Community File](https://www.figma.com/community/file/1162686263875105735)
 - [Accessibility initiative introductory blog post](https://infinum.com/blog/digital-product-accessibility/)
-- [8 Best Practices for Designing Accessible Products](https://infinum.com/blog/digital-product-accessibility/)
+- [8 Best Practices for Designing Accessible Products](https://infinum.com/blog/best-practices-accessibility-design/)
