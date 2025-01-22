@@ -93,7 +93,7 @@ There are no restrictions on number of icons you can use per project. They are o
 They are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
 
 ### CSS Symbols
-[CSS Symbols](https://css.gg/icons) is an open-source library. 
+[CSS Symbols](https://css.gg/icons) is an open-source icon library. 
 
 Its icons are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
 
