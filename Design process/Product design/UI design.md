@@ -83,6 +83,9 @@ The icons available on [Gooogle Fonts](https://fonts.google.com/icons) are free 
 ### Tabler icons
 [Tabler icons](https://tabler.io/icons) are free to use in both personal and commercial projects. There are no restrictions on number of icons you can use per project. They are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your project**.
 
+### Feather icons
+[Feather icons](https://feathericons.com/) is a collection of open-source icons. They are free to use and there is no limit on the number of icons you can use per project.
+
 
 ## 📚 Recommended reading
 - [Handbook: Learning materials/UI Patterns + Inspiration](https://infinum.com/handbook/books/design/resources/learning-materials#inspiration)
