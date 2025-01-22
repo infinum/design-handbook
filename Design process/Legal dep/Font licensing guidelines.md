@@ -61,7 +61,7 @@ Communicate the final information regarding licenses in written form, ideally th
 
 ### **Font licenses quarterly check**
 
-Every quarter, the designer responsible for font licenses reviews the [Projects Overview table](https://docs.google.com/spreadsheets/d/1W064oqJqNAjk89YJkcKAbtvu6Av3MFsZs6JrjhvtKVM/edit?usp=sharing) for any new projects. If new projects are identified, they update the [Font licenses Google Sheet](https://docs.google.com/spreadsheets/d/10DmW4-2J23p9RNp_bon7uELPaX8_zu5J/edit?usp=sharing&ouid=104146078075868413007&rtpof=true&sd=true) with the relevant project information and create a new sub-task in [this Productive task](https://app.productive.io/1-infinum/tasks/3131271). 
+Every quarter, the designer responsible for font licenses reviews the [Projects Overview table (🔒Internal use)](https://docs.google.com/spreadsheets/d/1W064oqJqNAjk89YJkcKAbtvu6Av3MFsZs6JrjhvtKVM/edit?usp=sharing) for any new projects. If new projects are identified, they update the [Font licenses Google Sheet (🔒Internal use)](https://docs.google.com/spreadsheets/d/10DmW4-2J23p9RNp_bon7uELPaX8_zu5J/edit?usp=sharing&ouid=104146078075868413007&rtpof=true&sd=true) with the relevant project information and create a new sub-task in [this Productive task (🔒Internal use)](https://app.productive.io/1-infinum/tasks/3131271). 
 
 If Infinum is not handling the design work for a project, the PM is assigned to obtain the font and license information. Each person tasked with this needs to update the Font licenses table with all relevant details. Although this information typically remains unchanged from quarter to quarter, any rebranding or design changes affecting the fonts used must be documented.
 
