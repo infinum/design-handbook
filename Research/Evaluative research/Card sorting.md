@@ -57,7 +57,7 @@ In a tree test, participants are presented with a website's proposed navigation 
 
 Tree testing tasks should be written from a user perspective. Their goal should **match user needs and objectives** and be representative of the types of tasks that users would typically perform on the website.
 
-Tree testing can be part of the usability testing study. You can use **[Useberry](https://infinum.com/handbook/design/tools/useberry)** to conduct it.
+Tree testing can be part of the usability testing study. You can use [Useberry](https://infinum.com/handbook/design/tools/useberry) to conduct it.
 
 Useberry doesn’t tell participants if they found the correct part of the app. So after each task, ask them how sure they are that they found it and how easy it was to find it. 
 
