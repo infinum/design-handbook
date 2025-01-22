@@ -16,7 +16,7 @@ It is important to note that not all stakeholders are the ideal end-user. Howeve
 
 Stakeholder interviews provide an opportunity to gather unique insights, perspectives, and requirements from these individuals to inform the UX design process. These interviews help product and product strategists, researchers, and designers understand the business goals, key objectives and metrics, expectations, constraints, and priorities set by stakeholders. They also provide an **opportunity to align everyone's understanding** of the target audience, business objectives, and project scope.
 
-During the interviews, UX researchers or designers ask questions related to the stakeholders' roles, responsibilities, and their understanding of the user experience. Check out our [stakeholder interview questions database (🔒 Internal use)](https://docs.google.com/document/d/1CO12vqlp3KVrfhVhFOLyU7bbtTwzKIbVH3eshB47r-A/edit?usp=sharing)  when preparing the script. 
+During the interviews, UX researchers or designers ask questions related to the stakeholders' roles, responsibilities, and their understanding of the user experience. Check out our [stakeholder interview questions database (🔒Internal use)](https://docs.google.com/document/d/1CO12vqlp3KVrfhVhFOLyU7bbtTwzKIbVH3eshB47r-A/edit?usp=sharing)  when preparing the script. 
 
 Topics to explore:
 
