@@ -78,12 +78,9 @@ While approaching the end of the design phase, make sure you have:
 
 ## Icons
 
-- [The Noun Project](http://thenounproject.com/)
-- [Feather Icons](https://feathericons.com/)
-- [TablerIcons](https://tablericons.com/)
-- [Ikonate](https://ikonate.com/)
-- [Google Material Icons](https://www.google.com/design/icons/) (official source)
-- [Material Design Icons](https://materialdesignicons.com/) (unofficial additional icons)
+### Material Symbols & Icons - Google Fonts
+The icons available on Gooogle Fonts are free to use and are open-source. You can use them freely in your projects without worrying about licensing fees and restrictions. While attribution is appreciated, it is not required.
+
 
 ## 📚 Recommended reading
 - [Handbook: Learning materials/UI Patterns + Inspiration](https://infinum.com/handbook/books/design/resources/learning-materials#inspiration)
