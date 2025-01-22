@@ -4,7 +4,7 @@ Usability is the ability to **use a product with ease**. When we talk about usab
 
 From the design perspective, we want our users to have a product that is easy to use without much thought and any frustrations.
 
-This chapter goes into a lot of detail about user testing. To make it easier to implement best practices, we've created a [template project in Productive](https://app.productive.io/1-infinum/projects/303711/tasks?board=372098&filter=NDQwNTQw). In the Design Phase board, there's a task list called Validation. Ping your TL to give you access to it.
+This chapter goes into a lot of detail about user testing. To make it easier to implement best practices, we've created a [template project in Productive (🔒Internal use)](https://app.productive.io/1-infinum/projects/303711/tasks?board=372098&filter=NDQwNTQw). In the Design Phase board, there's a task list called Validation. Ping your TL to give you access to it.
 
 Usability testing is a direct way of seeing how users interact with our product.
 
@@ -50,6 +50,6 @@ Build your report around these:
 - General appeal of the app to participants
 - Improvement suggestions based either on participants' direct ideas or your analysis of all of the above.
 
-You can write your report as Pages/Word document or as a presentation document. You can find both templates [🔒 in this folder](https://drive.google.com/drive/folders/1GWjGGeO1wGoNCflg0vMxuHP4_6YdA2wU?usp=sharing). If you follow the structure of these templates, you won't miss any significant part of the report, such as describing participants.
+You can write your report as Pages/Word document or as a presentation document. You can find both templates [in this folder (🔒Internal use)](https://drive.google.com/drive/folders/1GWjGGeO1wGoNCflg0vMxuHP4_6YdA2wU?usp=sharing). If you follow the structure of these templates, you won't miss any significant part of the report, such as describing participants.
 
 You'll be sending this report to the client, so try to write it in a plain language with no UX/UI lingo and lay down what improvement ideas result from the testing. That's what clients care about - **how we'll use insights to make their product better**.
