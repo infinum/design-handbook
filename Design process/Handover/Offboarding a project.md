@@ -25,7 +25,7 @@ A list of things you need to do before another designer takes over your project
 - Organize fonts and brand assets into Materials folder (if not done before).
 - Pin important decisions and explanations on Slack channels.
 - Let the new designer know where to find what.
-- Make sure the designer goes through design coordination docs in the 🔒 [coordination table](https://docs.google.com/spreadsheets/d/1o6Ut_5wdcOqwIVX2PuRBkNZxLkgi5QnP8CkXxg3ORfg/edit#gid=0).
+- Make sure the designer goes through design coordination docs in the [coordination table (🔒Internal use)](https://docs.google.com/spreadsheets/d/1o6Ut_5wdcOqwIVX2PuRBkNZxLkgi5QnP8CkXxg3ORfg/edit#gid=0).
 
 
 ## Project tour
