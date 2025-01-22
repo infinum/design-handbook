@@ -77,9 +77,8 @@ While approaching the end of the design phase, make sure you have:
 
 
 ## Icons
-
 ### Material Symbols & Icons - Google Fonts
-The icons available on Gooogle Fonts are free to use and are open-source. You can use them freely in your projects without worrying about licensing fees and restrictions. While attribution is appreciated, it is not required.
+The icons available on [Gooogle Fonts](https://fonts.google.com/icons) are free to use and are open-source. You can use them freely in your projects without worrying about licensing fees and restrictions. While attribution is appreciated, it is not required.
 
 
 ## 📚 Recommended reading
