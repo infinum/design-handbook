@@ -80,6 +80,9 @@ While approaching the end of the design phase, make sure you have:
 ### Material Symbols & Icons - Google Fonts
 The icons available on [Gooogle Fonts](https://fonts.google.com/icons) are free to use and are open-source. You can use them freely in your projects without worrying about licensing fees and restrictions. While attribution is appreciated, it is not required.
 
+### Tabler icons
+[Tabler icons](https://tabler.io/icons) are free to use in both personal and commercial projects. There are no restrictions on number of icons you can use per project. They are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your project**.
+
 
 ## 📚 Recommended reading
 - [Handbook: Learning materials/UI Patterns + Inspiration](https://infinum.com/handbook/books/design/resources/learning-materials#inspiration)
