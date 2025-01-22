@@ -112,6 +112,11 @@ The icons are free to use. There are no restrictions on number of icons you can 
 
 The icons are free to use. There are no restrictions on number of icons you can use per project. They are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your projects**. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
 
+### Ikonate
+[Ikonate](https://ikonate.com/) is an open-source collection of fully customizable and accessible vector icons.
+
+Icons are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
+
 ### Streamline
 [Streamline](https://home.streamlinehq.com/) is a comprehensive design resource offering an extensive collection of free and paid icons. 
 
