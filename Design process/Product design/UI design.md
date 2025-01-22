@@ -33,11 +33,6 @@ While approaching the end of the design phase, make sure you have:
 
 ![](/img/designprocess-ui-stack.png)
 
-## 📚 Recommended reading
-- [Handbook: Learning materials/UI Patterns + Inspiration](https://infinum.com/handbook/books/design/resources/learning-materials#inspiration)
-- [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
-- [Visibility of System Status](https://www.nngroup.com/articles/visibility-system-status/)
-
 ## Type foundries
 
 ### Paid foundries
@@ -68,20 +63,20 @@ While approaching the end of the design phase, make sure you have:
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) or [Font Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 
 
-### Color palettes
+## Color palettes
 
 - [pigment.shapefactory.co](https://pigment.shapefactory.co/)
 - [vanschneider.com/colors](https://vanschneider.com/colors)
 - [artsexperiments.withgoogle.com/artpalette](https://artsexperiments.withgoogle.com/artpalette/)
 
 
-### Brand logos
+## Brand logos
 
 - [Simple Icons](https://simpleicons.org/)
 - [World vector logo](https://worldvectorlogo.com/)
 
 
-### Icons
+## Icons
 
 - [The Noun Project](http://thenounproject.com/)
 - [Feather Icons](https://feathericons.com/)
@@ -89,3 +84,8 @@ While approaching the end of the design phase, make sure you have:
 - [Ikonate](https://ikonate.com/)
 - [Google Material Icons](https://www.google.com/design/icons/) (official source)
 - [Material Design Icons](https://materialdesignicons.com/) (unofficial additional icons)
+
+## 📚 Recommended reading
+- [Handbook: Learning materials/UI Patterns + Inspiration](https://infinum.com/handbook/books/design/resources/learning-materials#inspiration)
+- [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
+- [Visibility of System Status](https://www.nngroup.com/articles/visibility-system-status/)
