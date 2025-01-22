@@ -78,13 +78,19 @@ While approaching the end of the design phase, make sure you have:
 
 ## Icons
 ### Material Symbols & Icons - Google Fonts
-The icons available on [Gooogle Fonts](https://fonts.google.com/icons) are free to use and are open-source. You can use them freely in your projects without worrying about licensing fees and restrictions. While attribution is appreciated, it is not required.
+The icons available on [Gooogle Fonts](https://fonts.google.com/icons) are free to use and are open-source. You can use them freely in your projects without worrying about licensing fees and restrictions. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders. While attribution is appreciated, it is not required.
 
 ### Tabler icons
-[Tabler icons](https://tabler.io/icons) are free to use in both personal and commercial projects. There are no restrictions on number of icons you can use per project. They are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your project**.
+[Tabler icons](https://tabler.io/icons) are free to use in both personal and commercial projects. There are no restrictions on number of icons you can use per project. They are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your project**. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
 
 ### Feather icons
-[Feather icons](https://feathericons.com/) is a collection of open-source icons. They are free to use and there is no limit on the number of icons you can use per project.
+[Feather icons](https://feathericons.com/) is a collection of open-source icons. They are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
+
+### CSS Symbols
+[CSS Symbols](https://css.gg/icons) is an open-source library. Its icons are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
+
+### Mono Icons
+[Mono Icons](https://icons.mono.company/) is an open-source icon set designed for use in various digital products. Its icons are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
 
 
 ## 📚 Recommended reading
