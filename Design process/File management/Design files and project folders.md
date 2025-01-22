@@ -30,7 +30,7 @@ After the second meeting, further reviews will be transferred to the design coor
 ### Ongoing projects
 
 - Design coordinators are responsible for ongoing projects they oversee.
-- If something is not ok, the design coordinator will open the tasks in the [Team: Design > File reviews](https://app.productive.io/1-infinum/projects/1888/tasks?board=108220&filter=MjQzOTky) board and, together with the designer, write down all the issues that need to be fixed.
+- If something is not ok, the design coordinator will open the tasks in the [Team: Design > File reviews (🔒Internal use)](https://app.productive.io/1-infinum/projects/1888/tasks?board=108220&filter=MjQzOTky) board and, together with the designer, write down all the issues that need to be fixed.
 - A designer should write an estimation of the task, ping the project PM, and ask for approval of those hours.
 - If the PM declines the requested hours, they must write down an explanation in the same task. (If the PM is not added to the project, ping a TL, and they will add him). When we get the explanation, the design coordinator should move the task to the "Not reviewed" column and add the "Inactive/PM approved" tag to it.
 - If the PM approves the request, the designer should put a deadline on the task and finish it by then.
