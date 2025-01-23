@@ -78,7 +78,7 @@ To be effective at creating your information architecture, be sure to follow the
 - Be sure to create intuitive navigation so Navigation: Creating intuitive pathways for users to move through information, enabling them to find what they need efficiently. This involves designing menus, links, and other navigation systems.
 - Content Strategy: Develop a plan for creating, managing, and organizing content to ensure it meets user needs and business goals.
 
-You can read more on the information architecture in the [Design Handbook](https://infinum.com/handbook/design/design-process/definition/information-architecture).
+[Here](https://infinum.com/handbook/design/design-process/product-design/information-architecture) you can read more on the information architecture.
 
 # GTM canvas
 A strong go-to-market strategy sets the stage to increase the potential to adopt your value proposition and convert a user or customer.
