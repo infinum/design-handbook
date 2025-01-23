@@ -4,7 +4,7 @@ This is why we use Typeform. It makes filing out surveys as easy as it could be 
 
 You’ll find credentials in the Design team’s 1Pass vault.
 
-Typeform has a great help page ([LINK](https://www.typeform.com/guide/)) with detailed instructions so that we won’t go into too much detail. 
+Typeform has a great [help page](https://www.typeform.com/guide/) with detailed instructions so we won’t go into too much detail. 
 
 Instead, we’ll cover some key things you need to know about using Typeform:
 
