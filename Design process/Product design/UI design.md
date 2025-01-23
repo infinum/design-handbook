@@ -77,52 +77,28 @@ While approaching the end of the design phase, make sure you have:
 
 
 ## Icons
-### Material Symbols & Icons - Google Fonts
-The icons available on [Gooogle Fonts](https://fonts.google.com/icons) are free to use and are open-source. 
+### Free icons (No attribution required)
+These icon sets are free to use and are open-source. You can use them freely in your projects without worrying about licensing fees and restrictions. There is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders. While attribution is appreciated, it is not required.
 
-You can use them freely in your projects without worrying about licensing fees and restrictions. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders. While attribution is appreciated, it is not required.
+- [Material Symbols & Icons - Gooogle Fonts](https://fonts.google.com/icons)
+- [Feather icons](https://feathericons.com/)
+- [CSS Symbols](https://css.gg/icons)
+- [Mono Icons](https://icons.mono.company/)
+- [Ikonate](https://ikonate.com/)
 
-### Tabler icons
-[Tabler icons](https://tabler.io/icons) are free to use in both personal and commercial projects.
+### Free icons (Attribution required)
+These icon sets are also free to use and are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your project**. There is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
 
-There are no restrictions on number of icons you can use per project. They are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your project**. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
+- [Tabler icons](https://tabler.io/icons)
+- [Phosphor Icons](https://phosphoricons.com/)
+- [Atlas Icons](https://atlasicons.vectopus.com/)
 
-### Feather icons
-[Feather icons](https://feathericons.com/) is a collection of open-source icons.
+### Freemium (Attribution required)
+These icon sets are available in both free and paid versions. In most cases, the free version requires attribution, so it's recommended to **include the original copyright and license notices in your project**, just in case.
 
-They are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
+- [Streamline](https://home.streamlinehq.com/)
 
-### CSS Symbols
-[CSS Symbols](https://css.gg/icons) is an open-source icon library. 
-
-Its icons are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
-
-### Mono Icons
-[Mono Icons](https://icons.mono.company/) is an open-source icon set designed for use in various digital products. 
-
-Its icons are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
-
-### Phosphor Icons
-[Phosphor Icons](https://phosphoricons.com/) is a flexible icon family designed for various applications. 
-
-The icons are free to use. There are no restrictions on number of icons you can use per project. They are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your projects**. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
-
-### Atlas Icons
-[Atlas Icons](https://atlasicons.vectopus.com/) is an open-source library offering a vast collection of free icons suitable for various design project. 
-
-The icons are free to use. There are no restrictions on number of icons you can use per project. They are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your projects**. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
-
-### Ikonate
-[Ikonate](https://ikonate.com/) is an open-source collection of fully customizable and accessible vector icons.
-
-Icons are free to use and there is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
-
-### Streamline
-[Streamline](https://home.streamlinehq.com/) is a comprehensive design resource offering an extensive collection of free and paid icons. 
-
-When it comes to their free icons, the licensing terms permit usage in unlimited projects, both personal and commercial, including mobile and web apps. However, free license prohibits using the icons as assets in applications like webpage builders or 'Canva-style' apps that allow users to integrate the icons into their designs. **That includes our WordPress projects as well**. 
-
-It is also important to notice that some free icon sets are open-source and some are not. Open-source sets permit you to share and adapt the icons for any purpose **provided that appropriate credit is given and a link to their website is included**.
+Streamline's licensing terms permit usage of free icons in unlimited projects, both personal and commercial, including mobile and web apps. However, free license prohibits using the icons as assets in applications like webpage builders or 'Canva-style' apps that allow users to integrate the icons into their designs. **That includes our WordPress projects as well**. It is also important to notice that some free icon sets are open-source and some are not. Open-source sets permit you to share and adapt the icons for any purpose **provided that appropriate credit is given and a link to their website is included**.
 
 
 ## 📚 Recommended reading
