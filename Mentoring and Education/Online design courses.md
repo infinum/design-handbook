@@ -48,6 +48,6 @@ Learn to work and lead with purpose
 
 Awwwards Academy offers specialized online courses in web design, UX/UI, and digital development, taught by industry experts. The courses include video lectures, practical assignments, and live Q&A sessions, culminating in certificates of completion that enhance professional credentials. 
 
-## 🛒 [Purchased courses](https://app.productive.io/1-infinum/pages/83124)
+## [Purchased courses (🔒Internal use)](https://app.productive.io/1-infinum/pages/83124)
 
 A list of courses our team mates went through and their ratings/recommendations.
