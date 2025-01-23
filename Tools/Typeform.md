@@ -4,9 +4,7 @@ This is why we use Typeform. It makes filing out surveys as easy as it could be 
 
 You’ll find credentials in the Design team’s 1Pass vault.
 
-Typeform has a great [help page](https://www.typeform.com/guide/) with detailed instructions so we won’t go into too much detail. 
-
-Instead, we’ll cover some key things you need to know about using Typeform:
+Typeform has a great [help page](https://www.typeform.com/guide/) with detailed instructions so we won’t go into too much detail. Instead, we’ll cover some key things you need to know about using Typeform:
 
 - Create your study within the **UX research folder** in Typeform
 - Usually, it’s best to start from scratch instead of reusing a previous survey
