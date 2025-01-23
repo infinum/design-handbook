@@ -122,24 +122,24 @@ Coordination should be a platform for promoting best practices and speeding up t
 
 ### Documenting coordination
 
-The [Coordination sheet](https://docs.google.com/spreadsheets/d/1o6Ut_5wdcOqwIVX2PuRBkNZxLkgi5QnP8CkXxg3ORfg/edit#gid=913655236) is the most important and primary source of truth for coordination.
+The [Coordination sheet (🔒Internal use)](https://docs.google.com/spreadsheets/d/1o6Ut_5wdcOqwIVX2PuRBkNZxLkgi5QnP8CkXxg3ORfg/edit#gid=913655236) is the most important and primary source of truth for coordination.
 
 The **coordination sheet** contains a project list with coordination-related info, such as
 
 - the project’s status
 - engagement per project
 - coordinator, PM, and designer names
-→ [Coordination sheet](https://docs.google.com/spreadsheets/d/1o6Ut_5wdcOqwIVX2PuRBkNZxLkgi5QnP8CkXxg3ORfg/edit#gid=913655236)
+→ [Coordination sheet (🔒Internal use)](https://docs.google.com/spreadsheets/d/1o6Ut_5wdcOqwIVX2PuRBkNZxLkgi5QnP8CkXxg3ORfg/edit#gid=913655236)
 
 Also, as non-mandatory documentation, we can have the project charter linked to the coordination sheet and coordination notes.
 
-A [project charter](https://app.productive.io/1-infinum/pages/120258) is a document that PMs plan to introduce on all projects and will be part of the project documentation in Productive. This is **not our responsibility**, but it’s good to be aware that this exists. This document contains relevant info about the project, such as:
+A [project charter (🔒Internal use)](https://app.productive.io/1-infinum/pages/120258) is a document that PMs plan to introduce on all projects and will be part of the project documentation in Productive. This is **not our responsibility**, but it’s good to be aware that this exists. This document contains relevant info about the project, such as:
 
 - general info (description, scope, deliverables, team, links)
 - milestones
 - financials (limited access)
 - risks, blockers, and dependencies
-→ [Project charter template example](https://app.productive.io/1-infinum/pages/120258)
+→ [Project charter template example (🔒Internal use)](https://app.productive.io/1-infinum/pages/120258)
 
 **Coordination notes** are not mandatory but can be added if the coordinator feels they are helpful.
 
