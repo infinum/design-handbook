@@ -39,4 +39,4 @@ Occasionally, you will work on a project where a design coordinator is assigned 
 
 A design coordinator is there to help you and make things normal if stuff gets complicated on the project. They are also there to help if you need a second opinion, critique eye, or pair of extra hands on your project.
 
-Check the 🔒 [Design coordination sheet](https://docs.google.com/spreadsheets/d/1o6Ut_5wdcOqwIVX2PuRBkNZxLkgi5QnP8CkXxg3ORfg/edit?ts=5db6b004#gid=0) to see the most recent updates and project states.
+Check the [Design coordination sheet (🔒Internal use](https://docs.google.com/spreadsheets/d/1o6Ut_5wdcOqwIVX2PuRBkNZxLkgi5QnP8CkXxg3ORfg/edit?ts=5db6b004#gid=0) to see the most recent updates and project states.
