@@ -13,7 +13,7 @@ A good as-is user journey should have:
 
 Service blueprint is an extension of user journey. It shows the **inner workings of the client's organization that enables these user journeys**. Similar to the association between a steering wheel and dashboard, and all engine parts under the hood. A service blueprint provides a detailed overview of the various components involved in delivering the service or app, including both front-stage and back-stage activities.
 
-Workshop template for running user journey exercise → [FigJam](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=853-3357&t=o1qAgHxlHfFIfHzp-4)
+Here you can find a [workshop template for running user journey exercise](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=853-3357&t=o1qAgHxlHfFIfHzp-4).
 
 ## Service blueprint
 
