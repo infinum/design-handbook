@@ -12,6 +12,6 @@ First, tap on the three dots in the top right corner. Then select “Get pre-fil
 
 ![Gettting a pre-filled link](/img/Sending_workshop_satisfaction_survey.png "Getting a pre-filled link in Google Forms")
 
-A new window that looks the same as the standard survey response will open, but the button at the bottom says “Get link” instead of “Submit.” **Add client name, project name, and type of workshop**. And then click “Get link.” Here’s an example of a mock pre-filled link → [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdoQYw_nHpTlY4uoKuN8Lp5p9zyDla0AovNTckl8qcf4rSaGg/viewform?usp=pp_url&entry.912435892=Infinum&entry.1649514705=Haggear&entry.1380800813=Validation).
+A new window that looks the same as the standard survey response will open, but the button at the bottom says “Get link” instead of “Submit.” **Add client name, project name, and type of workshop**. And then click “Get link.” Here’s an [example of a mock pre-filled link](https://docs.google.com/forms/d/e/1FAIpQLSdoQYw_nHpTlY4uoKuN8Lp5p9zyDla0AovNTckl8qcf4rSaGg/viewform?usp=pp_url&entry.912435892=Infinum&entry.1649514705=Haggear&entry.1380800813=Validation).
 
 Important note: share the **exact link that Forms created after you clicked “Get link.”** If you copy the link in your address bar, load it, and copy and send it to the client, the pre-filled data will be erased from the link. The link will load a standard survey without the pre-filled data. 
