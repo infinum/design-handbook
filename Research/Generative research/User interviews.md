@@ -19,7 +19,7 @@ The goal is to validate our hypothesis about user problems and the solution that
 
 **Validating the solution** consists of asking users to come up with ways of solving their problem. You’re hoping that their ideas fit your vision of the product. Additionally, you’ll explain your product and see if they think it seems like a good solution to their problem.
 
-There’s more nuance to this type of interview, and you can check all the sections of PMF interview in this template → [GSheet](https://docs.google.com/spreadsheets/d/1eE-wyX4Q0Zc48lBfezNpUttx5UrKSujjB6YODnSyicM/edit?usp=sharing)
+There’s more nuance to this type of interview, and you can check all the sections of PMF interview in [this template.](https://docs.google.com/spreadsheets/d/1eE-wyX4Q0Zc48lBfezNpUttx5UrKSujjB6YODnSyicM/edit?usp=sharing)
 
 These interviews are typically conducted early in the product development process, before a product has been fully developed, in order to validate a new product idea, understand the market for existing products, identify areas for improvement and new opportunities. 
 
@@ -32,7 +32,7 @@ We typically roll these out **during the discovery phase**, and for good reason.
 
 Interviews are a cornerstone of the discovery phase. But that doesn’t mean they’re not valuable at later stages. They can also help you refine the user experience, validate new features, or re-evaluate existing assumptions.
 
-**Use our tailored interview script ([LINK](https://docs.google.com/document/d/1iLdgmjjoEYMCnzG0tyPySDiJU40qvWO8W0nQr7SMDPs/edit?usp=sharing)) designed for potential users**. It's broken down into three sections: Introduction, follow-up questions, and the heart of it all, the interview questions. But remember, every research project has its own flavor. Toss in **questions specific to your domain** and feel free to prioritize. Given you’ve only got about an hour for each interview, it’s a game of “Pick Your Battles” when it comes to questions.
+**Use our [tailored interview script](https://docs.google.com/document/d/1iLdgmjjoEYMCnzG0tyPySDiJU40qvWO8W0nQr7SMDPs/edit?usp=sharing) designed for potential users**. It's broken down into three sections: Introduction, follow-up questions, and the heart of it all, the interview questions. But remember, every research project has its own flavor. Toss in **questions specific to your domain** and feel free to prioritize. Given you’ve only got about an hour for each interview, it’s a game of “Pick Your Battles” when it comes to questions.
 
 As you sift through the interview data, you'll start to see patterns that will help you sketch out who your users are and how they navigate their way around problems.
 
@@ -41,7 +41,7 @@ To wrap up the round of interviews, **revise or build the user persona and user 
 ### Interview execution — Interviews with existing users
 Think of interviews with existing users as a **pulse check for your product**. It's all about evaluating the current state of the relationship: Is the product still fulfilling the user's needs? Are there any friction points or room for improvement? The aim is to gain insights into how satisfied and loyal your users are.
 
-Once again, you can use our tailored interview script ([LINK](https://docs.google.com/document/d/1iLdgmjjoEYMCnzG0tyPySDiJU40qvWO8W0nQr7SMDPs/edit?usp=sharing)) designed for potential users. It's broken down into three sections: Introduction, follow-up questions, and the heart of it all, the interview questions. As always, every research project has its own flavor. Toss in questions specific to your domain and feel free to prioritize. Given you’ve only got about an hour for each interview, it’s a game of “Pick Your Battles” when it comes to questions.
+Once again, you can use our [tailored interview script](https://docs.google.com/document/d/1iLdgmjjoEYMCnzG0tyPySDiJU40qvWO8W0nQr7SMDPs/edit?usp=sharing) designed for potential users. It's broken down into three sections: Introduction, follow-up questions, and the heart of it all, the interview questions. As always, every research project has its own flavor. Toss in questions specific to your domain and feel free to prioritize. Given you’ve only got about an hour for each interview, it’s a game of “Pick Your Battles” when it comes to questions.
 
 For more structured feedback, **consider incorporating [desirability testing](https://infinum.com/handbook/design/research/evaluative-research/desirability-testing) or other [standardized UX questionnaires](https://infinum.com/handbook/design/research/generative-research/survey#quantifying-and-benchmarking-usability)** like SUS into your interview questions. These can offer quantifiable metrics to complement the qualitative data you gather, giving you a more holistic view of user satisfaction.
 
