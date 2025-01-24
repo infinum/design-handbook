@@ -72,7 +72,7 @@ The “put your idea to the paper” part of the process. These three linked exe
 
 When you’re committing to a direction, make sure that the Decision-maker is there and that they’re okay with that decision. When in doubt, **go for a riskier direction** – you want to test it out by prototyping.
 
-Our ultimate workshop template covers the goals and the flow of these workshop exercises. → [FigJam](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=0%3A1&t=FtxNP3kYONznWMSK-1)
+Our [ultimate workshop template](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=833%3A2128&t=FtxNP3kYONznWMSK-1) covers the goals and the flow of this workshop exercise.
 
 # Storyboard and prototype
 Once you have the winning idea and product direction, you need to create a testing scenario. You’ll do it by creating a storyboard.
