@@ -58,7 +58,7 @@ In reality, this means that this person might be able to dedicate a significant 
 
 **Power** tells you if that person has decision-making power over the budget and the product. If someone can cut off the funding, then they’re someone you need to manage carefully.
 
-Template for this exercise → [FigJam](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=833-2128&t=FtxNP3kYONznWMSK-4)
+[Here](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=833-2128&t=FtxNP3kYONznWMSK-4) you can find a template for this exercise.
 
 # Flowchart and information architecture
 This one is a very designer-heavy exercise. You're trying to understand the informational underpinning of the app.
@@ -103,7 +103,7 @@ GTM usually has two main parts: business landscape and go-to-market approach.
 - **Key messages**, or what do we want customers to remember about us
 - **Creative direction**, or what will the supporting visual or visuals, how do we make this product stand out visually on the market
 
-Template of GTM canvas → [FigJam](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=1930-5606&t=MufuH9ajSWqbcR3C-4)
+[Here](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=1930-5606&t=MufuH9ajSWqbcR3C-4) you can find a template of GTM canvas.
 
 # Tech limitations
 Understanding the limitations of the technology used in creating your product is a critical step in this process. Many people overestimate the capability of technology while simplifying the amount of sophistication and complexity it requires to create basic applications that run smoothly. 
