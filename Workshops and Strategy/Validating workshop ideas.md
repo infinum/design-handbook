@@ -50,7 +50,7 @@ Look for products from other domains that **solve a similar problem for users** 
 
 A lightning demo works by quickly covering the product, emphasizing the **core features and functionalit**y. It is best to start with a primary use case flow or two and walk others through it, describing each relevant feature along the way in brief detail. 
 
-Our ultimate workshop template covers the goals and the flow of this workshop exercise. → [FigJam](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=833%3A2128&t=FtxNP3kYONznWMSK-1)
+Our [ultimate workshop template](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=833%3A2128&t=FtxNP3kYONznWMSK-1) covers the goals and the flow of this workshop exercise.
 
 # Evil and crazy 8s
 **The standard Design sprint exercises aimed at ideation**. Don’t skip those – you’ll end up with a more diverse pool of ideas, and participants will be more engaged.
@@ -65,7 +65,7 @@ Evil and Crazy 8s quick overview:
 - Each new frame can either be a completely new idea, or an expansion of a previous idea
 - **Once eight minutes are up, the exercise is done**
 
-Our ultimate workshop template covers the goals and the flow of this workshop exercise. → [FigJam]([url](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=0%3A1&t=FtxNP3kYONznWMSK-1)https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=0%3A1&t=FtxNP3kYONznWMSK-1)
+Our [ultimate workshop template](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=833%3A2128&t=FtxNP3kYONznWMSK-1) covers the goals and the flow of this workshop exercise.
 
 # Sketch, vote, decide
 The “put your idea to the paper” part of the process. These three linked exercises will help participants turn their ideas into actual sketches and allow you to set a course for the product prototype.
@@ -88,7 +88,7 @@ Prototyping is the next step. **Align with the Designer** on the user tasks the 
 # Concept test
 Recruit five people that match your target persona. You want actionable feedback to your idea to people who are potential users. Don’t settle for stakeholder or internal feedback. This is the key moment of this stage – real users need to see and use your product so that you can **validate the demand for such a product**.
 
-The user testing interviews are somewhat focused on usability (check: [moderated usability testing chapter](https://infinum.com/handbook/design/research/evaluative-research/moderated-usability-testing)). Still, your main focus is to test the concept – i.e., **does it resonate with the target users?** 
+The user testing interviews are somewhat focused on usability (check [Moderated usability testing chapter](https://infinum.com/handbook/design/research/evaluative-research/moderated-usability-testing)). Still, your main focus is to test the concept – i.e., **does it resonate with the target users?** 
 
 Your user testing session should have the following three segments:
 
