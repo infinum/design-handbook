@@ -7,7 +7,7 @@ Sounds good, but how do you build one? You work your way backward – this shoul
 - Define exercises whose deliverables will be used as input for those final exercises. Let’s call those once-removed exercises
 - Now repeat this for any twice- or thrice-removed exercises until you get to the beginning of your workshop
 
-We have a huge repository of workshop exercises you can use to build your perfect agenda. → [FigJam](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=0%3A1&t=rSteFqTPfiZLKbWL-1)
+We have a [huge repository of workshop exercises](https://www.figma.com/file/ih3OpB8A13c9iE40SkLit4/Ultimate-remote-workshop-template?type=whiteboard&node-id=0%3A1&t=rSteFqTPfiZLKbWL-1) you can use to build your perfect agenda.
 
 ## Planning resources
 Three types of resources you need to plan out in an agenda – participants, time and materials.
