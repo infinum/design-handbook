@@ -15,6 +15,8 @@ If you decide to use stock photos for a client project, follow these steps to en
 3. Assist clients in setting up their own stock service account.
 4. Guide clients through the process of purchasing and downloading the licensed photos.
 
+If you plan to use AI-generated assets in your work, check the [AI tools](https://infinum.com/handbook/design/tools/ai-tools#ai-generated-assets) chapter for more information.
+
 ## Guidelines for using Shutterstock for internal projects
 
 You can use [Shutterstock](https://www.shutterstock.com/) photos for Infinum Web, internal projects, or any promotional materials related to Infinum, provided the images are properly licensed. Please contact the Marketing team to purchase the necessary licenses for the images you wish to use.
