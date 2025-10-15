@@ -34,6 +34,19 @@ Check the latest information on ChatGPT data controls [here](https://help.openai
 
 When using NotionAI, your data is protected under Notion's standard [data protection practices](https://www.notion.so/security). Notion AI will not use your data to train models. Check the latest information on NotionAI [here.](https://www.notion.so/fa9034c8b5a04818a6baf3eac2adddbb)
 
+## AI-generated assets
+
+AI-generated assets refer to **images, 3D graphics, icons**, and similar visuals you create with AI for client projects. The legal status of assets created by generative AI tools is currently a legal grey area.
+
+Since it is often unknown how AI models are trained, there is no guarantee that the generated asset will not infringe upon existing copyrighted or original work. This lack of clear provenance means we cannot, at this moment, guarantee the client full, undisputed legal ownership of these assets.
+
+To protect our clients (and ourselves) from potential future legal troubles, the following two steps are **mandatory** before using any AI-generated asset:
+
+* Inform the client: You must inform the client that the legal ownership and copyright of the AI-generated asset are not fully established or guaranteed due to its method of creation.
+* Obtain **written approval:** You must obtain **written consent** from the client that they acknowledge the risk outlined above and approve the use of the specific AI-generated assets in their project.
+
+These steps apply to all new and ongoing projects utilizing these assets. If you have any questions about this policy or need clarification on anything, feel free to contact Kata Juras or our Legal Affairs Director Dora Stulić.
+
 
 ## Prompt writing tips
 **Ask to assume the role of an expert:**
