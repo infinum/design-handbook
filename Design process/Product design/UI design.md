@@ -25,10 +25,10 @@ While approaching the end of the design phase, make sure you have:
 
 - a styleguide with colors, typography, brand elements and components
 - all the screens set in color and typography styles organized in components
-- [screens organized in flows separated into different pages](https://infinum.com/handbook/design/design-process/handoff/design-files-and-project-folders)
+- screens organized in flows separated into different pages
 - archive page or duplicated file with old iterations and unused versions
 - comments with specific behavior and flow descriptions for developers
-- App Store and Play Store icons, screenshots, and [featured graphics](https://infinum.com/handbook/books/design/design-process/handoff/export#store-promotional-visuals) for mobile apps
+- App Store and Play Store icons, screenshots, and [featured graphics](https://infinum.com/handbook/design/design-process/handover/export#promotional-graphic-assets-for-app-store-and-play-store) for mobile apps
 - Complete UI stack (↓) of the screens and components
 
 ![](/img/designprocess-ui-stack.png)
