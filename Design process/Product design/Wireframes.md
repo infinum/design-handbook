@@ -12,7 +12,7 @@ Wireframes help us with:
 - figure out any technical restrictions and staying within the scope for development
 - getting feedback from the clients and project team.
 
-Wireframes are also useful for creating quick [prototypes](https://infinum.com/handbook/books/design/design-process/discovery/prototype), which we often use during usability testing with users.
+Wireframes are also useful for creating quick [prototypes](https://infinum.com/handbook/design/design-process/product-design/prototype), which we often use during usability testing with users.
 
 It's not necessary to design all the screen states during the wireframe phase. It's just important to get the structure and the flows right.
 
