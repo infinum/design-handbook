@@ -1,3 +1,5 @@
+Ana
+
 This is your **the bread and butter of every feature and product discovery**. Preparing, leading, and reporting on workshop findings is also the core methodology of product strategy. 
 
 A workshop is the best way to **build rapport with clients** early in the project and strengthen their perceived competence and authority in the product domain. Other than the client’s team, our internal project team will be present, so you’ll be able to establish rapport with colleagues that will be crucial for delivering value to the client.
