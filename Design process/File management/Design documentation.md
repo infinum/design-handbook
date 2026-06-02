@@ -64,19 +64,19 @@ On the other hand, if you are just now building a foundation of what promises to
 
 <img width="2834" alt="2" src="https://user-images.githubusercontent.com/24880388/233975678-80d7dc3c-34db-4b20-8d0d-8b9d12333577.png">
 
-<h2>Useful links</h3>
+##Useful links##
 
 Here are some best practice examples to get you started:
 
-<h3>Industry standards:</h3>
+**Industry standards:**
 
-**Mobile & web**
+Mobile & web
 
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
 - [Material Design 3](https://m3.material.io/) 
 - [Microsoft Fluent 2](https://fluent2.microsoft.design/)
 
-**Web**
+Web
 
 - [Ant Design](https://ant.design/)
 - [Atlassian Design](https://atlassian.design/)
@@ -91,7 +91,7 @@ Here are some best practice examples to get you started:
 - [Spectrum, Adobe’s design system](https://spectrum.adobe.com/)
 - [Sprout Social](https://seeds.sproutsocial.com/)
 
-<h3>Directories and indexes:</h3>
+**Directories and indexes:**
 
 - [Design Systems Surf](https://designsystems.surf/)
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/)
