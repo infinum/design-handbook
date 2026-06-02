@@ -69,6 +69,7 @@ On the other hand, if you are just now building a foundation of what promises to
 Here are some best practice examples to get you started:
 
 **Industry standards:**
+
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
 - [Material Design 3](https://m3.material.io/) 
 - [Microsoft Fluent 2](https://fluent2.microsoft.design/)
@@ -86,6 +87,7 @@ Here are some best practice examples to get you started:
 - [Sprout Social](https://seeds.sproutsocial.com/)
 
 **Directories and indexes:**
+
 - [Design Systems Surf](https://designsystems.surf/)
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/)
 - [Adele by UXPin](https://adele.uxpin.com/)
