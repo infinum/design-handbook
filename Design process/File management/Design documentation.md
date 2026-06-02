@@ -68,7 +68,7 @@ On the other hand, if you are just now building a foundation of what promises to
 
 Here are some best practice examples to get you started:
 
-### Industry standards: ###
+<h3>Industry standards:</h3>
 
 **Mobile & web**
 
@@ -91,7 +91,8 @@ Here are some best practice examples to get you started:
 - [Spectrum, Adobe’s design system](https://spectrum.adobe.com/)
 - [Sprout Social](https://seeds.sproutsocial.com/)
 
-### Directories and indexes: ###
+<h3>Directories and indexes:</h3>
+
 - [Design Systems Surf](https://designsystems.surf/)
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/)
 - [Adele by UXPin](https://adele.uxpin.com/)
