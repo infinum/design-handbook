@@ -68,9 +68,30 @@ On the other hand, if you are just now building a foundation of what promises to
 
 Here are some best practice examples to get you started:
 
-- [Material Design 3 - Web guidelines](https://m3.material.io/) 
-- [Material Design 3 - Figma Design Kit](https://www.figma.com/community/file/1035203688168086460)
-- [Ant Design System](https://www.figma.com/community/file/831698976089873405)
-- [IBM Carbon Design System](https://www.figma.com/community/file/1127112416656936951)
-- [Shopify Polaris Design System](https://polaris.shopify.com/patterns)
-- [Design systems publication by Figma](https://www.designsystems.com/)
+### Industry standards: ###
+
+**Mobile & web**
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
+- [Material Design 3](https://m3.material.io/) 
+- [Microsoft Fluent 2](https://fluent2.microsoft.design/)
+
+**Web**
+- [Ant Design](https://ant.design/)
+- [Atlassian Design](https://atlassian.design/)
+- [Base Web](https://baseweb.design/)
+- [GOV.UK Design System](https://design-system.service.gov.uk/)
+- [Helsinki Design System](https://hds.hel.fi/)
+- [IBM Carbon Design System](https://carbondesignsystem.com/)
+- [Nord Design System](https://nordhealth.design/)
+- [Pinterest’s Design System Gestalt](https://gestalt.pinterest.systems/)
+- [Primer - The design system for GitHub](https://primer.style/)
+- [Shopify Polaris React](https://shopify.dev/docs/api/app-home/web-components)
+- [Spectrum, Adobe’s design system](https://spectrum.adobe.com/)
+- [Sprout Social](https://seeds.sproutsocial.com/)
+
+### Directories and indexes: ###
+- [Design Systems Surf](https://designsystems.surf/)
+- [Design Systems Repo](https://designsystemsrepo.com/design-systems/)
+- [Adele by UXPin](https://adele.uxpin.com/)
+- [The Component Gallery](https://component.gallery/)
+- [Design systems by Figma](https://www.designsystems.com/)
