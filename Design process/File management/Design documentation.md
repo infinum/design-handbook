@@ -93,3 +93,5 @@ Here are some best practice examples to get you started:
 - [Adele by UXPin](https://adele.uxpin.com/)
 - [The Component Gallery](https://component.gallery/)
 - [Design systems by Figma](https://www.designsystems.com/)
+
+Want more inspiration? Browse the [design libraries from our projects (🔒Internal use)](https://docs.google.com/document/d/1U6d1fOArsyB-J0IB0c_FRl26tG3sw8aYovdpzIz4HQU/edit?usp=sharing).
