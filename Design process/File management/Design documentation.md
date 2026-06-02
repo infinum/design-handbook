@@ -71,11 +71,13 @@ Here are some best practice examples to get you started:
 ### Industry standards: ###
 
 **Mobile & web**
+
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
 - [Material Design 3](https://m3.material.io/) 
 - [Microsoft Fluent 2](https://fluent2.microsoft.design/)
 
 **Web**
+
 - [Ant Design](https://ant.design/)
 - [Atlassian Design](https://atlassian.design/)
 - [Base Web](https://baseweb.design/)
