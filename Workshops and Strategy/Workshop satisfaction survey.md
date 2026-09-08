@@ -10,7 +10,7 @@ You’ve been added as a collaborator to the form, search “Workshop satisfacti
 Before sending out the survey, you need to **pre-fill some workshop-specific data**: client name, project name, and type of workshop.
 First, tap on the three dots in the top right corner. Then select “Get pre-filled link.”
 
-![Gettting a pre-filled link](/img/Sending_workshop_satisfaction_survey.png "Getting a pre-filled link in Google Forms")
+![Gettting a pre-filled link](/img/Sending_workshop_satisfaction_survey-2.png "Getting a pre-filled link in Google Forms")
 
 A new window that looks the same as the standard survey response will open, but the button at the bottom says “Get link” instead of “Submit.” **Add client name, project name, and type of workshop**. And then click “Get link.” Here’s an [example of a mock pre-filled link](https://docs.google.com/forms/d/e/1FAIpQLSdoQYw_nHpTlY4uoKuN8Lp5p9zyDla0AovNTckl8qcf4rSaGg/viewform?usp=pp_url&entry.912435892=Infinum&entry.1649514705=Haggear&entry.1380800813=Validation).
 
