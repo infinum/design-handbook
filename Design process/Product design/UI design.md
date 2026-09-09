@@ -9,9 +9,9 @@ Through UI design, our task is to:
 - make the app communicate the same brand values as the company does
 - achieve consistency throughout the features and mobile platforms
 
-## Iterating on the UI
+![](/img/UI-1.jpg)
 
-![](/img/designprocess-ui-iterations.png)
+## Iterating on the UI
 
 Before you dig into the UI design of every screen, make as many versions as possible to find the right visual fit. Present 2 (3 at most) polished versions to the client. You don't want to confuse them with too many ideas and variations. You are the expert, and you need to show your skills and expertise in the best light.
 
@@ -29,9 +29,9 @@ While approaching the end of the design phase, make sure you have:
 - archive page or duplicated file with old iterations and unused versions
 - comments with specific behavior and flow descriptions for developers
 - App Store and Play Store icons, screenshots, and [featured graphics](https://infinum.com/handbook/design/design-process/handover/export#promotional-graphic-assets-for-app-store-and-play-store) for mobile apps
-- Complete UI stack (↓) of the screens and components
+- Complete UI stack (empty, partial, loading, error, ideal state) of the screens and components
 
-![](/img/designprocess-ui-stack.png)
+![](/img/UI-2.jpg)
 
 ## Type foundries
 
