@@ -38,11 +38,11 @@ While approaching the end of the design phase, make sure you have:
 ### Paid foundries
 - [Type Foundry Index](https://type.lol/)
 - [Fonts by Hoefler&Co.](https://www.typography.com/)
-- [Type Network](https://fontbureau.typenetwork.com/)
+- [Type Network](https://www.typenetwork.com/)
 - [Typotheque](https://www.typotheque.com/)
 - [Klim Type Foundry](https://klim.co.nz/)
 - [Darden Studio](https://www.dardenstudio.com/)
-- [Colophon Foundry](https://www.colophon-foundry.org/)
+- [Monotype Fonts](https://www.monotype.com/)
 - [Order](https://order.design/)
 
 ### Free foundries
@@ -57,7 +57,6 @@ While approaching the end of the design phase, make sure you have:
 
 #### Useful typography links
 - [Fonts In Use](https://fontsinuse.com/)
-- [Fonts in the Wild](https://www.fontsinthewild.com/free)
 - [Typographica](https://typographica.org)
 - [Typewolf](https://www.typewolf.com/)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) or [Font Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
@@ -83,7 +82,6 @@ These icon sets are free to use and are open-source. You can use them freely in 
 - [Material Symbols & Icons - Gooogle Fonts](https://fonts.google.com/icons)
 - [Feather icons](https://feathericons.com/)
 - [CSS Symbols](https://css.gg/icons)
-- [Mono Icons](https://icons.mono.company/)
 - [Ikonate](https://ikonate.com/)
 
 ### Free icons (Attribution required)
@@ -91,7 +89,6 @@ These icon sets are also free to use and are open-source, meaning that you can u
 
 - [Tabler icons](https://tabler.io/icons)
 - [Phosphor Icons](https://phosphoricons.com/)
-- [Atlas Icons](https://atlasicons.vectopus.com/)
 
 ### Freemium (Attribution required)
 These icon sets are available in both free and paid versions. In most cases, the free version requires attribution, so it's recommended to **include the original copyright and license notices in your project**, just in case.
@@ -102,6 +99,6 @@ Streamline's licensing terms permit usage of free icons in unlimited projects, b
 
 
 ## 📚 Recommended reading
-- [Handbook: Learning materials/UI Patterns + Inspiration](https://infinum.com/handbook/books/design/resources/learning-materials#inspiration)
+- [Handbook: Learning materials/UI Patterns + Inspiration](https://infinum.com/handbook/design/mentoring-and-education/learning-materials)
 - [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
 - [Visibility of System Status](https://www.nngroup.com/articles/visibility-system-status/)
