@@ -87,6 +87,7 @@ Use [Pocket](https://getpocket.com/) or [Matter](https://hq.getmatter.com/web-ex
 - [Brand vs Branding vs Identity](https://www.ebaqdesign.com/blog/branding-brand-identity)
 - [Building the Maze brand](https://maze.co/blog/building-the-maze-brand/)
 - [What is a brand](https://matthewstrom.com/writing/what-is-a-brand/)
+- [The Brand Identity](https://the-brandidentity.com/) - branding inspiration
 
 
 ## Inspiration
