@@ -88,7 +88,6 @@ These icon sets are free to use and are open-source. You can use them freely in 
 - [Material Symbols & Icons - Gooogle Fonts](https://fonts.google.com/icons)
 - [Feather icons](https://feathericons.com/)
 - [CSS Symbols](https://css.gg/icons)
-- [Ikonate](https://ikonate.com/)
 
 ### Free icons (Attribution required)
 These icon sets are also free to use and are open-source, meaning that you can use, modify and distribute them freely, provided you **include the original copyright and license notices in your project**. There is no limit on the number of icons you can use per project. They can be used across various platforms, including mobile and web apps, WordPress sites, and in webpage builders.
