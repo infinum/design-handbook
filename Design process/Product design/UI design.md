@@ -19,6 +19,8 @@ Put together a moodboard to define the visual direction of your design. This can
 
 Apply the brand to a few key wireframes and put together a starting styleguide with colors, typography, and basic components. Make as many versions as possible of key UI screens to find the right visual fit. Present 2 (3 at most) polished versions to the client. You don't want to confuse them with too many ideas and variations. You are the expert, and you need to show your skills and expertise in the best light.
 
+For a starting point, browse [curated brand and product examples, UX/UI patterns, and inspiration collections.](https://infinum.com/handbook/design/mentoring-and-education/learning-materials)
+
 ## Testing the UI with users
 
 If you're working on a project highly influenced by user opinion, you can use the [desirability testing](https://infinum.com/handbook/design/research/evaluative-research/desirability-testing) method to ask the users which version of the UI design is better. Desirability testing helps us get objective feedback from users. We usually show them 2-3 versions of the UI and ask them to choose terms from the list of adjectives that describe the version best. The proposal which overlaps the most with the objectives we have set for UI design wins.
