@@ -15,7 +15,7 @@ Through UI design, our task is to:
 
 Before you dig into the UI design of every screen, look at how competitors solve similar problems visually. If the UX research included a heuristic competitor analysis, revisit it. Compare specific patterns (login, checkout, etc.) across direct and indirect competitors. This can help you make an informed choice to follow or break from what the users are already familiar with.
 
-Put together a moodboard to define the visual direction of your design. This can include anything from color and typography to imagery and UI references. A single Figma page (or FigJam board) will do.
+Put together a moodboard to define the visual direction of your design. This can include anything from color and typography to imagery and UI references. Use [Pinterest](https://www.pinterest.com/) or [Cosmos](https://www.cosmos.so/) to collect references, then bring them together in a single Figma page (or FigJam board).
 
 Apply the brand to a few key wireframes and put together a starting styleguide with colors, typography, and basic components. Make as many versions as possible of key UI screens to find the right visual fit. Present 2 (3 at most) polished versions to the client. You don't want to confuse them with too many ideas and variations. You are the expert, and you need to show your skills and expertise in the best light.
 
