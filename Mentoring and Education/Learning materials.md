@@ -39,6 +39,7 @@ Use [Pocket](https://getpocket.com/) or [Matter](https://hq.getmatter.com/web-ex
 - [User Onboard](https://www.useronboard.com/)
 - [AIGA Eye On Design](https://eyeondesign.aiga.org/)
 - [Design Observer](https://designobserver.com/)
+- [It's Nice That](https://www.itsnicethat.com/)
 
 
 ## Recommended reading
